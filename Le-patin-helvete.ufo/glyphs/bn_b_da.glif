@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_b_da" format="1">
+  <advance width="603"/>
+  <outline>
+    <contour>
+      <point x="81" y="360" type="qcurve"/>
+      <point x="111" y="352"/>
+      <point x="203" y="292"/>
+      <point x="221" y="270" type="qcurve"/>
+      <point x="221" y="435" type="line"/>
+      <point x="130" y="398"/>
+    </contour>
+    <contour>
+      <point x="18" y="378" type="line"/>
+      <point x="82" y="428"/>
+      <point x="221" y="487" type="qcurve"/>
+      <point x="221" y="507" type="line"/>
+      <point x="-23" y="507" type="line"/>
+      <point x="-23" y="558" type="line"/>
+      <point x="641" y="558" type="line"/>
+      <point x="641" y="507" type="line"/>
+      <point x="272" y="507" type="line"/>
+      <point x="272" y="273" type="line"/>
+      <point x="374" y="407"/>
+      <point x="524" y="421" type="qcurve"/>
+      <point x="568" y="388" type="line"/>
+      <point x="537" y="336"/>
+      <point x="522" y="239"/>
+      <point x="522" y="158" type="qcurve" smooth="yes"/>
+      <point x="522" y="80"/>
+      <point x="543" y="7" type="qcurve"/>
+      <point x="497" y="-2" type="line"/>
+      <point x="471" y="79"/>
+      <point x="471" y="184" type="qcurve" smooth="yes"/>
+      <point x="471" y="200"/>
+      <point x="472" y="211" type="qcurve" smooth="yes"/>
+      <point x="476" y="245" type="line" smooth="yes"/>
+      <point x="487" y="335"/>
+      <point x="500" y="362" type="qcurve"/>
+      <point x="448" y="355"/>
+      <point x="361" y="300"/>
+      <point x="308" y="227"/>
+      <point x="279" y="170"/>
+      <point x="272" y="146" type="qcurve"/>
+      <point x="215" y="184" type="line"/>
+      <point x="176" y="274"/>
+      <point x="51" y="322" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

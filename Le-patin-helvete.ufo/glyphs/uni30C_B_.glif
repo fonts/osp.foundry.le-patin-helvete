@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni30CB" format="1">
+  <advance width="1000"/>
+  <unicode hex="30CB"/>
+  <outline>
+    <contour>
+      <point x="99" y="81" type="line"/>
+      <point x="99" y="146" type="line"/>
+      <point x="907" y="146" type="line"/>
+      <point x="907" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="585" type="line"/>
+      <point x="208" y="650" type="line"/>
+      <point x="770" y="650" type="line"/>
+      <point x="770" y="585" type="line"/>
+    </contour>
+  </outline>
+</glyph>

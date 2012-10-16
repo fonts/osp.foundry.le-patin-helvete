@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="1">
+  <advance width="786"/>
+  <unicode hex="0388"/>
+  <outline>
+    <contour>
+      <point x="310" y="82" type="line"/>
+      <point x="310" y="1" type="line"/>
+      <point x="216" y="1" type="line"/>
+      <point x="216" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="730" type="line"/>
+      <point x="310" y="649" type="line"/>
+      <point x="216" y="649" type="line"/>
+      <point x="216" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="833" y="164" type="line"/>
+      <point x="833" y="83" type="line"/>
+      <point x="739" y="83" type="line"/>
+      <point x="739" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="815" y="648" type="line"/>
+      <point x="815" y="567" type="line"/>
+      <point x="721" y="567" type="line"/>
+      <point x="721" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="333" type="line"/>
+      <point x="403" y="83" type="line"/>
+      <point x="833" y="83" type="line"/>
+      <point x="833" y="1" type="line"/>
+      <point x="310" y="1" type="line"/>
+      <point x="310" y="730" type="line"/>
+      <point x="815" y="730" type="line"/>
+      <point x="815" y="648" type="line"/>
+      <point x="403" y="648" type="line"/>
+      <point x="403" y="415" type="line"/>
+      <point x="800" y="415" type="line"/>
+      <point x="800" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="740" type="line"/>
+      <point x="169" y="740" type="line"/>
+      <point x="20" y="592" type="line"/>
+      <point x="-40" y="592" type="line"/>
+    </contour>
+  </outline>
+</glyph>

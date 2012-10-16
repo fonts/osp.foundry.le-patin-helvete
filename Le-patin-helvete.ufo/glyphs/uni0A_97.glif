@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A97" format="1">
+  <advance width="623"/>
+  <unicode hex="0A97"/>
+  <outline>
+    <contour>
+      <point x="586" y="-45" type="line"/>
+      <point x="482" y="-45" type="line"/>
+      <point x="482" y="497" type="line"/>
+      <point x="586" y="497" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="250" type="qcurve" smooth="yes"/>
+      <point x="300" y="272"/>
+      <point x="289" y="313"/>
+      <point x="263" y="353"/>
+      <point x="212" y="377"/>
+      <point x="177" y="377" type="qcurve" smooth="yes"/>
+      <point x="156" y="377"/>
+      <point x="80" y="365"/>
+      <point x="74" y="359" type="qcurve"/>
+      <point x="74" y="447" type="line"/>
+      <point x="119" y="459"/>
+      <point x="181" y="459" type="qcurve" smooth="yes"/>
+      <point x="298" y="459"/>
+      <point x="355" y="401" type="qcurve"/>
+      <point x="363" y="395"/>
+      <point x="382" y="373"/>
+      <point x="399" y="350"/>
+      <point x="411" y="314"/>
+      <point x="411" y="293" type="qcurve" smooth="yes"/>
+      <point x="409" y="236" type="line"/>
+      <point x="406" y="216"/>
+      <point x="395" y="174"/>
+      <point x="362" y="114"/>
+      <point x="317" y="69"/>
+      <point x="236" y="37"/>
+      <point x="186" y="37" type="qcurve" smooth="yes"/>
+      <point x="158" y="37"/>
+      <point x="108" y="48"/>
+      <point x="74" y="63"/>
+      <point x="43" y="91"/>
+      <point x="25" y="110"/>
+      <point x="7" y="145"/>
+      <point x="1" y="159"/>
+      <point x="-4" y="175" type="qcurve" smooth="yes"/>
+      <point x="-10" y="191" type="line"/>
+      <point x="-10" y="194"/>
+      <point x="-11" y="196" type="qcurve"/>
+      <point x="76" y="208" type="line"/>
+      <point x="75" y="202" type="line"/>
+      <point x="79" y="184"/>
+      <point x="145" y="121"/>
+      <point x="184" y="121" type="qcurve" smooth="yes"/>
+      <point x="241" y="121"/>
+      <point x="300" y="198"/>
+    </contour>
+  </outline>
+</glyph>

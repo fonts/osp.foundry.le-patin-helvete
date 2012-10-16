@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_kaphala" format="1">
+  <advance width="78"/>
+  <outline>
+    <contour>
+      <point x="-148" y="319" type="line"/>
+      <point x="-234" y="298"/>
+      <point x="-305" y="229" type="qcurve"/>
+      <point x="-278" y="226"/>
+      <point x="-246" y="219"/>
+      <point x="-177" y="178"/>
+      <point x="-148" y="143" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="-151" y="370" type="qcurve"/>
+      <point x="-55" y="370"/>
+      <point x="72" y="288"/>
+      <point x="72" y="220" type="qcurve" smooth="yes"/>
+      <point x="72" y="140"/>
+      <point x="-20" y="124" type="qcurve"/>
+      <point x="-49" y="164" type="line"/>
+      <point x="-43" y="163" type="line"/>
+      <point x="-20" y="163"/>
+      <point x="21" y="198"/>
+      <point x="21" y="223" type="qcurve" smooth="yes"/>
+      <point x="21" y="243"/>
+      <point x="-26" y="302"/>
+      <point x="-62" y="302" type="qcurve" smooth="yes"/>
+      <point x="-73" y="302" type="line" smooth="yes"/>
+      <point x="-88" y="302"/>
+      <point x="-97" y="301" type="qcurve"/>
+      <point x="-97" y="-20" type="line"/>
+      <point x="-147" y="-20" type="line"/>
+      <point x="-147" y="51" type="line"/>
+      <point x="-186" y="129"/>
+      <point x="-277" y="184"/>
+      <point x="-342" y="184" type="qcurve" smooth="yes"/>
+      <point x="-345" y="184" type="line"/>
+      <point x="-378" y="232" type="line"/>
+      <point x="-337" y="268" type="line" smooth="yes"/>
+      <point x="-293" y="307"/>
+      <point x="-218" y="347"/>
+    </contour>
+    <contour>
+      <point x="-74" y="507" type="line"/>
+      <point x="-74" y="558" type="line"/>
+      <point x="95" y="558" type="line"/>
+      <point x="95" y="507" type="line"/>
+    </contour>
+  </outline>
+</glyph>

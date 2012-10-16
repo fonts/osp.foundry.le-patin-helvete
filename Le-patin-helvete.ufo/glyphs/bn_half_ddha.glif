@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_half_ddha" format="1">
+  <advance width="291"/>
+  <outline>
+    <contour>
+      <point x="114" y="147" type="qcurve" smooth="yes"/>
+      <point x="88" y="147"/>
+      <point x="38" y="200"/>
+      <point x="38" y="235" type="qcurve" smooth="yes"/>
+      <point x="38" y="507" type="line"/>
+      <point x="-31" y="507" type="line"/>
+      <point x="-31" y="558" type="line"/>
+      <point x="307" y="558" type="line"/>
+      <point x="307" y="507" type="line"/>
+      <point x="89" y="507" type="line"/>
+      <point x="89" y="237" type="line" smooth="yes"/>
+      <point x="89" y="224"/>
+      <point x="105" y="198"/>
+      <point x="114" y="198" type="qcurve" smooth="yes"/>
+      <point x="154" y="198"/>
+      <point x="227" y="322"/>
+      <point x="227" y="360" type="qcurve" smooth="yes"/>
+      <point x="227" y="387"/>
+      <point x="206" y="387" type="qcurve" smooth="yes"/>
+      <point x="196" y="387"/>
+      <point x="178" y="375" type="qcurve"/>
+      <point x="156" y="415" type="line"/>
+      <point x="188" y="438"/>
+      <point x="208" y="438" type="qcurve" smooth="yes"/>
+      <point x="246" y="438"/>
+      <point x="278" y="390"/>
+      <point x="278" y="358" type="qcurve" smooth="yes"/>
+      <point x="278" y="291"/>
+      <point x="168" y="147"/>
+    </contour>
+  </outline>
+</glyph>

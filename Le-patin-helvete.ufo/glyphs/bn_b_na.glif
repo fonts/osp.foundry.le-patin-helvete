@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_b_na" format="1">
+  <advance width="377"/>
+  <outline>
+    <contour>
+      <point x="298" y="413" type="line"/>
+      <point x="268" y="407"/>
+      <point x="196" y="371" type="qcurve"/>
+      <point x="157" y="350" type="line" smooth="yes"/>
+      <point x="118" y="329"/>
+      <point x="103" y="314" type="qcurve"/>
+      <point x="140" y="309"/>
+      <point x="276" y="221"/>
+      <point x="298" y="177" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="298" y="89" type="line"/>
+      <point x="282" y="135"/>
+      <point x="128" y="271"/>
+      <point x="71" y="271" type="qcurve" smooth="yes"/>
+      <point x="63" y="271" type="line"/>
+      <point x="57" y="269" type="line"/>
+      <point x="24" y="323" type="line"/>
+      <point x="150" y="421"/>
+      <point x="298" y="464" type="qcurve"/>
+      <point x="298" y="507" type="line"/>
+      <point x="-25" y="507" type="line"/>
+      <point x="-25" y="558" type="line"/>
+      <point x="414" y="558" type="line"/>
+      <point x="414" y="507" type="line"/>
+      <point x="349" y="507" type="line"/>
+      <point x="349" y="-156" type="line"/>
+      <point x="298" y="-156" type="line"/>
+      <point x="298" y="-76" type="line"/>
+      <point x="237" y="69"/>
+      <point x="142" y="69" type="qcurve" smooth="yes"/>
+      <point x="126" y="69"/>
+      <point x="89" y="44"/>
+      <point x="89" y="18" type="qcurve" smooth="yes"/>
+      <point x="89" y="1"/>
+      <point x="103" y="-17"/>
+      <point x="133" y="-31" type="qcurve"/>
+      <point x="119" y="-73" type="line"/>
+      <point x="81" y="-71"/>
+      <point x="38" y="-22"/>
+      <point x="38" y="18" type="qcurve" smooth="yes"/>
+      <point x="38" y="54"/>
+      <point x="99" y="120"/>
+      <point x="189" y="120"/>
+      <point x="261" y="70"/>
+      <point x="298" y="21" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

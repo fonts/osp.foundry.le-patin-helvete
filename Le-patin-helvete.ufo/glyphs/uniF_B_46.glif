@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB46" format="1">
+  <advance width="590"/>
+  <unicode hex="FB46"/>
+  <outline>
+    <contour>
+      <point x="524" y="446" type="line"/>
+      <point x="510" y="369"/>
+      <point x="421" y="276"/>
+      <point x="362" y="269" type="qcurve"/>
+      <point x="533" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="59" y="76" type="line"/>
+      <point x="385" y="76" type="line"/>
+      <point x="51" y="600" type="line"/>
+      <point x="151" y="600" type="line"/>
+      <point x="316" y="341" type="line"/>
+      <point x="332" y="341"/>
+      <point x="366" y="349"/>
+      <point x="396" y="364"/>
+      <point x="426" y="413"/>
+      <point x="437" y="453" type="qcurve"/>
+      <point x="437" y="600" type="line"/>
+      <point x="524" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="277" type="line"/>
+      <point x="203" y="277" type="line"/>
+      <point x="203" y="206" type="line"/>
+      <point x="132" y="206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

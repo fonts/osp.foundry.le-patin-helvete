@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcommaaccent" format="1">
+  <advance width="725"/>
+  <unicode hex="0137"/>
+  <outline>
+    <component base="comma" xOffset="183" yOffset="-163"/>
+    <component base="k" xOffset="136"/>
+  </outline>
+</glyph>

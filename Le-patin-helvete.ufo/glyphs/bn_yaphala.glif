@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_yaphala" format="1">
+  <advance width="241"/>
+  <outline>
+    <contour>
+      <point x="78" y="376" type="qcurve" smooth="yes"/>
+      <point x="78" y="451"/>
+      <point x="128" y="507" type="qcurve"/>
+      <point x="-31" y="507" type="line"/>
+      <point x="-31" y="558" type="line"/>
+      <point x="253" y="558" type="line"/>
+      <point x="253" y="507" type="line"/>
+      <point x="194" y="507" type="line"/>
+      <point x="129" y="436"/>
+      <point x="129" y="372" type="qcurve"/>
+      <point x="158" y="142" type="line"/>
+      <point x="158" y="73"/>
+      <point x="91" y="4"/>
+      <point x="1" y="-27" type="qcurve"/>
+      <point x="-13" y="21" type="line"/>
+      <point x="30" y="33"/>
+      <point x="81" y="62"/>
+      <point x="102" y="103"/>
+      <point x="107" y="136"/>
+      <point x="107" y="167" type="qcurve" smooth="yes"/>
+      <point x="107" y="178"/>
+      <point x="78" y="352"/>
+    </contour>
+  </outline>
+</glyph>

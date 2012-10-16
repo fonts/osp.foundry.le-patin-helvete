@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928_uni094D.half" format="1">
+  <advance width="318"/>
+  <outline>
+    <contour>
+      <point x="318" y="541" type="line"/>
+      <point x="0" y="541" type="line"/>
+      <point x="0" y="613" type="line"/>
+      <point x="318" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="348" type="qcurve" smooth="yes"/>
+      <point x="41" y="366"/>
+      <point x="70" y="404"/>
+      <point x="90" y="404" type="qcurve" smooth="yes"/>
+      <point x="418" y="404" type="line"/>
+      <point x="418" y="333" type="line"/>
+      <point x="194" y="333" type="line"/>
+      <point x="194" y="247" type="line" smooth="yes"/>
+      <point x="194" y="224"/>
+      <point x="184" y="212"/>
+      <point x="163" y="212" type="qcurve" smooth="yes"/>
+      <point x="146" y="212"/>
+      <point x="41" y="327"/>
+    </contour>
+  </outline>
+</glyph>

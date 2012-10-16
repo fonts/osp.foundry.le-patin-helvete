@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_below_ba2" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-236" y="232" type="qcurve"/>
+      <point x="-163" y="194"/>
+      <point x="-129" y="150" type="qcurve"/>
+      <point x="-129" y="304" type="line"/>
+      <point x="-182" y="276"/>
+    </contour>
+    <contour>
+      <point x="-300" y="244" type="line"/>
+      <point x="-252" y="285"/>
+      <point x="-129" y="361" type="qcurve"/>
+      <point x="-129" y="394" type="line"/>
+      <point x="-78" y="394" type="line"/>
+      <point x="-78" y="33" type="line"/>
+      <point x="-129" y="33" type="line"/>
+      <point x="-129" y="63" type="line"/>
+      <point x="-150" y="98"/>
+      <point x="-195" y="149"/>
+      <point x="-232" y="174"/>
+      <point x="-270" y="196"/>
+      <point x="-284" y="202" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_ukaar" format="1">
+  <advance width="0"/>
+  <unicode hex="09C1"/>
+  <outline>
+    <contour>
+      <point x="-154" y="21" type="qcurve" smooth="yes"/>
+      <point x="-130" y="21"/>
+      <point x="-82" y="-4" type="qcurve"/>
+      <point x="-81" y="6" type="line"/>
+      <point x="-81" y="20"/>
+      <point x="-93" y="51" type="qcurve"/>
+      <point x="-51" y="76" type="line"/>
+      <point x="-30" y="13"/>
+      <point x="-30" y="-8" type="qcurve" smooth="yes"/>
+      <point x="-30" y="-13"/>
+      <point x="-31" y="-18" type="qcurve" smooth="yes"/>
+      <point x="-34" y="-38" type="line"/>
+      <point x="-3" y="-63" type="line" smooth="yes"/>
+      <point x="32" y="-91"/>
+      <point x="93" y="-164"/>
+      <point x="105" y="-183" type="qcurve"/>
+      <point x="65" y="-214" type="line"/>
+      <point x="17" y="-148"/>
+      <point x="-60" y="-83" type="qcurve"/>
+      <point x="-117" y="-140"/>
+      <point x="-177" y="-140" type="qcurve" smooth="yes"/>
+      <point x="-209" y="-140"/>
+      <point x="-251" y="-93"/>
+      <point x="-251" y="-59" type="qcurve" smooth="yes"/>
+      <point x="-251" y="-36"/>
+      <point x="-204" y="21"/>
+    </contour>
+    <contour>
+      <point x="-200" y="-62" type="qcurve" smooth="yes"/>
+      <point x="-200" y="-89"/>
+      <point x="-159" y="-89" type="qcurve" smooth="yes"/>
+      <point x="-137" y="-89"/>
+      <point x="-109" y="-62"/>
+      <point x="-104" y="-49" type="qcurve"/>
+      <point x="-126" y="-30"/>
+      <point x="-155" y="-30" type="qcurve" smooth="yes"/>
+      <point x="-174" y="-30"/>
+      <point x="-200" y="-47"/>
+    </contour>
+  </outline>
+</glyph>

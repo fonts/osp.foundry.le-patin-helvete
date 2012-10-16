@@ -1,0 +1,2972 @@
+
+# GSUB 
+
+
+lookup ligaStandardLigaturesinLatinloo {
+  lookupflag 0;
+    sub \f \f  by \ff;
+    sub \f \i  by \fi;
+    sub \f \l  by \fl;
+    sub \f \f \i  by \ffi;
+    sub \f \f \l  by \ffl;
+} ligaStandardLigaturesinLatinloo;
+
+lookup initInitialFormslookup1 {
+  lookupflag 0;
+    sub \bn_ekaar by \bn_initekaar ;
+    sub \bn_aikaar by \bn_initaikaar ;
+} initInitialFormslookup1;
+
+lookup nuktNuktaFormslookup2 {
+  lookupflag 0;
+    sub \uni0A95 \uni0ABC  by \uni0A95_uni0ABC.nukt;
+    sub \uni0A96 \uni0ABC  by \uni0A96_uni0ABC.nukt;
+    sub \uni0A97 \uni0ABC  by \uni0A97_uni0ABC.nukt;
+    sub \uni0A98 \uni0ABC  by \uni0A98_uni0ABC.nukt;
+    sub \uni0A99 \uni0ABC  by \uni0A99_uni0ABC.nukt;
+    sub \uni0A9A \uni0ABC  by \uni0A9A_uni0ABC.nukt;
+    sub \uni0A9B \uni0ABC  by \uni0A9B_uni0ABC.nukt;
+    sub \uni0A9C \uni0ABC  by \uni0A9C_uni0ABC.nukt;
+    sub \uni0A9D \uni0ABC  by \uni0A9D_uni0ABC.nukt;
+    sub \uni0A9E \uni0ABC  by \uni0A9E_uni0ABC.nukt;
+    sub \uni0A9F \uni0ABC  by \uni0A9F_uni0ABC.nukt;
+    sub \uni0AA0 \uni0ABC  by \uni0AA0_uni0ABC.nukt;
+    sub \uni0AA1 \uni0ABC  by \uni0AA1_uni0ABC.nukt;
+    sub \uni0AA2 \uni0ABC  by \uni0AA2_uni0ABC.nukt;
+    sub \uni0AA3 \uni0ABC  by \uni0AA3_uni0ABC.nukt;
+    sub \uni0AA4 \uni0ABC  by \uni0AA4_uni0ABC.nukt;
+    sub \uni0AA5 \uni0ABC  by \uni0AA5_uni0ABC.nukt;
+    sub \uni0AA6 \uni0ABC  by \uni0AA6_uni0ABC.nukt;
+    sub \uni0AA7 \uni0ABC  by \uni0AA7_uni0ABC.nukt;
+    sub \uni0AA8 \uni0ABC  by \uni0AA8_uni0ABC.nukt;
+    sub \uni0AAA \uni0ABC  by \uni0AAA_uni0ABC.nukt;
+    sub \uni0AAB \uni0ABC  by \uni0AAB_uni0ABC.nukt;
+    sub \uni0AAC \uni0ABC  by \uni0AAC_uni0ABC.nukt;
+    sub \uni0AAD \uni0ABC  by \uni0AAD_uni0ABC.nukt;
+    sub \uni0AAE \uni0ABC  by \uni0AAE_uni0ABC.nukt;
+    sub \uni0AAF \uni0ABC  by \uni0AAF_uni0ABC.nukt;
+    sub \uni0AB0 \uni0ABC  by \uni0AB0_uni0ABC.nukt;
+    sub \uni0AB2 \uni0ABC  by \uni0AB2_uni0ABC.nukt;
+    sub \uni0AB3 \uni0ABC  by \uni0AB3_uni0ABC.nukt;
+    sub \uni0AB5 \uni0ABC  by \uni0AB5_uni0ABC.nukt;
+    sub \uni0AB6 \uni0ABC  by \uni0AB6_uni0ABC.nukt;
+    sub \uni0AB7 \uni0ABC  by \uni0AB7_uni0ABC.nukt;
+    sub \uni0AB8 \uni0ABC  by \uni0AB8_uni0ABC.nukt;
+    sub \uni0AB9 \uni0ABC  by \uni0AB9_uni0ABC.nukt;
+} nuktNuktaFormslookup2;
+
+lookup nuktNuktaFormslookup3 {
+  lookupflag 0;
+    sub \uni0915 \uni093C  by \uni0958;
+    sub \uni0916 \uni093C  by \uni0959;
+    sub \uni0917 \uni093C  by \uni095A;
+    sub \uni091C \uni093C  by \uni095B;
+    sub \uni0921 \uni093C  by \uni095C;
+    sub \uni0922 \uni093C  by \uni095D;
+    sub \uni092B \uni093C  by \uni095E;
+    sub \uni092F \uni093C  by \uni095F;
+    sub \uni091F \uni093C  by \uni091F_uni093C.nukt;
+    sub \uni0920 \uni093C  by \uni0920_uni093C.nukt;
+    sub \uni091B_uni094D.haln \uni093C  by \glyph249;
+    sub \uni0928_uni094D.half \uni093C  by \glyph289;
+    sub \uni0919 \uni093C  by \uni0919_uni093C.nukt;
+    sub \uni0939 \uni093C  by \uni0939_uni093C.nukt;
+    sub \uni092B \uni093C \uni094D  by \uni092B_uni093C_uni094D.nukt;
+    sub \uni091C \uni093C \uni094D  by \uni091C_uni093C_uni094D.nukt;
+} nuktNuktaFormslookup3;
+
+lookup nuktNuktaFormslookup4 {
+  lookupflag 0;
+    sub \uni0A32 \uni0A3C  by \uni0A33;
+    sub \uni0A38 \uni0A3C  by \uni0A36;
+    sub \uni0A16 \uni0A3C  by \uni0A59;
+    sub \uni0A17 \uni0A3C  by \uni0A5A;
+    sub \uni0A1C \uni0A3C  by \uni0A5B;
+    sub \uni0A2B \uni0A3C  by \uni0A5E;
+    sub \uni0A15 \uni0A3C  by \uni0A15_uni0A3C.nukt;
+    sub \uni0A15 \uni0A3C  by \uni0A15_uni0A3C.nukt;
+    sub \uni0A18 \uni0A3C  by \uni0A18_uni0A3C.nukt;
+    sub \uni0A19 \uni0A3C  by \uni0A19_uni0A3C.nukt;
+    sub \uni0A1A \uni0A3C  by \uni0A1A_uni0A3C.nukt;
+    sub \uni0A1B \uni0A3C  by \uni0A1B_uni0A3C.nukt;
+    sub \uni0A1D \uni0A3C  by \uni0A1D_uni0A3C.nukt;
+    sub \uni0A1E \uni0A3C  by \uni0A1E_uni0A3C.nukt;
+    sub \uni0A1F \uni0A3C  by \uni0A1F_uni0A3C.nukt;
+    sub \uni0A20 \uni0A3C  by \uni0A20_uni0A3C.nukt;
+    sub \uni0A22 \uni0A3C  by \uni0A22_uni0A3C.nukt;
+    sub \uni0A23 \uni0A3C  by \uni0A23_uni0A3C.nukt;
+    sub \uni0A24 \uni0A3C  by \uni0A24_uni0A3C.nukt;
+    sub \uni0A25 \uni0A3C  by \uni0A25_uni0A3C.nukt;
+    sub \uni0A26 \uni0A3C  by \uni0A26_uni0A3C.nukt;
+    sub \uni0A27 \uni0A3C  by \uni0A27_uni0A3C.nukt;
+    sub \uni0A28 \uni0A3C  by \uni0A28_uni0A3C.nukt;
+    sub \uni0A2A \uni0A3C  by \uni0A2A_uni0A3C.nukt;
+    sub \uni0A2C \uni0A3C  by \uni0A2C_uni0A3C.nukt;
+    sub \uni0A2D \uni0A3C  by \uni0A2D_uni0A3C.nukt;
+    sub \uni0A2E \uni0A3C  by \uni0A2E_uni0A3C.nukt;
+    sub \uni0A2F \uni0A3C  by \uni0A2F_uni0A3C.nukt;
+    sub \uni0A30 \uni0A3C  by \uni0A30_uni0A3C.nukt;
+    sub \uni0A35 \uni0A3C  by \uni0A35_uni0A3C.nukt;
+    sub \uni0A39 \uni0A3C  by \uni0A39_uni0A3C.nukt;
+    sub \uni0A05 \uni0A3C  by \uni0A05_uni0A3C.nukt;
+    sub \uni0A06 \uni0A3C  by \uni0A06_uni0A3C.nukt;
+    sub \uni0A07 \uni0A3C  by \uni0A07_uni0A3C.nukt;
+    sub \uni0A08 \uni0A3C  by \uni0A08_uni0A3C.nukt;
+    sub \uni0A09 \uni0A3C  by \uni0A09_uni0A3C.nukt;
+    sub \uni0A0A \uni0A3C  by \uni0A0A_uni0A3C.nukt;
+    sub \uni0A0F \uni0A3C  by \uni0A0F_uni0A3C.nukt;
+    sub \uni0A10 \uni0A3C  by \uni0A10_uni0A3C.nukt;
+    sub \uni0A13 \uni0A3C  by \uni0A13_uni0A3C.nukt;
+    sub \uni0A14 \uni0A3C  by \uni0A14_uni0A3C.nukt;
+} nuktNuktaFormslookup4;
+
+lookup akhnAkhandlookup5 {
+  lookupflag 0;
+    sub \uni0A95 \uni0ACD \uni0AB7  by \uni0A95_uni0ACD_uni0AB7.akhn;
+    sub \uni0A9C \uni0ACD \uni0A9E  by \uni0A9C_uni0ACD_uni0A9E.akhn;
+} akhnAkhandlookup5;
+
+lookup akhnAkhandlookup6 {
+  lookupflag 0;
+    sub \uni0915 \uni094D \uni0937  by \uni0915_uni094D_uni0937.akhn;
+    sub \uni091C \uni094D \uni091E  by \uni091C_uni094D_uni091E.akhn;
+} akhnAkhandlookup6;
+
+lookup akhnAkhandlookup7 {
+  lookupflag 0;
+    sub \bn_ka \bn_hasanta \bn_ssa  by \bn_k_ssa;
+} akhnAkhandlookup7;
+
+lookup ligaStandardLigaturesinArmenian {
+  lookupflag IgnoreMarks;
+    sub \uni0565 \uni0582  by \uni0587;
+} ligaStandardLigaturesinArmenian;
+
+lookup rphfRephFormlookup9 {
+  lookupflag 0;
+    sub \uni0AB0 \uni0ACD  by \uni0AB0_uni0ACD.rphf;
+} rphfRephFormlookup9;
+
+lookup rphfRephFormlookup10 {
+  lookupflag 0;
+    sub \uni0930 \uni094D  by \uni0930_uni094D.rphf;
+} rphfRephFormlookup10;
+
+lookup rphfRephFormlookup11 {
+  lookupflag 0;
+    sub \bn_asamira \bn_hasanta  by \bn_reph;
+    sub \bn_ra \bn_hasanta  by \bn_reph;
+} rphfRephFormlookup11;
+
+lookup dligDiscretionaryLigaturesinHeb {
+  lookupflag IgnoreMarks;
+    sub \afii57664 \afii57676  by \uniFB4F;
+} dligDiscretionaryLigaturesinHeb;
+
+lookup dligDiscretionaryLigaturesinLat {
+  lookupflag IgnoreMarks;
+    sub \I \J  by \IJ;
+    sub \i \j  by \ij;
+    sub \longs \t  by \uniFB05;
+} dligDiscretionaryLigaturesinLat;
+
+lookup blwfBelowBaseFormslookup14 {
+  lookupflag 0;
+    sub \uni0A30 \uni0A4D  by \uni0A30_uni0A4D.blwf;
+    sub \uni0A35 \uni0A4D  by \uni0A35_uni0A4D.blwf;
+    sub \uni0A39 \uni0A4D  by \uni0A39_uni0A4D.blwf;
+} blwfBelowBaseFormslookup14;
+
+lookup blwfBelowBaseFormslookup15 {
+  lookupflag 0;
+    sub \uni0AB0 \uni0ACD  by \uni0AB0_uni0ACD.blwf;
+} blwfBelowBaseFormslookup15;
+
+lookup blwfBelowBaseFormslookup16 {
+  lookupflag 0;
+    sub \uni0930 \uni094D  by \uni0930_uni094D.blwf;
+} blwfBelowBaseFormslookup16;
+
+lookup blwfBelowBaseFormslookup17 {
+  lookupflag 0;
+    sub \bn_ka \bn_hasanta  by \bn_kaphala;
+    sub \bn_nna \bn_hasanta  by \bn_nnaphala;
+    sub \bn_ta \bn_hasanta  by \bn_taphala;
+    sub \bn_tha \bn_hasanta  by \bn_thaphala;
+    sub \bn_dha \bn_hasanta  by \bn_dhaphala;
+    sub \bn_na \bn_hasanta  by \bn_naphala;
+    sub \bn_bha \bn_hasanta  by \bn_bhaphala;
+    sub \bn_asamira \bn_hasanta  by \bn_raphala;
+    sub \bn_ra \bn_hasanta  by \bn_raphala;
+    sub \bn_la \bn_hasanta  by \bn_laphala;
+    sub \bn_ba \bn_hasanta  by \bn_baphala;
+} blwfBelowBaseFormslookup17;
+
+lookup halfHalfFormslookup18 {
+  lookupflag 0;
+    sub \uni0A95 \uni0ACD  by \uni0A95_uni0ACD.half;
+    sub \uni0A96 \uni0ACD  by \uni0A96_uni0ACD.half;
+    sub \uni0A97 \uni0ACD  by \uni0A97_uni0ACD.half;
+    sub \uni0A98 \uni0ACD  by \uni0A98_uni0ACD.half;
+    sub \uni0A9A \uni0ACD  by \uni0A9A_uni0ACD.half;
+    sub \uni0A9C \uni0ACD  by \uni0A9C_uni0ACD.half;
+    sub \uni0A9D \uni0ACD  by \uni0A9D_uni0ACD.half;
+    sub \uni0A9E \uni0ACD  by \uni0A9E_uni0ACD.half;
+    sub \uni0AA3 \uni0ACD  by \uni0AA3_uni0ACD.half;
+    sub \uni0AA4 \uni0ACD  by \uni0AA4_uni0ACD.half;
+    sub \uni0AA5 \uni0ACD  by \uni0AA5_uni0ACD.half;
+    sub \uni0AA7 \uni0ACD  by \uni0AA7_uni0ACD.half;
+    sub \uni0AA8 \uni0ACD  by \uni0AA8_uni0ACD.half;
+    sub \uni0AAA \uni0ACD  by \uni0AAA_uni0ACD.half;
+    sub \uni0AAB \uni0ACD  by \uni0AAB_uni0ACD.half;
+    sub \uni0AAC \uni0ACD  by \uni0AAC_uni0ACD.half;
+    sub \uni0AAD \uni0ACD  by \uni0AAD_uni0ACD.half;
+    sub \uni0AAE \uni0ACD  by \uni0AAE_uni0ACD.half;
+    sub \uni0AAF \uni0ACD  by \uni0AAF_uni0ACD.half;
+    sub \uni0AB2 \uni0ACD  by \uni0AB2_uni0ACD.half;
+    sub \uni0AB3 \uni0ACD  by \uni0AB3_uni0ACD.half;
+    sub \uni0AB5 \uni0ACD  by \uni0AB5_uni0ACD.half;
+    sub \uni0AB6 \uni0ACD  by \uni0AB6_uni0ACD.half;
+    sub \uni0AB7 \uni0ACD  by \uni0AB7_uni0ACD.half;
+    sub \uni0AB8 \uni0ACD  by \uni0AB8_uni0ACD.half;
+    sub \uni0AB9 \uni0ACD  by \uni0AB9_uni0ACD.half;
+    sub \uni0A95_uni0ACD_uni0AB7.akhn \uni0ACD  by \uni0A95_uni0ACD_uni0AB7.akhn_uni0ACD.half;
+} halfHalfFormslookup18;
+
+lookup halfHalfFormslookup19 {
+  lookupflag 0;
+    sub \uni0915 \uni094D  by \uni0915_uni094D.half;
+    sub \uni0916 \uni094D  by \uni0916_uni094D.half;
+    sub \uni0917 \uni094D  by \uni0917_uni094D.half;
+    sub \uni0918 \uni094D  by \uni0918_uni094D.half;
+    sub \uni091A \uni094D  by \uni091A_uni094D.half;
+    sub \uni091C \uni094D  by \uni091C_uni094D.half;
+    sub \uni091D \uni094D  by \uni091D_uni094D.half;
+    sub \uni091E \uni094D  by \uni091E_uni094D.half;
+    sub \uni0923 \uni094D  by \uni0923_uni094D.half;
+    sub \uni0924 \uni094D  by \uni0924_uni094D.half;
+    sub \uni0925 \uni094D  by \uni0925_uni094D.half;
+    sub \uni0927 \uni094D  by \uni0927_uni094D.half;
+    sub \uni0928 \uni094D  by \uni0928_uni094D.half;
+    sub \uni092A \uni094D  by \uni092A_uni094D.half;
+    sub \uni092B \uni094D  by \uni092B_uni094D.half;
+    sub \uni092C \uni094D  by \uni092C_uni094D.half;
+    sub \uni092D \uni094D  by \uni092D_uni094D.half;
+    sub \uni092E \uni094D  by \uni092E_uni094D.half;
+    sub \uni092F \uni094D  by \uni092F_uni094D.half;
+    sub \uni0932 \uni094D  by \uni0932_uni094D.half;
+    sub \uni0933 \uni094D  by \uni0933_uni094D.half;
+    sub \uni0934 \uni094D  by \uni0934_uni094D.half;
+    sub \uni0935 \uni094D  by \uni0935_uni094D.half;
+    sub \uni0936 \uni094D  by \uni0936_uni094D.half;
+    sub \uni0937 \uni094D  by \uni0937_uni094D.half;
+    sub \uni0938 \uni094D  by \uni0938_uni094D.half;
+    sub \uni0939 \uni094D  by \uni0939_uni094D.half;
+    sub \uni0928_094D.half_0928.pres \uni094D  by \glyph306;
+    sub \uni0931 \uni094D  by \uni0930_uni094D_afii301.half;
+    sub \uni0930 \uni094D \zerojoin  by \uni0930_uni094D_afii301.half;
+    sub \uni091A_uni094D.half \uni091A_uni094D.half  by \u91A_94D.hlf2_91A_94D.half;
+    sub \uni0915_uni094D_uni0937.akhn \uni094D  by \uni915_94D_937.akhn_94D.half;
+    sub \uni091C_uni094D_uni091E.akhn \uni094D  by \u91C_94D_91E.akhn_94D.half;
+    sub \uni924_94D.half_924.pres \uni094D  by \glyph352;
+    sub \uni936_94D.half_91A.pres \uni094D  by \glyph354;
+    sub \uni936_930_94D.blwf.vatu \uni094D  by \glyph355;
+    sub \uni936_94D.half_935.pres \uni094D  by \glyph356;
+    sub \uni0919 \uni094D  by \uni0919_uni094D.half;
+    sub \uni091F \uni094D  by \uni091F_uni094D.half;
+    sub \uni0920 \uni094D  by \uni0920_uni094D.half;
+    sub \uni0921 \uni094D  by \uni0921_uni094D.half;
+    sub \uni0922 \uni094D  by \uni0922_uni094D.half;
+    sub \uni0926 \uni094D  by \uni0926_uni094D.half;
+} halfHalfFormslookup19;
+
+lookup halfHalfFormslookup20 {
+  lookupflag 0;
+    sub \bn_ta \bn_hasanta  by \bn_half_ta;
+    sub \bn_ka \bn_hasanta  by \bn_half_ka;
+    sub \bn_kha \bn_hasanta  by \bn_half_kha;
+    sub \bn_ga \bn_hasanta  by \bn_half_ga;
+    sub \bn_gha \bn_hasanta  by \bn_half_gha;
+    sub \bn_nga \bn_hasanta  by \bn_half_nga;
+    sub \bn_ca \bn_hasanta  by \bn_half_ca;
+    sub \bn_cha \bn_hasanta  by \bn_half_cha;
+    sub \bn_ja \bn_hasanta  by \bn_half_ja;
+    sub \bn_jha \bn_hasanta  by \bn_half_jha;
+    sub \bn_nya \bn_hasanta  by \bn_half_nya;
+    sub \bn_tta \bn_hasanta  by \bn_half_tta;
+    sub \bn_ttha \bn_hasanta  by \bn_half_ttha;
+    sub \bn_dda \bn_hasanta  by \bn_half_dda;
+    sub \bn_ddha \bn_hasanta  by \bn_half_ddha;
+    sub \bn_nna \bn_hasanta  by \bn_half_nna;
+    sub \bn_tha \bn_hasanta  by \bn_half_tha;
+    sub \bn_dha \bn_hasanta  by \bn_half_dha;
+    sub \bn_da \bn_hasanta  by \bn_half_da;
+    sub \bn_na \bn_hasanta  by \bn_half_na;
+    sub \bn_pa \bn_hasanta  by \bn_half_pa;
+    sub \bn_pha \bn_hasanta  by \bn_half_pha;
+    sub \bn_ba \bn_hasanta  by \bn_half_ba;
+    sub \bn_bha \bn_hasanta  by \bn_half_bha;
+    sub \bn_ma \bn_hasanta  by \bn_half_ma;
+    sub \bn_ya \bn_hasanta  by \bn_half_ya;
+    sub \bn_ra \bn_hasanta  by \bn_half_ra;
+    sub \bn_la \bn_hasanta  by \bn_half_la;
+    sub \bn_sha \bn_hasanta  by \bn_half_sha;
+    sub \bn_ssa \bn_hasanta  by \bn_half_ssa;
+    sub \bn_sa \bn_hasanta  by \bn_half_sa;
+    sub \bn_ha \bn_hasanta  by \bn_half_ha;
+    sub \bn_rra \bn_hasanta  by \bn_half_rra;
+    sub \bn_rha \bn_hasanta  by \bn_half_rha;
+    sub \bn_yya \bn_hasanta  by \bn_half_yya;
+    sub \bn_asamira \bn_hasanta  by \bn_half_asamira;
+    sub \bn_asamiba \bn_hasanta  by \bn_half_asamiba;
+} halfHalfFormslookup20;
+
+lookup pstfPostBaseFormslookup21 {
+  lookupflag 0;
+    sub \uni0A2F \uni0A4D  by \uni0A2F_uni0A4D.pstf;
+} pstfPostBaseFormslookup21;
+
+lookup pstfPostBaseFormslookup22 {
+  lookupflag 0;
+    sub \bn_kha \bn_hasanta  by \bn_khaphala;
+    sub \bn_pha \bn_hasanta  by \bn_phaphala;
+    sub \bn_ya \bn_hasanta  by \bn_yaphala;
+} pstfPostBaseFormslookup22;
+
+lookup fracDiagonalFractionslookup23 {
+  lookupflag IgnoreMarks;
+    sub \two \slash \five  by \uni2156;
+    sub \two \fraction \five  by \uni2156;
+    sub \three \slash \five  by \uni2157;
+    sub \three \fraction \five  by \uni2157;
+    sub \four \slash \five  by \uni2158;
+    sub \four \fraction \five  by \uni2158;
+    sub \five \slash \six  by \uni215A;
+    sub \five \fraction \six  by \uni215A;
+    sub \three \slash \eight  by \threeeighths;
+    sub \three \fraction \eight  by \threeeighths;
+    sub \five \slash \eight  by \fiveeighths;
+    sub \five \fraction \eight  by \fiveeighths;
+    sub \seven \slash \eight  by \seveneighths;
+    sub \seven \fraction \eight  by \seveneighths;
+} fracDiagonalFractionslookup23;
+
+lookup vatuVattuVariantslookup24 {
+  lookupflag 0;
+    sub \uni0A9C_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0A9C_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB9 \uni0AB0_uni0ACD.blwf  by \uni0AB9_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB5 \uni0AB0_uni0ACD.blwf  by \uni0AB5_uni0AB0_uni0ACD.blwf.vatu;
+} vatuVattuVariantslookup24;
+
+lookup vatuVattuVariantslookup25 {
+  lookupflag 0;
+    sub \uni0AA4_uni0ACD.half \uni0AB0 \uni0ACD  by \uni0AA4_uni0ACD.half_uni0AB0_uni0ACD.vatu;
+    sub \uni0AB6_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AB6_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A96_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0A96_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A97_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0A97_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A98_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0A98_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A9A_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0A9A_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA5_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AA5_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA7_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AA7_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA8_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AA8_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAA_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AAA_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAC_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AAC_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAD_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AAD_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAE_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AAE_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB8_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AB8_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A95 \uni0AB0_uni0ACD.blwf  by \uni0A95_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A9C \uni0AB0_uni0ACD.blwf  by \uni0A9C_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A9D \uni0AB0_uni0ACD.blwf  by \uni0A9D_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA6 \uni0AB0_uni0ACD.blwf  by \uni0AA6_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAB \uni0AB0_uni0ACD.blwf  by \uni0AAB_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB5_uni0ACD.half \uni0AB0_uni0ACD.blwf  by \uni0AB5_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA4 \uni0AB0_uni0ACD.blwf  by \uni0AA4_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB6 \uni0AB0_uni0ACD.blwf  by \uni0AB6_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A96 \uni0AB0_uni0ACD.blwf  by \uni0A96_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A97 \uni0AB0_uni0ACD.blwf  by \uni0A97_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A98 \uni0AB0_uni0ACD.blwf  by \uni0A98_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A9A \uni0AB0_uni0ACD.blwf  by \uni0A9A_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA5 \uni0AB0_uni0ACD.blwf  by \uni0AA5_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA7 \uni0AB0_uni0ACD.blwf  by \uni0AA7_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA8 \uni0AB0_uni0ACD.blwf  by \uni0AA8_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAA \uni0AB0_uni0ACD.blwf  by \uni0AAA_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAC \uni0AB0_uni0ACD.blwf  by \uni0AAC_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAD \uni0AB0_uni0ACD.blwf  by \uni0AAD_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AAE \uni0AB0_uni0ACD.blwf  by \uni0AAE_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB8 \uni0AB0_uni0ACD.blwf  by \uni0AB8_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB7_uni0ACD.half \uni0A9F \uni0AB0_uni0ACD.blwf  by \uni0AB7_uni0ACD.half_uni0A9F_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AB7_uni0ACD.half \uni0AA0 \uni0AB0_uni0ACD.blwf  by \uni0AB7_uni0ACD.half_uni0AA0_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0A9F \uni0AB0_uni0ACD.blwf  by \uni0A9F_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA1 \uni0AB0_uni0ACD.blwf  by \uni0AA1_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA0 \uni0AB0_uni0ACD.blwf  by \uni0AA0_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA2 \uni0AB0_uni0ACD.blwf  by \uni0AA2_uni0AB0_uni0ACD.blwf.vatu;
+    sub \uni0AA3_uni0ACD.half \uni0AB0 \uni0ACD  by \uni0AA3_uni0ACD.half_uni0AB0_uni0ACD.vatu;
+    sub \uni0AA3 \uni0AB0 \uni0ACD  by \uni0AA3_uni0AB0_uni0ACD.vatu;
+} vatuVattuVariantslookup25;
+
+lookup vatuVattuVariantslookup26 {
+  lookupflag IgnoreMarks;
+    sub \uni092F \uni0930_uni094D.blwf  by \uni92F_930_94D.blwf.vatu;
+} vatuVattuVariantslookup26;
+
+lookup vatuVattuVariantslookup27 {
+  lookupflag 0;
+    sub \uni0924 \uni0930_uni094D.blwf  by \uni924_930_94D.blwf.vatu;
+    sub \uni0936 \uni0930_uni094D.blwf  by \uni936_930_94D.blwf.vatu;
+    sub \uni095B \uni0930_uni094D.blwf  by \uni95B_930_94D.blwf.vatu;
+    sub \uni092B \uni0930_uni094D.blwf  by \uni92B_930_94D.blwf.vatu;
+    sub \uni095E \uni0930_uni094D.blwf  by \uni95E_930_94D.blwf.vatu;
+    sub \uni092A \uni0930_uni094D.blwf  by \uni92A_930_94D.blwf.vatu;
+    sub \uni0938 \uni0930_uni094D.blwf  by \uni938_930_94D.blwf.vatu;
+    sub \uni0924_uni094D.half \uni0930_uni094D.blwf  by \u924_94D.half_930_94D.blwf.vatu;
+    sub \uni0938_uni094D.half \uni91F_930_94D.blwf.vatu  by \u9_38_4Dhalf1F_30_4Dblwfvtu2;
+    sub \uni0915 \uni0930_uni094D.blwf  by \uni915_930_94D.blwf.vatu;
+    sub \uni0918 \uni0930_uni094D.blwf  by \uni918_930_94D.blwf.vatu;
+    sub \uni0919 \uni0930_uni094D.blwf  by \uni919_930_94D.blwf.vatu;
+    sub \uni091A \uni0930_uni094D.blwf  by \uni91A_930_94D.blwf.vatu;
+    sub \uni091B \uni0930_uni094D.blwf  by \uni91B_930_94D.blwf.vatu;
+    sub \uni091C \uni0930_uni094D.blwf  by \uni91C_930_94D.blwf.vatu;
+    sub \uni091D \uni0930_uni094D.blwf  by \uni91D_930_94D.blwf.vatu;
+    sub \uni091E \uni0930_uni094D.blwf  by \uni91E_930_94D.blwf.vatu;
+    sub \uni091F \uni0930_uni094D.blwf  by \uni91F_930_94D.blwf.vatu;
+    sub \uni0920 \uni0930_uni094D.blwf  by \uni920_930_94D.blwf.vatu;
+    sub \uni0921 \uni0930_uni094D.blwf  by \uni921_930_94D.blwf.vatu;
+    sub \uni0923 \uni0930_uni094D.blwf  by \uni923_930_94D.blwf.vatu;
+    sub \uni0925 \uni0930_uni094D.blwf  by \uni925_930_94D.blwf.vatu;
+    sub \uni0926 \uni0930_uni094D.blwf  by \uni926_930_94D.blwf.vatu;
+    sub \uni0927 \uni0930_uni094D.blwf  by \uni927_930_94D.blwf.vatu;
+    sub \uni0928 \uni0930_uni094D.blwf  by \uni928_930_94D.blwf.vatu;
+    sub \uni092C \uni0930_uni094D.blwf  by \uni92C_930_94D.blwf.vatu;
+    sub \uni092D \uni0930_uni094D.blwf  by \uni92D_930_94D.blwf.vatu;
+    sub \uni092E \uni0930_uni094D.blwf  by \uni92E_930_94D.blwf.vatu;
+    sub \uni0930 \uni0930_uni094D.blwf  by \uni930_930_94D.blwf.vatu;
+    sub \uni0932 \uni0930_uni094D.blwf  by \uni932_930_94D.blwf.vatu;
+    sub \uni937_94D.half_91F.pres \uni930_930_94D.blwf.vatu  by \glyph418;
+    sub \uni937_94D.half_920.pres \uni930_930_94D.blwf.vatu  by \glyph419;
+    sub \uni092A_uni094D.half \uni0930_uni094D.blwf  by \u92A_94D.half_930_94D.blwf.vatu;
+} vatuVattuVariantslookup27;
+
+lookup vatuVattuVariantslookup28 {
+  lookupflag 0;
+    sub \bn_ka \bn_raphala  by \bn_k_ra;
+    sub \bn_kha \bn_raphala  by \bn_kh_ra;
+    sub \bn_ga \bn_raphala  by \bn_g_ra;
+    sub \bn_gha \bn_raphala  by \bn_gh_ra;
+    sub \bn_ca \bn_raphala  by \bn_c_ra;
+    sub \bn_cha \bn_raphala  by \bn_ch_ra;
+    sub \bn_ja \bn_raphala  by \bn_j_ra;
+    sub \bn_tta \bn_raphala  by \bn_tt_ra;
+    sub \bn_ttha \bn_raphala  by \bn_tth_ra;
+    sub \bn_dda \bn_raphala  by \bn_dd_ra;
+    sub \bn_ddha \bn_raphala  by \bn_ddh_ra;
+    sub \bn_ta \bn_raphala  by \bn_t_ra;
+    sub \bn_tha \bn_raphala  by \bn_th_ra;
+    sub \bn_da \bn_raphala  by \bn_d_ra;
+    sub \bn_dha \bn_raphala  by \bn_dh_ra;
+    sub \bn_na \bn_raphala  by \bn_n_ra;
+    sub \bn_pa \bn_raphala  by \bn_p_ra;
+    sub \bn_pha \bn_raphala  by \bn_ph_ra;
+    sub \bn_ba \bn_raphala  by \bn_b_ra;
+    sub \bn_bha \bn_raphala  by \bn_bh_ra;
+    sub \bn_ma \bn_raphala  by \bn_m_ra;
+    sub \bn_ya \bn_raphala  by \bn_y_ra;
+    sub \bn_sha \bn_raphala  by \bn_sh_ra;
+    sub \bn_ssa \bn_raphala  by \bn_ss_ra;
+    sub \bn_sa \bn_raphala  by \bn_s_ra;
+    sub \bn_ha \bn_raphala  by \bn_h_ra;
+    sub \bn_asamiba \bn_raphala  by \bn_asamib_ra;
+    sub \bn_k_ssa \bn_raphala  by \bn_k_ss_ra;
+} vatuVattuVariantslookup28;
+
+lookup presPreBaseSubstitutionslookup2 {
+  lookupflag 0;
+    sub \uni0AA4_uni0ACD.half \uni0AA4_uni0ACD.half  by \uni0AA4_uni0ACD.half_uni0AA4_uni0ACD.half.pres;
+    sub \uni0AA8_uni0ACD.half_uni0AA8.pres \uni0ACD  by \uni0AA8_uni0ACD.half_uni0AA8.pres_uni0ACD.pres;
+    sub \uni0A95_uni0ACD.half \uni0A95  by \uni0A95_uni0ACD.half_uni0A95.pres;
+    sub \uni0A9F \uni0ACD \uni0A9F  by \uni0A9F_uni0ACD_uni0A9F.pres;
+    sub \uni0A9F \uni0ACD \uni0AA0  by \uni0A9F_uni0ACD_uni0AA0.pres;
+    sub \uni0AA0 \uni0ACD \uni0AA0  by \uni0AA0_uni0ACD_uni0AA0.pres;
+    sub \uni0AA1 \uni0ACD \uni0AA1  by \uni0AA1_uni0ACD_uni0AA1.pres;
+    sub \uni0AA1 \uni0ACD \uni0AA2  by \uni0AA1_uni0ACD_uni0AA2.pres;
+    sub \uni0AA6 \uni0ACD \uni0AAE  by \uni0AA6_uni0ACD_uni0AAE.pres;
+    sub \uni0AA6 \uni0ACD \uni0AA6  by \uni0AA6_uni0ACD_uni0AA6.pres;
+    sub \uni0AA6 \uni0ACD \uni0AA7  by \uni0AA6_uni0ACD_uni0AA7.pres;
+    sub \uni0AA6 \uni0ACD \uni0AB5  by \uni0AA6_uni0ACD_uni0AB5.pres;
+    sub \uni0AB6_uni0ACD.half \uni0AB5 \uni0ACD  by \uni0AB6_uni0ACD.half_uni0AB5_uni0ACD.pres;
+    sub \uni0AB6_uni0ACD.half_uni0AA8.pres \uni0ACD  by \uni0AB6_uni0ACD.half_uni0AA8.pres_uni0ACD.pres;
+    sub \uni0AB6_uni0ACD.half \uni0A9A \uni0ACD  by \uni0AB6_uni0ACD.half_uni0A9A_uni0ACD.pres;
+    sub \uni0AA2 \uni0ACD \uni0AA2  by \uni0AA2_uni0ACD_uni0AA2.pres;
+    sub \uni0AA8_uni0ACD.half \uni0AA8  by \uni0AA8_uni0ACD.half_uni0AA8.pres;
+    sub \uni0AB6_uni0ACD.half \uni0AB5  by \uni0AB6_uni0ACD.half_uni0AB5.pres;
+    sub \uni0AB6_uni0ACD.half \uni0AA8  by \uni0AB6_uni0ACD.half_uni0AA8.pres;
+    sub \uni0AB6_uni0ACD.half \uni0A9A  by \uni0AB6_uni0ACD.half_uni0A9A.pres;
+    sub \uni0AB7_uni0ACD.half \uni0AA0  by \uni0AB7_uni0ACD.half_uni0AA0.pres;
+    sub \uni0AB7_uni0ACD.half \uni0A9F  by \uni0AB7_uni0ACD.half_uni0A9F.pres;
+} presPreBaseSubstitutionslookup2;
+
+lookup presPreBaseSubstitutionslookup3 {
+  lookupflag 0;
+    sub \uni0915_uni094D.half \uni0928  by \uni915_94D.half_928.pres;
+    sub \uni0915_uni094D.half \uni0915  by \uni0915_094D.half_0915.pres;
+    sub \uni0926_uni094D.half \uni0918  by \uni0926_094D.half_0918.pres;
+    sub \uni0926_uni094D.half \uni0926  by \uni0926_094D.half_0926.pres;
+    sub \uni0926_uni094D.half \uni0927  by \uni0926_094D.half_0927.pres;
+    sub \uni0926_uni094D.half \uni092C  by \uni0926_094D.half_092C.pres;
+    sub \uni0926_uni094D.half \uni092D  by \uni0926_094D.half_092D.pres;
+    sub \uni0926_uni094D.half \uni092E  by \uni0926_094D.half_092E.pres;
+    sub \uni0926_uni094D.half \uni092F  by \uni0926_094D.half_092F.pres;
+    sub \uni0926_uni094D.half \uni0935  by \uni0926_094D.half_0935.pres;
+    sub \uni091F_uni094D.half \uni091F  by \uni091F_094D.half_091F.pres;
+    sub \uni091F_uni094D.half \uni0920  by \uni091F_094D.half_0920.pres;
+    sub \uni0920_uni094D.half \uni0920  by \uni0920_094D.half_0920.pres;
+    sub \uni926_94D.hlf2_926_94D.pres \uni0917  by \glyph329;
+    sub \uni926_94D.hlf2_926_94D.pres \uni0921  by \glyph330;
+    sub \uni926_94D.hlf2_926_94D.pres \uni0922  by \glyph331;
+    sub \uni0939_uni094D.half \uni092E  by \uni0939_094D.half_092E.pres;
+    sub \uni0939_uni094D.half \uni092F  by \uni0939_094D.half_092F.pres;
+    sub \uni0916 \uni0930_uni094D.blwf  by \uni916_930_94D.blwf.pres;
+    sub \uni0917 \uni0930_uni094D.blwf  by \uni917_930_94D.blwf.pres;
+    sub \uni0926_uni094D.half \uni092E_uni094D.half  by \u926_94D.half_92E_94D.half.pres;
+    sub \uni0939_uni094D.half \uni0923  by \uni939_94D.half_923.pres;
+    sub \uni0939_uni094D.half \uni0932  by \uni939_94D.half_932.pres;
+    sub \uni0939_uni094D.half \uni0935  by \uni939_94D.half_935.pres;
+    sub \uni0939_uni094D.half \uni0928  by \uni939_94D.half_928.pres;
+    sub \uni0AB9_uni0ACD.half \uni0AAE  by \uni0AB9_uni0ACD.half_uni0AAE.pres;
+    sub \uni0AB9_uni0ACD.half \uni0AAF  by \uni0AB9_uni0ACD.half_uni0AAF.pres;
+    sub \uni0AA4_uni0ACD.half \uni0AA4  by \uni0AA4_uni0ACD.half_uni0AA4.pres;
+} presPreBaseSubstitutionslookup3;
+
+lookup sub_ligature_presdev2_0 {
+  lookupflag 0;
+    sub \uni0924_uni094D.half \uni0924  by \uni924_94D.half_924.pres;
+    sub \uni0936_uni094D.half \uni091A  by \uni936_94D.half_91A.pres;
+    sub \uni0936_uni094D.half \uni0935  by \uni936_94D.half_935.pres;
+    sub \uni0915_uni094D.half \uni0928  by \uni915_94D.half_928.pres;
+    sub \uni0916_uni094D.half \uni0928  by \uni0916_094D.half_0928.pres;
+    sub \uni0918_uni094D.half \uni0928  by \uni0918_094D.half_0928.pres;
+    sub \uni0924_uni094D.half \uni0928  by \uni0924_094D.half_0928.pres;
+    sub \uni0925_uni094D.half \uni0928  by \uni0925_094D.half_0928.pres;
+    sub \uni0926_uni094D.half \uni0928  by \uni0926_094D.half_0928.pres;
+    sub \uni0927_uni094D.half \uni0928  by \uni0927_094D.half_0928.pres;
+    sub \uni0926_uni094D.half \uni0926_uni094D.half  by \uni926_94D.hlf2_926_94D.pres;
+    sub \uni092A_uni094D.half \uni0928  by \uni092A_094D.half_0928.pres;
+    sub \uni092C_uni094D.half \uni0928  by \uni092C_094D.half_0928.pres;
+    sub \uni092E_uni094D.half \uni0928  by \uni092E_094D.half_0928.pres;
+    sub \uni0935_uni094D.half \uni0928  by \uni0935_094D.half_0928.pres;
+    sub \uni0936_uni094D.half \uni0928  by \uni0936_094D.half_0928.pres;
+    sub \uni0915_uni094D.half \uni0915  by \uni0915_094D.half_0915.pres;
+    sub \uni0919_uni094D.half \uni0915  by \uni0919_094D.half_0915.pres;
+    sub \uni0919_uni094D.half \uni0916  by \uni0919_094D.half_0916.pres;
+    sub \uni0919_uni094D.half \uni0917  by \uni0919_094D.half_0917.pres;
+    sub \uni0919_uni094D.half \uni0918  by \uni0919_094D.half_0918.pres;
+    sub \uni091E_uni094D.half \uni091C  by \uni091E_094D.half_091C.pres;
+    sub \uni0926_uni094D.half \uni0918  by \uni0926_094D.half_0918.pres;
+    sub \uni0926_uni094D.half \uni0926  by \uni0926_094D.half_0926.pres;
+    sub \uni0926_uni094D.half \uni0927  by \uni0926_094D.half_0927.pres;
+    sub \uni0926_uni094D.half \uni092C  by \uni0926_094D.half_092C.pres;
+    sub \uni0926_uni094D.half \uni092D  by \uni0926_094D.half_092D.pres;
+    sub \uni0926_uni094D.half \uni092E  by \uni0926_094D.half_092E.pres;
+    sub \uni0926_uni094D.half \uni092F  by \uni0926_094D.half_092F.pres;
+    sub \uni0926_uni094D.half \uni0935  by \uni0926_094D.half_0935.pres;
+    sub \uni091F_uni094D.half \uni091F  by \uni091F_094D.half_091F.pres;
+    sub \uni091F_uni094D.half \uni0920  by \uni091F_094D.half_0920.pres;
+    sub \uni0920_uni094D.half \uni0920  by \uni0920_094D.half_0920.pres;
+    sub \uni926_94D.hlf2_926_94D.pres \uni0917  by \glyph329;
+    sub \uni926_94D.hlf2_926_94D.pres \uni0921  by \glyph330;
+    sub \uni926_94D.hlf2_926_94D.pres \uni0922  by \glyph331;
+    sub \uni0939_uni094D.half \uni092E  by \uni0939_094D.half_092E.pres;
+    sub \uni0939_uni094D.half \uni092F  by \uni0939_094D.half_092F.pres;
+    sub \uni0932_uni094D.half \uni0939  by \uni0932_094D.half_0939.pres;
+    sub \uni0938_uni094D.half \uni0924_uni094D_uni0930.pres  by \u9_38_4D.hlf_24_4D_30prespres;
+    sub \uni0938 \uni0928_uni094D.half  by \uni0938_0928_094D.half.pres;
+    sub \uni0928_uni094D.half \uni0928  by \uni0928_094D.half_0928.pres;
+    sub \uni0916 \uni0930_uni094D.blwf  by \uni916_930_94D.blwf.pres;
+    sub \uni0917 \uni0930_uni094D.blwf  by \uni917_930_94D.blwf.pres;
+    sub \uni0924 \uni094D \uni0930  by \uni0924_uni094D_uni0930.pres;
+    sub \uni0936_uni094D.half \uni0932_uni094D.half  by \uni936_94D.hlf2_932_94D.pres;
+    sub \uni0937_uni094D.half \uni091F  by \uni937_94D.half_91F.pres;
+    sub \uni0937_uni094D.half \uni0920  by \uni937_94D.half_920.pres;
+    sub \uni0936_uni094D.half \uni0928_uni094D.half  by \uni936_94D.hlf2_928_94D.pres;
+    sub \uni0938_uni094D.half \u924_94D.half_930_94D.blwf.vatu  by \u938_4D.hlff24_4D.30_4Dbfvtuprs;
+    sub \uni0926_uni094D.half \uni092E_uni094D.half  by \u926_94D.half_92E_94D.half.pres;
+    sub \uni0924_uni094D.half \uni0928_uni094D.half  by \uni924_94D.hlf2_928_94D.pres;
+    sub \uni0939_uni094D.half \uni0923  by \uni939_94D.half_923.pres;
+    sub \uni0939_uni094D.half \uni0932  by \uni939_94D.half_932.pres;
+    sub \uni0939_uni094D.half \uni0935  by \uni939_94D.half_935.pres;
+    sub \uni092A_uni094D.half \uni0924_uni094D.half  by \u92A_94D.half_924_94D.half.pres;
+    sub \uni0939_uni094D.half \uni0928  by \uni939_94D.half_928.pres;
+    sub \uni0939_uni094D.half \uni092E_uni094D.half  by \u939_94D.half_92E_94D.half.pres;
+} sub_ligature_presdev2_0;
+
+lookup sub_ligature_presbeng_0 {
+  lookupflag 0;
+    sub \bn_half_ka \bn_ka  by \bn_k_ka;
+    sub \bn_half_ka \bn_tta  by \bn_k_tta;
+    sub \bn_half_ka \bn_tt_ra  by \bn_k_tt_ra;
+    sub \bn_half_ka \bn_ta  by \bn_k_ta;
+    sub \bn_half_ka \bn_t_ra  by \bn_k_t_ra;
+    sub \bn_half_ka \bn_na  by \bn_k_na;
+    sub \bn_half_ka \bn_ma  by \bn_k_ma;
+    sub \bn_half_ka \bn_la  by \bn_k_la;
+    sub \bn_k_ssa \bn_hasanta \bn_nna  by \bn_k_ss_nna;
+    sub \bn_k_ssa \bn_hasanta \bn_ma  by \bn_k_ss_ma;
+    sub \bn_half_ka \bn_sa  by \bn_k_sa;
+    sub \bn_half_ga \bn_ga  by \bn_g_ga;
+    sub \bn_half_ga \bn_da  by \bn_g_da;
+    sub \bn_half_ga \bn_dha  by \bn_g_dha;
+    sub \bn_half_ga \bn_la  by \bn_g_la;
+    sub \bn_half_ga \bn_na  by \bn_g_na;
+    sub \bn_half_ga \bn_ma  by \bn_g_ma;
+    sub \bn_half_gha \bn_na  by \bn_gh_na;
+    sub \bn_half_nga \bn_ka  by \bn_ng_ka;
+    sub \bn_half_nga \bn_k_ra  by \bn_ng_k_ra;
+    sub \bn_half_nga \bn_k_ssa  by \bn_ng_k_ssa;
+    sub \bn_half_nga \bn_k_ss_ra  by \bn_ng_k_ss_ra;
+    sub \bn_half_nga \bn_kha  by \bn_ng_kha;
+    sub \bn_half_nga \bn_ga  by \bn_ng_ga;
+    sub \bn_half_nga \bn_gha  by \bn_ng_gha;
+    sub \bn_half_nga \bn_ma  by \bn_ng_ma;
+    sub \bn_half_ca \bn_ca  by \bn_c_ca;
+    sub \bn_half_ca \bn_cha  by \bn_c_cha;
+    sub \bn_half_ca \bn_ch_ra  by \bn_c_ch_ra;
+    sub \bn_half_ca \bn_na  by \bn_c_na;
+    sub \bn_half_ja \bn_ja  by \bn_j_ja;
+    sub \bn_half_ja \bn_jha  by \bn_j_jha;
+    sub \bn_half_ja \bn_nya  by \bn_j_nya;
+    sub \bn_half_nya \bn_ca  by \bn_ny_ca;
+    sub \bn_half_nya \bn_cha  by \bn_ny_cha;
+    sub \bn_half_nya \bn_ja  by \bn_ny_ja;
+    sub \bn_half_nya \bn_jha  by \bn_ny_jha;
+    sub \bn_half_tta \bn_tta  by \bn_tt_tta;
+    sub \bn_half_tta \bn_tt_ra  by \bn_tt_tt_ra;
+    sub \bn_half_tta \bn_ma  by \bn_tt_ma;
+    sub \bn_half_dda \bn_ga  by \bn_dd_ga;
+    sub \bn_half_dda \bn_dda  by \bn_dd_dda;
+    sub \bn_half_dda \bn_ma  by \bn_dd_ma;
+    sub \bn_half_nna \bn_tta  by \bn_nn_tta;
+    sub \bn_half_nna \bn_tt_ra  by \bn_nn_tt_ra;
+    sub \bn_half_nna \bn_ttha  by \bn_nn_ttha;
+    sub \bn_half_nna \bn_dda  by \bn_nn_dda;
+    sub \bn_half_nna \bn_dd_ra  by \bn_nn_dd_ra;
+    sub \bn_half_nna \bn_ddha  by \bn_nn_ddha;
+    sub \bn_half_nna \bn_nna  by \bn_nn_nna;
+    sub \bn_half_nna \bn_ma  by \bn_nn_ma;
+    sub \bn_half_ta \bn_ta  by \bn_t_ta;
+    sub \bn_half_ta \bn_tha  by \bn_t_tha;
+    sub \bn_half_ta \bn_na  by \bn_t_na;
+    sub \bn_half_ta \bn_ma  by \bn_t_ma;
+    sub \bn_half_ta \bn_la  by \bn_t_la;
+    sub \bn_half_da \bn_ga  by \bn_d_ga;
+    sub \bn_half_da \bn_gha  by \bn_d_gha;
+    sub \bn_half_da \bn_da  by \bn_d_da;
+    sub \bn_half_da \bn_d_ra  by \bn_d_d_ra;
+    sub \bn_half_da \bn_dha  by \bn_d_dha;
+    sub \bn_half_da \bn_bha  by \bn_d_bha;
+    sub \bn_half_da \bn_bh_ra  by \bn_d_bh_ra;
+    sub \bn_half_da \bn_ma  by \bn_d_ma;
+    sub \bn_half_dha \bn_na  by \bn_dh_na;
+    sub \bn_half_dha \bn_ma  by \bn_dh_ma;
+    sub \bn_half_na \bn_tta  by \bn_n_tta;
+    sub \bn_half_na \bn_tt_ra  by \bn_n_tt_ra;
+    sub \bn_half_na \bn_ttha  by \bn_n_ttha;
+    sub \bn_half_na \bn_dda  by \bn_n_dda;
+    sub \bn_half_na \bn_dd_ra  by \bn_n_dd_ra;
+    sub \bn_half_na \bn_ddha  by \bn_n_ddha;
+    sub \bn_half_na \bn_ta  by \bn_n_ta;
+    sub \bn_half_na \bn_t_ra  by \bn_n_t_ra;
+    sub \bn_half_na \bn_tha  by \bn_n_tha;
+    sub \bn_half_na \bn_da  by \bn_n_da;
+    sub \bn_half_na \bn_d_ra  by \bn_n_d_ra;
+    sub \bn_half_na \bn_dha  by \bn_n_dha;
+    sub \bn_half_na \bn_dh_ra  by \bn_n_dh_ra;
+    sub \bn_half_na \bn_na  by \bn_n_na;
+    sub \bn_half_na \bn_ma  by \bn_n_ma;
+    sub \bn_half_na \bn_sa  by \bn_n_sa;
+    sub \bn_half_pa \bn_tta  by \bn_p_tta;
+    sub \bn_half_pa \bn_ta  by \bn_p_ta;
+    sub \bn_half_pa \bn_pa  by \bn_p_pa;
+    sub \bn_half_pa \bn_ma  by \bn_p_ma;
+    sub \bn_half_pa \bn_na  by \bn_p_na;
+    sub \bn_half_pa \bn_la  by \bn_p_la;
+    sub \bn_half_pa \bn_sa  by \bn_p_sa;
+    sub \bn_half_pha \bn_tta  by \bn_ph_tta;
+    sub \bn_half_pha \bn_la  by \bn_ph_la;
+    sub \bn_half_ba \bn_ja  by \bn_b_ja;
+    sub \bn_half_ba \bn_da  by \bn_b_da;
+    sub \bn_half_ba \bn_d_ra  by \bn_b_d_ra;
+    sub \bn_half_ba \bn_dha  by \bn_b_dha;
+    sub \bn_half_ba \bn_bha  by \bn_b_bha;
+    sub \bn_half_ba \bn_la  by \bn_b_la;
+    sub \bn_half_bha \bn_la  by \bn_bh_la;
+    sub \bn_half_ma \bn_ta  by \bn_m_ta;
+    sub \bn_half_ma \bn_tha  by \bn_m_tha;
+    sub \bn_half_ma \bn_da  by \bn_m_da;
+    sub \bn_half_ma \bn_na  by \bn_m_na;
+    sub \bn_half_ma \bn_pa  by \bn_m_pa;
+    sub \bn_half_ma \bn_p_ra  by \bn_m_p_ra;
+    sub \bn_half_ma \bn_p_la  by \bn_m_p_la;
+    sub \bn_half_ma \bn_pha  by \bn_m_pha;
+    sub \bn_half_ma \bn_ph_ra  by \bn_m_ph_ra;
+    sub \bn_half_ma \bn_bha  by \bn_m_bha;
+    sub \bn_half_ma \bn_bh_ra  by \bn_m_bh_ra;
+    sub \bn_half_ma \bn_ma  by \bn_m_ma;
+    sub \bn_half_ma \bn_la  by \bn_m_la;
+    sub \bn_half_ma \bn_sa  by \bn_m_sa;
+    sub \bn_half_ma \bn_s_ra  by \bn_m_s_ra;
+    sub \bn_half_la \bn_ka  by \bn_l_ka;
+    sub \bn_half_la \bn_ga  by \bn_l_ga;
+    sub \bn_half_la \bn_tta  by \bn_l_tta;
+    sub \bn_half_la \bn_tt_ra  by \bn_l_tt_ra;
+    sub \bn_half_la \bn_dda  by \bn_l_dda;
+    sub \bn_half_la \bn_dd_ra  by \bn_l_dd_ra;
+    sub \bn_half_la \bn_ta  by \bn_l_ta;
+    sub \bn_half_la \bn_da  by \bn_l_da;
+    sub \bn_half_la \bn_dha  by \bn_l_dha;
+    sub \bn_half_la \bn_pa  by \bn_l_pa;
+    sub \bn_half_la \bn_pha  by \bn_l_pha;
+    sub \bn_half_la \bn_ph_ra  by \bn_l_ph_ra;
+    sub \bn_half_la \bn_ma  by \bn_l_ma;
+    sub \bn_half_la \bn_la  by \bn_l_la;
+    sub \bn_half_sha \bn_ca  by \bn_sh_ca;
+    sub \bn_half_sha \bn_cha  by \bn_sh_cha;
+    sub \bn_half_sha \bn_ta  by \bn_sh_ta;
+    sub \bn_half_sha \bn_na  by \bn_sh_na;
+    sub \bn_half_sha \bn_ma  by \bn_sh_ma;
+    sub \bn_half_sha \bn_la  by \bn_sh_la;
+    sub \bn_half_ssa \bn_ka  by \bn_ss_ka;
+    sub \bn_half_ssa \bn_k_ra  by \bn_ss_k_ra;
+    sub \bn_half_ssa \bn_tta  by \bn_ss_tta;
+    sub \bn_half_ssa \bn_tt_ra  by \bn_ss_tt_ra;
+    sub \bn_half_ssa \bn_ttha  by \bn_ss_ttha;
+    sub \bn_half_ssa \bn_nna  by \bn_ss_nna;
+    sub \bn_half_ssa \bn_pa  by \bn_ss_pa;
+    sub \bn_half_ssa \bn_p_ra  by \bn_ss_p_ra;
+    sub \bn_half_ssa \bn_pha  by \bn_ss_pha;
+    sub \bn_half_ssa \bn_ph_ra  by \bn_ss_ph_ra;
+    sub \bn_half_ssa \bn_ma  by \bn_ss_ma;
+    sub \bn_half_sa \bn_ka  by \bn_s_ka;
+    sub \bn_half_sa \bn_k_ra  by \bn_s_k_ra;
+    sub \bn_half_sa \bn_kha  by \bn_s_kha;
+    sub \bn_half_sa \bn_tta  by \bn_s_tta;
+    sub \bn_half_sa \bn_tt_ra  by \bn_s_tt_ra;
+    sub \bn_half_sa \bn_ta  by \bn_s_ta;
+    sub \bn_half_sa \bn_t_ra  by \bn_s_t_ra;
+    sub \bn_half_sa \bn_tha  by \bn_s_tha;
+    sub \bn_half_sa \bn_na  by \bn_s_na;
+    sub \bn_half_sa \bn_pa  by \bn_s_pa;
+    sub \bn_half_sa \bn_p_ra  by \bn_s_p_ra;
+    sub \bn_half_sa \bn_p_la  by \bn_s_p_la;
+    sub \bn_half_sa \bn_pha  by \bn_s_pha;
+    sub \bn_half_sa \bn_ph_ra  by \bn_s_ph_ra;
+    sub \bn_half_sa \bn_ma  by \bn_s_ma;
+    sub \bn_half_sa \bn_la  by \bn_s_la;
+    sub \bn_half_ha \bn_nna  by \bn_h_nna;
+    sub \bn_half_ha \bn_na  by \bn_h_na;
+    sub \bn_half_ha \bn_ma  by \bn_h_ma;
+    sub \bn_half_ha \bn_la  by \bn_h_la;
+    sub \bn_half_rra \bn_ga  by \bn_rr_ga;
+} sub_ligature_presbeng_0;
+
+lookup blwsBelowBaseSubstitutionslooku {
+  lookupflag 0;
+    sub \uni0A30_uni0A4D.blwf \uni0A41  by \uni0A30_uni0A4D.blwf_uni0A41.blws;
+    sub \uni0A39_uni0A4D.blwf \uni0A41  by \uni0A39_uni0A4D.blwf_uni0A41.blws;
+    sub \uni0A30_uni0A4D.blwf \uni0A42  by \uni0A30_uni0A4D.blwf_uni0A42.blws;
+    sub \uni0A39_uni0A4D.blwf \uni0A42  by \uni0A39_uni0A4D.blwf_uni0A42.blws;
+    sub \uni0A35_uni0A4D.blwf \uni0A41  by \uni0A35_uni0A4D.blwf_uni0A41.blws;
+    sub \uni0A35_uni0A4D.blwf \uni0A42  by \uni0A35_uni0A4D.blwf_uni0A42.blws;
+    sub \uni0A30_uni0A4D.blwf \uni0A4D  by \uni0A30_uni0A4D.blwf_uni0A4D.blws;
+    sub \uni0A39_uni0A4D.blwf \uni0A4D  by \uni0A39_uni0A4D.blwf_uni0A4D.blws;
+    sub \uni0A35_uni0A4D.blwf \uni0A4D  by \uni0A35_uni0A4D.blwf_uni0A4D.blws;
+} blwsBelowBaseSubstitutionslooku;
+
+lookup sub_ligature_blwsgjr2_0 {
+  lookupflag 0;
+    sub \uni0AB0 \uni0AC1  by \uni0AB0_uni0AC1.blws;
+    sub \uni0AB0 \uni0AC2  by \uni0AB0_uni0AC2.blws;
+    sub \uni0AA6_uni0AB0_uni0ACD.blwf.vatu \uni0AC1  by \uni0AA6_uni0AB0_uni0ACD.blwf.vatu_uni0AC1.blws;
+} sub_ligature_blwsgjr2_0;
+
+lookup sub_ligature_blwsdev2_0 {
+  lookupflag 0;
+    sub \uni0939 \uni0944  by \uni0939_uni0944.blws;
+    sub \uni0930 \uni0941  by \uni0930_uni0941.blws;
+    sub \uni0930 \uni0942  by \uni0930_uni0942.blws;
+    sub \uni0939 \uni0930_uni094D.blwf  by \uni939_930_94D.blwf.blws;
+} sub_ligature_blwsdev2_0;
+
+lookup sub_ligature_blwsbeng_0 {
+  lookupflag 0;
+    sub \bn_k_ta \bn_baphala  by \bn_k_t_ba;
+    sub \bn_c_cha \bn_baphala  by \bn_c_ch_ba;
+    sub \bn_j_ja \bn_baphala  by \bn_j_j_ba;
+    sub \bn_t_ta \bn_baphala  by \bn_t_t_ba;
+    sub \bn_d_da \bn_baphala  by \bn_d_d_ba;
+    sub \bn_d_dha \bn_baphala  by \bn_d_dh_ba;
+    sub \bn_n_ta \bn_baphala  by \bn_n_t_ba;
+    sub \bn_n_da \bn_baphala  by \bn_n_d_ba;
+    sub \bn_s_ta \bn_baphala  by \bn_s_t_ba;
+    sub \bn_ka \bn_baphala  by \bn_k_ba;
+    sub \bn_ga \bn_baphala  by \bn_g_ba;
+    sub \bn_gha \bn_baphala  by \bn_gh_ba;
+    sub \bn_ca \bn_baphala  by \bn_c_ba;
+    sub \bn_cha \bn_baphala  by \bn_ch_ba;
+    sub \bn_ja \bn_baphala  by \bn_j_ba;
+    sub \bn_tta \bn_baphala  by \bn_tt_ba;
+    sub \bn_dda \bn_baphala  by \bn_dd_ba;
+    sub \bn_nna \bn_baphala  by \bn_nn_ba;
+    sub \bn_ta \bn_baphala  by \bn_t_ba;
+    sub \bn_da \bn_baphala  by \bn_d_ba;
+    sub \bn_dha \bn_baphala  by \bn_dh_ba;
+    sub \bn_na \bn_baphala  by \bn_n_ba;
+    sub \bn_pa \bn_baphala  by \bn_p_ba;
+    sub \bn_ba \bn_baphala  by \bn_b_ba;
+    sub \bn_bha \bn_baphala  by \bn_bh_ba;
+    sub \bn_ma \bn_baphala  by \bn_m_ba;
+    sub \bn_la \bn_baphala  by \bn_l_ba;
+    sub \bn_sha \bn_baphala  by \bn_sh_ba;
+    sub \bn_sa \bn_baphala  by \bn_s_ba;
+    sub \bn_ha \bn_baphala  by \bn_h_ba;
+    sub \bn_kh_ra \bn_ukaar  by \bn_kh_r_ukaar;
+    sub \bn_kh_ra \bn_uukaar  by \bn_kh_r_uukaar;
+    sub \bn_ga \bn_ukaar  by \bn_g_ukaar;
+    sub \bn_g_ra \bn_ukaar  by \bn_g_r_ukaar;
+    sub \bn_g_ra \bn_uukaar  by \bn_g_r_uukaar;
+    sub \bn_g_la \bn_ukaar  by \bn_g_l_ukaar;
+    sub \bn_g_la \bn_uukaar  by \bn_g_l_uukaar;
+    sub \bn_j_ra \bn_ukaar  by \bn_j_r_ukaar;
+    sub \bn_j_ra \bn_uukaar  by \bn_j_r_uukaar;
+    sub \bn_t_ra \bn_ukaar  by \bn_t_r_ukaar;
+    sub \bn_t_ra \bn_uukaar  by \bn_t_r_uukaar;
+    sub \bn_th_ra \bn_ukaar  by \bn_th_r_ukaar;
+    sub \bn_th_ra \bn_uukaar  by \bn_th_r_uukaar;
+    sub \bn_da \bn_ukaar  by \bn_d_ukaar;
+    sub \bn_d_ra \bn_ukaar  by \bn_d_r_ukaar;
+    sub \bn_d_ra \bn_uukaar  by \bn_d_r_uukaar;
+    sub \bn_dh_ra \bn_ukaar  by \bn_dh_r_ukaar;
+    sub \bn_dh_ra \bn_uukaar  by \bn_dh_r_uukaar;
+    sub \bn_n_ta \bn_ukaar  by \bn_n_t_ukaar;
+    sub \bn_n_d_ra \bn_ukaar  by \bn_n_d_r_ukaar;
+    sub \bn_n_d_ra \bn_uukaar  by \bn_n_d_r_uukaar;
+    sub \bn_p_ra \bn_ukaar  by \bn_p_r_ukaar;
+    sub \bn_p_ra \bn_uukaar  by \bn_p_r_uukaar;
+    sub \bn_p_la \bn_ukaar  by \bn_p_l_ukaar;
+    sub \bn_p_la \bn_uukaar  by \bn_p_l_uukaar;
+    sub \bn_b_ra \bn_ukaar  by \bn_b_r_ukaar;
+    sub \bn_b_ra \bn_uukaar  by \bn_b_r_uukaar;
+    sub \bn_b_la \bn_ukaar  by \bn_b_l_ukaar;
+    sub \bn_b_la \bn_uukaar  by \bn_b_l_uukaar;
+    sub \bn_bh_ra \bn_ukaar  by \bn_bh_r_ukaar;
+    sub \bn_bh_ra \bn_uukaar  by \bn_bh_r_uukaar;
+    sub \bn_m_ra \bn_ukaar  by \bn_m_r_ukaar;
+    sub \bn_m_ra \bn_uukaar  by \bn_m_r_uukaar;
+    sub \bn_m_p_ra \bn_ukaar  by \bn_m_p_r_ukaar;
+    sub \bn_m_p_ra \bn_uukaar  by \bn_m_p_r_uukaar;
+    sub \bn_ra \bn_ukaar  by \bn_r_ukaar;
+    sub \bn_ra \bn_uukaar  by \bn_r_uukaar;
+    sub \bn_l_ga \bn_ukaar  by \bn_l_g_ukaar;
+    sub \bn_sha \bn_ukaar  by \bn_sh_ukaar;
+    sub \bn_sh_ra \bn_ukaar  by \bn_sh_r_ukaar;
+    sub \bn_sh_ra \bn_uukaar  by \bn_sh_r_uukaar;
+    sub \bn_sh_la \bn_ukaar  by \bn_sh_l_ukaar;
+    sub \bn_sh_la \bn_uukaar  by \bn_sh_l_uukaar;
+    sub \bn_ss_p_ra \bn_ukaar  by \bn_ss_p_r_ukaar;
+    sub \bn_ss_p_ra \bn_uukaar  by \bn_ss_p_r_uukaar;
+    sub \bn_s_ta \bn_ukaar  by \bn_s_t_ukaar;
+    sub \bn_s_ra \bn_ukaar  by \bn_s_r_ukaar;
+    sub \bn_s_ra \bn_uukaar  by \bn_s_r_uukaar;
+    sub \bn_s_p_ra \bn_ukaar  by \bn_s_p_r_ukaar;
+    sub \bn_s_p_ra \bn_uukaar  by \bn_s_p_r_uukaar;
+    sub \bn_s_p_la \bn_ukaar  by \bn_s_p_l_ukaar;
+    sub \bn_s_p_la \bn_uukaar  by \bn_s_p_l_uukaar;
+    sub \bn_s_la \bn_ukaar  by \bn_s_l_ukaar;
+    sub \bn_s_la \bn_uukaar  by \bn_s_l_uukaar;
+    sub \bn_ha \bn_ukaar  by \bn_h_ukaar;
+    sub \bn_ha \bn_rikaar  by \bn_h_rikaar;
+    sub \bn_asamira \bn_ukaar  by \bn_asamir_ukaar;
+    sub \bn_asamira \bn_uukaar  by \bn_asamir_uukaar;
+    sub \bn_asamiba \bn_ukaar  by \bn_asamib_ukaar;
+    sub \bn_asamiba \bn_uukaar  by \bn_asamib_uukaar;
+    sub \bn_asamib_ra \bn_ukaar  by \bn_asamib_r_ukaar;
+    sub \bn_asamib_ra \bn_uukaar  by \bn_asamib_r_uukaar;
+} sub_ligature_blwsbeng_0;
+
+lookup abvsAboveBaseSubstitutionslooku {
+  lookupflag 0;
+    sub \uni0A28 \uni0A42 \uni0A70  by \uni0A28_uni0A42_uni0A70.abvs;
+    sub \uni0A3E \uni0A02  by \uni0A3E_uni0A02.abvs;
+    sub \uni0A06 \uni0A02  by \uni0A06_uni0A02.abvs;
+} abvsAboveBaseSubstitutionslooku;
+
+lookup sub_ligature_abvsgjr2_0 {
+  lookupflag 0;
+    sub \uni0A87 \uni0A82  by \uni0A87_uni0A82.abvs;
+    sub \uni0A88 \uni0A82  by \uni0A88_uni0A82.abvs;
+    sub \uni0A89 \uni0A82  by \uni0A89_uni0A82.abvs;
+    sub \uni0A8A \uni0A82  by \uni0A8A_uni0A82.abvs;
+    sub \uni0AC7 \uni0A82  by \uni0AC7_uni0A82.abvs;
+    sub \uni0AC7 \uni0AB0_uni0ACD.rphf  by \uni0AC7_uni0AB0_uni0ACD.rphf.abvs;
+    sub \uni0AC7 \uni0AB0_uni0ACD.rphf \uni0A82  by \uni0AC7_uni0AB0_uni0ACD.rphf_uni0A82.abvs;
+} sub_ligature_abvsgjr2_0;
+
+lookup sub_ligature_abvsdev2_0 {
+  lookupflag 0;
+    sub \uni0945 \uni0902  by \uni0955;
+    sub \uni094C \uni0902  by \uni0971;
+    sub \uni094B \uni0902  by \uni0972;
+    sub \uni093F \uni0902  by \uni0973;
+    sub \uni0940 \uni0902  by \uni0974;
+    sub \uni093F \uni0930_uni094D.rphf  by \uni0975;
+    sub \uni093F \glyph359  by \uni0976;
+    sub \uni0948 \glyph359  by \uniE969;
+    sub \uni094C \glyph359  by \uniE96A;
+    sub \uni0908 \uni0902  by \uni0908_uni0902.abvs;
+    sub \uni0947 \uni0901  by \uni0947_uni0901.abvs;
+    sub \uni094B \uni0901  by \uni094B_uni0901.abvs;
+    sub \uni094C \glyph247  by \glyph245;
+    sub \uni0948 \glyph247  by \glyph246;
+    sub \uni0930_uni094D.rphf \uni0901  by \glyph247;
+    sub \uni093E \uni0901  by \uni093E_uni0901.abvs;
+    sub \uni093E \uni0902  by \uni093E_uni0902.abvs;
+    sub \uni093E \uni0930_uni094D.rphf  by \glyph365;
+    sub \uni093E \uni0930_uni094D.rphf \uni0902  by \glyph366;
+    sub \uni0940 \uni0930_uni094D.rphf  by \glyph368;
+    sub \uni0947 \uni0902  by \uni0947_uni0902.abvs;
+    sub \uni0947 \uni0930_uni094D.rphf  by \glyph371;
+    sub \uni0947 \glyph359  by \glyph372;
+    sub \uni0948 \uni0902  by \uni0948_uni0902.abvs;
+    sub \uni0948 \uni0930_uni094D.rphf  by \glyph374;
+    sub \uni0948 \glyph359  by \glyph375;
+    sub \uni094B \uni0930_uni094D.rphf  by \glyph376;
+    sub \uni094C \uni0930_uni094D.rphf  by \glyph377;
+    sub \glyph377 \uni0902  by \glyph378;
+    sub \uni094B \glyph359  by \glyph380;
+} sub_ligature_abvsdev2_0;
+
+lookup pstsPostBaseSubstitutionslookup {
+  lookupflag 0;
+    sub \uni0A09 \uni0A71  by \uni0A09_uni0A71.psts;
+    sub \uni0A0A \uni0A71  by \uni0A0A_uni0A71.psts;
+    sub \uni0A13 \uni0A71  by \uni0A13_uni0A71.psts;
+} pstsPostBaseSubstitutionslookup;
+
+lookup sub_ligature_pstsgjr2_0 {
+  lookupflag 0;
+    sub \uni0A9C \uni0ABE  by \uni0A9C_uni0ABE.psts;
+    sub \uni0A9C \uni0AC0  by \uni0A9C_uni0AC0.psts;
+} sub_ligature_pstsgjr2_0;
+
+lookup sub_ligature_pstsbeng_0 {
+  lookupflag 0;
+    sub \bn_da \zerojoin \bn_yaphala  by \bn_d_ya;
+    sub \bn_na \zerojoin \bn_yaphala  by \bn_n_ya;
+    sub \bn_sha \zerojoin \bn_yaphala  by \bn_sh_ya;
+    sub \bn_ssa \zerojoin \bn_yaphala  by \bn_ss_ya;
+    sub \bn_sa \zerojoin \bn_yaphala  by \bn_s_ya;
+    sub \bn_ha \zerojoin \bn_yaphala  by \bn_h_ya;
+} sub_ligature_pstsbeng_0;
+
+lookup halnHalantFormslookup43 {
+  lookupflag 0;
+    sub \uni0939 \uni094D  by \uni0939_uni094D.haln;
+    sub \uni091B \uni094D  by \uni091B_uni094D.haln;
+    sub \glyph331 \uni0930_uni094D.blwf  by \glyph402;
+    sub \uni091F_uni093C.nukt \uni094D  by \uni91F_93C.nukt_94D.haln;
+    sub \uni0920_uni093C.nukt \uni094D  by \uni920_93C.nukt_94D.haln;
+    sub \uni095C \uni094D  by \uni095C_uni094D.haln;
+    sub \uni095D \uni094D  by \uni095D_uni094D.haln;
+    sub \glyph434 \uni094D  by \glyph439;
+    sub \uni0939_uni093C.nukt \uni094D  by \uni939_93C.nukt_94D.haln;
+    sub \uni0919_uni093C.nukt \uni094D  by \uni919_93C.nukt_94D.haln;
+    sub \uni937_94D.half_91F.pres \uni094D  by \u937_94D.half_91F.pres_94D.haln;
+    sub \uni937_94D.half_920.pres \uni094D  by \u937_94D.half_920.pres_94D.haln;
+    sub \uni939_94D.half_923.pres \uni094D  by \u939_94D.half_923.pres_94D.haln;
+    sub \uni939_94D.half_928.pres \uni094D  by \u939_94D.half_928.pres_94D.haln;
+    sub \uni939_94D.half_932.pres \uni094D  by \u939_94D.half_932.pres_94D.haln;
+    sub \uni939_94D.half_935.pres \uni094D  by \u939_94D.half_935.pres_94D.haln;
+} halnHalantFormslookup43;
+
+lookup halnHalantFormslookup44 {
+  lookupflag 0;
+    sub \bn_ka \bn_hasanta  by \bn_k_hasanta;
+    sub \bn_kha \bn_hasanta  by \bn_kh_hasanta;
+    sub \bn_ga \bn_hasanta  by \bn_g_hasanta;
+    sub \bn_gha \bn_hasanta  by \bn_gh_hasanta;
+    sub \bn_nga \bn_hasanta  by \bn_ng_hasanta;
+    sub \bn_ca \bn_hasanta  by \bn_c_hasanta;
+    sub \bn_cha \bn_hasanta  by \bn_ch_hasanta;
+    sub \bn_ja \bn_hasanta  by \bn_j_hasanta;
+    sub \bn_jha \bn_hasanta  by \bn_jh_hasanta;
+    sub \bn_nya \bn_hasanta  by \bn_ny_hasanta;
+    sub \bn_tta \bn_hasanta  by \bn_tt_hasanta;
+    sub \bn_ttha \bn_hasanta  by \bn_tth_hasanta;
+    sub \bn_dda \bn_hasanta  by \bn_dd_hasanta;
+    sub \bn_ddha \bn_hasanta  by \bn_ddh_hasanta;
+    sub \bn_nna \bn_hasanta  by \bn_nn_hasanta;
+    sub \bn_ta \bn_hasanta  by \bn_t_hasanta;
+    sub \bn_tha \bn_hasanta  by \bn_th_hasanta;
+    sub \bn_da \bn_hasanta  by \bn_d_hasanta;
+    sub \bn_dha \bn_hasanta  by \bn_dh_hasanta;
+    sub \bn_na \bn_hasanta  by \bn_n_hasanta;
+    sub \bn_pa \bn_hasanta  by \bn_p_hasanta;
+    sub \bn_pha \bn_hasanta  by \bn_ph_hasanta;
+    sub \bn_ba \bn_hasanta  by \bn_b_hasanta;
+    sub \bn_bha \bn_hasanta  by \bn_bh_hasanta;
+    sub \bn_ma \bn_hasanta  by \bn_m_hasanta;
+    sub \bn_ya \bn_hasanta  by \bn_y_hasanta;
+    sub \bn_ra \bn_hasanta  by \bn_r_hasanta;
+    sub \bn_la \bn_hasanta  by \bn_l_hasanta;
+    sub \bn_sha \bn_hasanta  by \bn_sh_hasanta;
+    sub \bn_ssa \bn_hasanta  by \bn_ss_hasanta;
+    sub \bn_sa \bn_hasanta  by \bn_s_hasanta;
+    sub \bn_ha \bn_hasanta  by \bn_h_hasanta;
+    sub \bn_rra \bn_hasanta  by \bn_rr_hasanta;
+    sub \bn_rha \bn_hasanta  by \bn_rh_hasanta;
+    sub \bn_yya \bn_hasanta  by \bn_yy_hasanta;
+    sub \bn_asamira \bn_hasanta  by \bn_asamir_hasanta;
+    sub \bn_asamiba \bn_hasanta  by \bn_asamib_hasanta;
+} halnHalantFormslookup44;
+
+lookup LigatureSubstitutionlookup45 {
+  lookupflag 0;
+    sub \uni090B \uni0930_uni094D.rphf  by \glyph240;
+    sub \uni0960 \uni0930_uni094D.rphf  by \glyph241;
+    sub \uni0930_uni094D.rphf \uni0902  by \glyph359;
+} LigatureSubstitutionlookup45;
+
+lookup aaltAccessAllAlternateslookup46 {
+  lookupflag 0;
+    sub \bn_ekaar by \bn_initekaar ;
+    sub \bn_aikaar by \bn_initaikaar ;
+} aaltAccessAllAlternateslookup46;
+
+feature liga {
+
+  script armn;
+     language dflt ;
+      lookup ligaStandardLigaturesinArmenian;
+
+  script latn;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinloo;
+} liga;
+
+feature init {
+
+  script beng;
+     language dflt ;
+      lookup initInitialFormslookup1;
+
+  script bng2;
+     language dflt ;
+      lookup initInitialFormslookup1;
+} init;
+
+feature nukt {
+
+  script dev2;
+     language dflt ;
+      lookup nuktNuktaFormslookup3;
+
+  script deva;
+     language dflt ;
+      lookup nuktNuktaFormslookup3;
+
+  script gjr2;
+     language dflt ;
+      lookup nuktNuktaFormslookup2;
+
+  script gujr;
+     language dflt ;
+      lookup nuktNuktaFormslookup2;
+
+  script gur2;
+     language dflt ;
+      lookup nuktNuktaFormslookup4;
+
+  script guru;
+     language dflt ;
+      lookup nuktNuktaFormslookup4;
+} nukt;
+
+feature akhn {
+
+  script beng;
+     language dflt ;
+      lookup akhnAkhandlookup7;
+
+  script bng2;
+     language dflt ;
+      lookup akhnAkhandlookup7;
+
+  script dev2;
+     language dflt ;
+      lookup akhnAkhandlookup6;
+
+  script deva;
+     language dflt ;
+      lookup akhnAkhandlookup6;
+
+  script gjr2;
+     language dflt ;
+      lookup akhnAkhandlookup5;
+
+  script gujr;
+     language dflt ;
+      lookup akhnAkhandlookup5;
+} akhn;
+
+feature rphf {
+
+  script beng;
+     language dflt ;
+      lookup rphfRephFormlookup11;
+
+  script bng2;
+     language dflt ;
+      lookup rphfRephFormlookup11;
+
+  script dev2;
+     language dflt ;
+      lookup rphfRephFormlookup10;
+
+  script deva;
+     language dflt ;
+      lookup rphfRephFormlookup10;
+
+  script gjr2;
+     language dflt ;
+      lookup rphfRephFormlookup9;
+
+  script gujr;
+     language dflt ;
+      lookup rphfRephFormlookup9;
+} rphf;
+
+feature dlig {
+
+  script hebr;
+     language dflt ;
+      lookup dligDiscretionaryLigaturesinHeb;
+
+  script latn;
+     language dflt ;
+      lookup dligDiscretionaryLigaturesinLat;
+} dlig;
+
+feature blwf {
+
+  script beng;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup17;
+
+  script bng2;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup17;
+
+  script dev2;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup16;
+
+  script deva;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup16;
+
+  script gjr2;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup15;
+
+  script gujr;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup15;
+
+  script gur2;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup14;
+
+  script guru;
+     language dflt ;
+      lookup blwfBelowBaseFormslookup14;
+} blwf;
+
+feature half {
+
+  script beng;
+     language dflt ;
+      lookup halfHalfFormslookup20;
+
+  script bng2;
+     language dflt ;
+      lookup halfHalfFormslookup20;
+
+  script dev2;
+     language dflt ;
+      lookup halfHalfFormslookup19;
+
+  script deva;
+     language dflt ;
+      lookup halfHalfFormslookup19;
+
+  script gjr2;
+     language dflt ;
+      lookup halfHalfFormslookup18;
+
+  script gujr;
+     language dflt ;
+      lookup halfHalfFormslookup18;
+} half;
+
+feature pstf {
+
+  script beng;
+     language dflt ;
+      lookup pstfPostBaseFormslookup22;
+
+  script bng2;
+     language dflt ;
+      lookup pstfPostBaseFormslookup22;
+
+  script gur2;
+     language dflt ;
+      lookup pstfPostBaseFormslookup21;
+
+  script guru;
+     language dflt ;
+      lookup pstfPostBaseFormslookup21;
+} pstf;
+
+feature frac {
+
+  script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup23;
+} frac;
+
+feature vatu {
+
+  script beng;
+     language dflt ;
+      lookup vatuVattuVariantslookup28;
+
+  script bng2;
+     language dflt ;
+      lookup vatuVattuVariantslookup28;
+
+  script dev2;
+     language dflt ;
+      lookup vatuVattuVariantslookup26;
+      lookup vatuVattuVariantslookup27;
+
+  script deva;
+     language dflt ;
+      lookup vatuVattuVariantslookup26;
+      lookup vatuVattuVariantslookup27;
+
+  script gjr2;
+     language dflt ;
+      lookup vatuVattuVariantslookup24;
+      lookup vatuVattuVariantslookup25;
+
+  script gujr;
+     language dflt ;
+      lookup vatuVattuVariantslookup24;
+      lookup vatuVattuVariantslookup25;
+} vatu;
+
+feature pres {
+
+  script beng;
+     language dflt ;
+      lookup sub_ligature_presbeng_0;
+
+  script bng2;
+     language dflt ;
+      lookup sub_ligature_presbeng_0;
+
+  script dev2;
+     language dflt ;
+      lookup presPreBaseSubstitutionslookup3;
+      lookup sub_ligature_presdev2_0;
+
+  script deva;
+     language dflt ;
+      lookup presPreBaseSubstitutionslookup3;
+      lookup sub_ligature_presdev2_0;
+
+  script gjr2;
+     language dflt ;
+      lookup presPreBaseSubstitutionslookup2;
+      lookup presPreBaseSubstitutionslookup3;
+
+  script gujr;
+     language dflt ;
+      lookup presPreBaseSubstitutionslookup2;
+} pres;
+
+feature blws {
+
+  script beng;
+     language dflt ;
+      lookup sub_ligature_blwsbeng_0;
+
+  script bng2;
+     language dflt ;
+      lookup sub_ligature_blwsbeng_0;
+
+  script dev2;
+     language dflt ;
+      lookup sub_ligature_blwsdev2_0;
+
+  script deva;
+     language dflt ;
+      lookup sub_ligature_blwsdev2_0;
+
+  script gjr2;
+     language dflt ;
+      lookup sub_ligature_blwsgjr2_0;
+
+  script gujr;
+     language dflt ;
+      lookup sub_ligature_blwsgjr2_0;
+
+  script gur2;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionslooku;
+
+  script guru;
+     language dflt ;
+      lookup blwsBelowBaseSubstitutionslooku;
+} blws;
+
+feature abvs {
+
+  script dev2;
+     language dflt ;
+      lookup sub_ligature_abvsdev2_0;
+
+  script deva;
+     language dflt ;
+      lookup sub_ligature_abvsdev2_0;
+
+  script gjr2;
+     language dflt ;
+      lookup sub_ligature_abvsgjr2_0;
+
+  script gujr;
+     language dflt ;
+      lookup sub_ligature_abvsgjr2_0;
+
+  script gur2;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionslooku;
+
+  script guru;
+     language dflt ;
+      lookup abvsAboveBaseSubstitutionslooku;
+} abvs;
+
+feature psts {
+
+  script beng;
+     language dflt ;
+      lookup sub_ligature_pstsbeng_0;
+
+  script bng2;
+     language dflt ;
+      lookup sub_ligature_pstsbeng_0;
+
+  script gjr2;
+     language dflt ;
+      lookup sub_ligature_pstsgjr2_0;
+
+  script gujr;
+     language dflt ;
+      lookup sub_ligature_pstsgjr2_0;
+
+  script gur2;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+
+  script guru;
+     language dflt ;
+      lookup pstsPostBaseSubstitutionslookup;
+} psts;
+
+feature haln {
+
+  script beng;
+     language dflt ;
+      lookup halnHalantFormslookup44;
+
+  script bng2;
+     language dflt ;
+      lookup halnHalantFormslookup44;
+
+  script dev2;
+     language dflt ;
+      lookup halnHalantFormslookup43;
+
+  script deva;
+     language dflt ;
+      lookup halnHalantFormslookup43;
+} haln;
+
+feature reph {
+
+  script dev2;
+     language dflt ;
+      lookup LigatureSubstitutionlookup45;
+
+  script deva;
+     language dflt ;
+      lookup LigatureSubstitutionlookup45;
+} reph;
+
+feature aalt {
+
+  script beng;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup46;
+
+  script bng2;
+     language dflt ;
+      lookup aaltAccessAllAlternateslookup46;
+} aalt;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinloo {
+  lookupflag 0;
+    pos \comma \onefitted -100;
+    pos \comma \quotedblright -41;
+    pos \comma \quoteright -50;
+    pos \hyphen \AE -11;
+    pos \hyphen \Aring -7;
+    pos \hyphen \Adieresis -7;
+    pos \hyphen \Aacute -7;
+    pos \hyphen \Y -92;
+    pos \hyphen \W -19;
+    pos \hyphen \V -46;
+    pos \hyphen \T -80;
+    pos \hyphen \A -7;
+    pos \period \onefitted -101;
+    pos \period \quotedblright -41;
+    pos \period \quoteright -51;
+    pos \A \guilsinglleft -40;
+    pos \A \quotedblright -56;
+    pos \A \quoteright -65;
+    pos \A \ccaron -11;
+    pos \A \Ccaron -36;
+    pos \A \ccedilla -10;
+    pos \A \Udieresis -37;
+    pos \A \Ucircumflex -37;
+    pos \A \Uacute -37;
+    pos \A \Ugrave -37;
+    pos \A \Odieresis -33;
+    pos \A \Ccedilla -36;
+    pos \A \guillemotleft -44;
+    pos \A \y -136;
+    pos \A \w -125;
+    pos \A \v -147;
+    pos \A \t -45;
+    pos \A \j -45;
+    pos \A \Y -99;
+    pos \A \W -51;
+    pos \A \V -75;
+    pos \A \U -37;
+    pos \A \T -93;
+    pos \A \Q -32;
+    pos \A \O -33;
+    pos \A \G -35;
+    pos \A \C -36;
+    pos \A \hyphen -51;
+    pos \B \OE -5;
+    pos \B \Oslash -1;
+    pos \B \Odieresis -7;
+    pos \B \Ocircumflex -7;
+    pos \B \Oacute -7;
+    pos \B \Ograve -7;
+    pos \B \AE -21;
+    pos \B \Aring -21;
+    pos \B \Adieresis -21;
+    pos \B \Atilde -21;
+    pos \B \Acircumflex -21;
+    pos \B \Aacute -21;
+    pos \B \z -44;
+    pos \B \r -12;
+    pos \B \n -46;
+    pos \B \m -46;
+    pos \B \l -50;
+    pos \B \k -55;
+    pos \B \i -37;
+    pos \B \h -50;
+    pos \B \f -65;
+    pos \B \b -15;
+    pos \B \Y -44;
+    pos \B \W -25;
+    pos \B \V -41;
+    pos \B \O -7;
+    pos \B \A -21;
+    pos \C \Odieresis -8;
+    pos \C \Oacute -8;
+    pos \C \AE -33;
+    pos \C \Aring -32;
+    pos \C \Adieresis -32;
+    pos \C \Aacute -32;
+    pos \C \z -62;
+    pos \C \x -47;
+    pos \C \r -42;
+    pos \C \n -42;
+    pos \C \m -42;
+    pos \C \l -48;
+    pos \C \h -48;
+    pos \C \O -8;
+    pos \C \K -10;
+    pos \C \H -12;
+    pos \C \A -32;
+    pos \C \semicolon -63;
+    pos \C \colon -62;
+    pos \D \Aring -42;
+    pos \D \Adieresis -42;
+    pos \D \Atilde -42;
+    pos \D \Acircumflex -42;
+    pos \D \Aacute -42;
+    pos \D \Agrave -42;
+    pos \D \l -45;
+    pos \D \k -50;
+    pos \D \h -45;
+    pos \D \Y -63;
+    pos \D \X -53;
+    pos \D \W -29;
+    pos \D \V -51;
+    pos \D \T -45;
+    pos \D \J -5;
+    pos \D \A -42;
+    pos \E \y -74;
+    pos \E \w -110;
+    pos \E \v -114;
+    pos \E \u -64;
+    pos \E \t -55;
+    pos \E \p -31;
+    pos \E \j -74;
+    pos \E \i -41;
+    pos \F \oe -23;
+    pos \F \oslash -21;
+    pos \F \odieresis -21;
+    pos \F \oacute -21;
+    pos \F \eacute -24;
+    pos \F \ae -29;
+    pos \F \aring -33;
+    pos \F \adieresis -33;
+    pos \F \aacute -33;
+    pos \F \Odieresis -22;
+    pos \F \Aring -69;
+    pos \F \Adieresis -69;
+    pos \F \Atilde -69;
+    pos \F \Acircumflex -69;
+    pos \F \Aacute -69;
+    pos \F \Agrave -69;
+    pos \F \y -104;
+    pos \F \x -86;
+    pos \F \w -104;
+    pos \F \v -108;
+    pos \F \u -44;
+    pos \F \r -70;
+    pos \F \p -45;
+    pos \F \n -70;
+    pos \F \m -70;
+    pos \F \i -43;
+    pos \F \f -41;
+    pos \F \O -22;
+    pos \F \J -51;
+    pos \F \A -69;
+    pos \F \period -160;
+    pos \F \comma -160;
+    pos \G \AE -3;
+    pos \G \Aring -6;
+    pos \G \Adieresis -6;
+    pos \G \Atilde -6;
+    pos \G \Acircumflex -6;
+    pos \G \Aacute -6;
+    pos \G \Agrave -6;
+    pos \G \h -13;
+    pos \G \Y -62;
+    pos \G \W -28;
+    pos \G \V -50;
+    pos \G \T -44;
+    pos \G \A -6;
+    pos \G \semicolon -54;
+    pos \G \colon -55;
+    pos \H \y -52;
+    pos \H \w -52;
+    pos \H \v -51;
+    pos \H \u -42;
+    pos \H \t -71;
+    pos \H \p -42;
+    pos \H \j -71;
+    pos \I \y -52;
+    pos \I \w -54;
+    pos \I \v -51;
+    pos \I \u -42;
+    pos \I \t -71;
+    pos \I \p -42;
+    pos \I \j -71;
+    pos \J \AE -31;
+    pos \J \Aring -32;
+    pos \J \Adieresis -32;
+    pos \J \z -84;
+    pos \J \x -73;
+    pos \J \u -42;
+    pos \J \t -49;
+    pos \J \s -41;
+    pos \J \r -43;
+    pos \J \p -43;
+    pos \J \n -43;
+    pos \J \m -43;
+    pos \J \j -49;
+    pos \J \i -43;
+    pos \J \f -65;
+    pos \J \A -32;
+    pos \J \semicolon -42;
+    pos \J \colon -41;
+    pos \K \OE -45;
+    pos \K \udieresis -19;
+    pos \K \odieresis -29;
+    pos \K \oacute -29;
+    pos \K \ae -7;
+    pos \K \aring -11;
+    pos \K \adieresis -11;
+    pos \K \Odieresis -48;
+    pos \K \Oacute -48;
+    pos \K \y -117;
+    pos \K \w -117;
+    pos \K \v -116;
+    pos \K \u -52;
+    pos \K \t -57;
+    pos \K \s -40;
+    pos \K \q -63;
+    pos \K \o -66;
+    pos \K \j -52;
+    pos \K \g -66;
+    pos \K \e -66;
+    pos \K \d -67;
+    pos \K \c -65;
+    pos \K \a -66;
+    pos \K \T 20;
+    pos \K \S -38;
+    pos \K \O -48;
+    pos \K \G -51;
+    pos \K \C -51;
+    pos \L \quotedblright -141;
+    pos \L \quoteright -149;
+    pos \L \Scaron -19;
+    pos \L \Ccaron -41;
+    pos \L \udieresis -7;
+    pos \L \Udieresis -35;
+    pos \L \Odieresis -41;
+    pos \L \Otilde -41;
+    pos \L \Ocircumflex -41;
+    pos \L \Oacute -41;
+    pos \L \Ograve -41;
+    pos \L \Ccedilla -37;
+    pos \L \AE 20;
+    pos \L \Aring 17;
+    pos \L \Adieresis 17;
+    pos \L \Aacute 17;
+    pos \L \y -96;
+    pos \L \w -89;
+    pos \L \v -107;
+    pos \L \u -47;
+    pos \L \t -77;
+    pos \L \p -48;
+    pos \L \j -77;
+    pos \L \b -56;
+    pos \L \Y -121;
+    pos \L \W -68;
+    pos \L \V -105;
+    pos \L \U -35;
+    pos \L \T -105;
+    pos \L \S -19;
+    pos \L \O -41;
+    pos \L \G -42;
+    pos \L \C -41;
+    pos \L \A 17;
+    pos \L \hyphen -55;
+    pos \M \y -52;
+    pos \M \w -52;
+    pos \M \v -51;
+    pos \M \u -42;
+    pos \M \t -71;
+    pos \M \p -42;
+    pos \M \j -71;
+    pos \N \Ccaron -3;
+    pos \N \oslash 4;
+    pos \N \odieresis 2;
+    pos \N \oacute 2;
+    pos \N \ae -2;
+    pos \N \aring -5;
+    pos \N \adieresis -5;
+    pos \N \aacute -5;
+    pos \N \Ccedilla -3;
+    pos \N \AE -6;
+    pos \N \Aring -9;
+    pos \N \Adieresis -9;
+    pos \N \Aacute -9;
+    pos \N \z -67;
+    pos \N \x -65;
+    pos \N \u -42;
+    pos \N \t -49;
+    pos \N \s -40;
+    pos \N \r -43;
+    pos \N \p -43;
+    pos \N \n -43;
+    pos \N \m -43;
+    pos \N \j -49;
+    pos \N \i -43;
+    pos \N \f -65;
+    pos \N \G -2;
+    pos \N \C -3;
+    pos \N \A -9;
+    pos \N \semicolon -88;
+    pos \N \colon -88;
+    pos \N \period -65;
+    pos \N \comma -65;
+    pos \O \AE -39;
+    pos \O \Aring -35;
+    pos \O \Adieresis -35;
+    pos \O \Aacute -35;
+    pos \O \l -43;
+    pos \O \k -48;
+    pos \O \h -43;
+    pos \O \Y -59;
+    pos \O \X -46;
+    pos \O \W -23;
+    pos \O \V -45;
+    pos \O \T -42;
+    pos \O \A -35;
+    pos \P \oe -28;
+    pos \P \oslash -27;
+    pos \P \odieresis -27;
+    pos \P \oacute -27;
+    pos \P \eacute -31;
+    pos \P \ae -24;
+    pos \P \aring -28;
+    pos \P \adieresis -28;
+    pos \P \aacute -28;
+    pos \P \AE -86;
+    pos \P \Aring -78;
+    pos \P \Adieresis -78;
+    pos \P \Aacute -78;
+    pos \P \l -48;
+    pos \P \h -48;
+    pos \P \J -78;
+    pos \P \A -78;
+    pos \P \period -150;
+    pos \P \comma -150;
+    pos \Q \l -42;
+    pos \Q \k -47;
+    pos \Q \h -42;
+    pos \R \oe -11;
+    pos \R \OE -11;
+    pos \R \udieresis -9;
+    pos \R \uacute -37;
+    pos \R \odieresis -9;
+    pos \R \oacute -9;
+    pos \R \eacute -12;
+    pos \R \ae -12;
+    pos \R \aring -15;
+    pos \R \adieresis -15;
+    pos \R \aacute -15;
+    pos \R \Udieresis -17;
+    pos \R \Odieresis -13;
+    pos \R \Oacute -13;
+    pos \R \Ccedilla -16;
+    pos \R \t -65;
+    pos \R \j -65;
+    pos \R \b -43;
+    pos \R \Y -43;
+    pos \R \W -27;
+    pos \R \V -39;
+    pos \R \U -17;
+    pos \R \T -23;
+    pos \R \O -13;
+    pos \R \G -15;
+    pos \R \C -16;
+    pos \S \AE -22;
+    pos \S \Aring -22;
+    pos \S \Adieresis -22;
+    pos \S \Aacute -22;
+    pos \S \z -51;
+    pos \S \x -47;
+    pos \S \r -44;
+    pos \S \n -44;
+    pos \S \m -44;
+    pos \S \l -50;
+    pos \S \h -50;
+    pos \S \Y -48;
+    pos \S \W -28;
+    pos \S \V -42;
+    pos \S \T -28;
+    pos \S \A -22;
+    pos \T \guilsinglleft -117;
+    pos \T \scaron -60;
+    pos \T \Scaron -24;
+    pos \T \OE -35;
+    pos \T \oslash -87;
+    pos \T \ae -80;
+    pos \T \Oslash -41;
+    pos \T \Odieresis -42;
+    pos \T \Otilde -42;
+    pos \T \Ocircumflex -42;
+    pos \T \Oacute -42;
+    pos \T \Ograve -42;
+    pos \T \AE -97;
+    pos \T \Aring -95;
+    pos \T \Adieresis -95;
+    pos \T \Atilde -95;
+    pos \T \Acircumflex -95;
+    pos \T \Aacute -95;
+    pos \T \Agrave -95;
+    pos \T \guillemotleft -121;
+    pos \T \z -110;
+    pos \T \y -167;
+    pos \T \x -106;
+    pos \T \w -167;
+    pos \T \v -166;
+    pos \T \u -90;
+    pos \T \s -81;
+    pos \T \r -90;
+    pos \T \q -80;
+    pos \T \p -80;
+    pos \T \o -80;
+    pos \T \n -111;
+    pos \T \m -111;
+    pos \T \g -80;
+    pos \T \e -80;
+    pos \T \d -80;
+    pos \T \c -80;
+    pos \T \a -80;
+    pos \T \Y 20;
+    pos \T \W 16;
+    pos \T \V 12;
+    pos \T \S -24;
+    pos \T \O -42;
+    pos \T \J -100;
+    pos \T \G -45;
+    pos \T \C -44;
+    pos \T \A -95;
+    pos \T \semicolon -131;
+    pos \T \colon -131;
+    pos \T \period -108;
+    pos \T \hyphen -114;
+    pos \T \comma -108;
+    pos \U \AE -39;
+    pos \U \Aring -36;
+    pos \U \Adieresis -36;
+    pos \U \Atilde -36;
+    pos \U \Acircumflex -36;
+    pos \U \Aacute -36;
+    pos \U \z -41;
+    pos \U \x -73;
+    pos \U \u -42;
+    pos \U \t -49;
+    pos \U \s -44;
+    pos \U \r -68;
+    pos \U \p -43;
+    pos \U \n -68;
+    pos \U \m -68;
+    pos \U \j -49;
+    pos \U \i -66;
+    pos \U \f -65;
+    pos \U \A -36;
+    pos \U \semicolon -42;
+    pos \U \colon -41;
+    pos \V \guilsinglleft -80;
+    pos \V \Scaron -35;
+    pos \V \ccaron -43;
+    pos \V \oslash -50;
+    pos \V \ae -55;
+    pos \V \Oslash -33;
+    pos \V \Odieresis -40;
+    pos \V \Otilde -40;
+    pos \V \Ocircumflex -40;
+    pos \V \Oacute -40;
+    pos \V \Ograve -40;
+    pos \V \AE -78;
+    pos \V \Aring -71;
+    pos \V \Adieresis -71;
+    pos \V \Atilde -71;
+    pos \V \Acircumflex -71;
+    pos \V \Aacute -71;
+    pos \V \Agrave -71;
+    pos \V \guillemotleft -83;
+    pos \V \z -141;
+    pos \V \y -83;
+    pos \V \x -126;
+    pos \V \w -83;
+    pos \V \v -82;
+    pos \V \u -95;
+    pos \V \s -144;
+    pos \V \r -121;
+    pos \V \q -152;
+    pos \V \p -96;
+    pos \V \o -152;
+    pos \V \n -121;
+    pos \V \m -121;
+    pos \V \i -55;
+    pos \V \g -153;
+    pos \V \f -54;
+    pos \V \e -152;
+    pos \V \d -152;
+    pos \V \c -153;
+    pos \V \a -150;
+    pos \V \T 15;
+    pos \V \S -35;
+    pos \V \O -40;
+    pos \V \G -42;
+    pos \V \C -43;
+    pos \V \A -71;
+    pos \V \semicolon -142;
+    pos \V \colon -141;
+    pos \V \period -215;
+    pos \V \hyphen -102;
+    pos \V \comma -215;
+    pos \W \guilsinglleft -54;
+    pos \W \oslash -25;
+    pos \W \ae -34;
+    pos \W \Oslash -13;
+    pos \W \Odieresis -20;
+    pos \W \Otilde -20;
+    pos \W \Ocircumflex -20;
+    pos \W \Oacute -20;
+    pos \W \Ograve -20;
+    pos \W \AE -56;
+    pos \W \Aring -50;
+    pos \W \Adieresis -50;
+    pos \W \Atilde -50;
+    pos \W \Acircumflex -50;
+    pos \W \Aacute -50;
+    pos \W \Agrave -50;
+    pos \W \guillemotleft -58;
+    pos \W \z -59;
+    pos \W \x -44;
+    pos \W \s -53;
+    pos \W \q -57;
+    pos \W \o -57;
+    pos \W \g -58;
+    pos \W \e -57;
+    pos \W \d -57;
+    pos \W \c -57;
+    pos \W \a -55;
+    pos \W \T 19;
+    pos \W \S -24;
+    pos \W \O -20;
+    pos \W \G -22;
+    pos \W \C -23;
+    pos \W \A -50;
+    pos \W \semicolon -60;
+    pos \W \colon -59;
+    pos \W \period -95;
+    pos \W \comma -95;
+    pos \X \Odieresis -45;
+    pos \X \y -153;
+    pos \X \w -142;
+    pos \X \v -164;
+    pos \X \t -62;
+    pos \X \j -62;
+    pos \X \Q -44;
+    pos \X \O -45;
+    pos \X \C -48;
+    pos \X \hyphen -141;
+    pos \Y \guilsinglleft -119;
+    pos \Y \oslash -82;
+    pos \Y \ae -84;
+    pos \Y \Oslash -54;
+    pos \Y \Odieresis -56;
+    pos \Y \Otilde -56;
+    pos \Y \Ocircumflex -56;
+    pos \Y \Oacute -56;
+    pos \Y \Ograve -56;
+    pos \Y \AE -103;
+    pos \Y \Aring -96;
+    pos \Y \Adieresis -96;
+    pos \Y \Atilde -96;
+    pos \Y \Acircumflex -96;
+    pos \Y \Aacute -96;
+    pos \Y \Agrave -96;
+    pos \Y \guillemotleft -123;
+    pos \Y \z -141;
+    pos \Y \y -130;
+    pos \Y \x -141;
+    pos \Y \w -130;
+    pos \Y \v -129;
+    pos \Y \u -142;
+    pos \Y \s -141;
+    pos \Y \r -141;
+    pos \Y \q -190;
+    pos \Y \p -143;
+    pos \Y \o -141;
+    pos \Y \n -141;
+    pos \Y \m -141;
+    pos \Y \i -55;
+    pos \Y \g -141;
+    pos \Y \f -54;
+    pos \Y \e -141;
+    pos \Y \d -141;
+    pos \Y \c -141;
+    pos \Y \a -141;
+    pos \Y \T 23;
+    pos \Y \S -41;
+    pos \Y \O -56;
+    pos \Y \G -58;
+    pos \Y \C -58;
+    pos \Y \A -96;
+    pos \Y \semicolon -189;
+    pos \Y \colon -188;
+    pos \Y \period -234;
+    pos \Y \hyphen -206;
+    pos \Y \comma -234;
+    pos \Z \y -58;
+    pos \Z \w -58;
+    pos \Z \v -57;
+    pos \Z \u -66;
+    pos \Z \t -96;
+    pos \Z \p -67;
+    pos \Z \j -96;
+    pos \Z \i -43;
+    pos \Z \f -40;
+    pos \Z \semicolon -41;
+    pos \Z \colon -41;
+    pos \Z \hyphen -166;
+    pos \a \quoteright -23;
+    pos \a \v -33;
+    pos \e \quoteright -18;
+    pos \f \oe -12;
+    pos \f \period -40;
+    pos \f \comma -40;
+    pos \g \ae -1;
+    pos \g \period -43;
+    pos \h \quoteright -15;
+    pos \i \T -7;
+    pos \j \semicolon -56;
+    pos \j \colon -56;
+    pos \k \ae 2;
+    pos \n \quoteright -14;
+    pos \n \T -96;
+    pos \o \quoteright -21;
+    pos \o \T -99;
+    pos \r \quoteright 1;
+    pos \r \period -70;
+    pos \r \comma -70;
+    pos \s \quoteright -22;
+    pos \t \quoteright -1;
+    pos \t \ae 2;
+    pos \t \S -8;
+    pos \t \colon -40;
+    pos \u \quoteright -8;
+    pos \v \period -66;
+    pos \v \comma -66;
+    pos \w \oslash -6;
+    pos \w \period -99;
+    pos \w \comma -99;
+    pos \x \eacute -28;
+    pos \y \period -99;
+    pos \y \comma -99;
+    pos \guillemotright \AE -54;
+    pos \guillemotright \Aring -50;
+    pos \guillemotright \Adieresis -50;
+    pos \guillemotright \Aacute -50;
+    pos \guillemotright \Y -133;
+    pos \guillemotright \W -66;
+    pos \guillemotright \V -93;
+    pos \guillemotright \T -126;
+    pos \guillemotright \A -50;
+    pos \Agrave \Y -99;
+    pos \Agrave \W -51;
+    pos \Agrave \V -75;
+    pos \Agrave \U -37;
+    pos \Agrave \T -93;
+    pos \Agrave \Q -32;
+    pos \Agrave \O -33;
+    pos \Agrave \G -35;
+    pos \Agrave \C -36;
+    pos \Agrave \period 5;
+    pos \Agrave \comma 5;
+    pos \Aacute \guilsinglleft -40;
+    pos \Aacute \quoteright -65;
+    pos \Aacute \guillemotleft -44;
+    pos \Aacute \y -34;
+    pos \Aacute \w -21;
+    pos \Aacute \v -31;
+    pos \Aacute \u -12;
+    pos \Aacute \t -16;
+    pos \Aacute \q -8;
+    pos \Aacute \o -13;
+    pos \Aacute \g -10;
+    pos \Aacute \e -16;
+    pos \Aacute \d -8;
+    pos \Aacute \c -11;
+    pos \Aacute \b 4;
+    pos \Aacute \a -4;
+    pos \Aacute \Y -99;
+    pos \Aacute \W -51;
+    pos \Aacute \V -75;
+    pos \Aacute \U -37;
+    pos \Aacute \T -93;
+    pos \Aacute \Q -32;
+    pos \Aacute \O -33;
+    pos \Aacute \G -35;
+    pos \Aacute \C -36;
+    pos \Aacute \period 5;
+    pos \Aacute \hyphen -3;
+    pos \Aacute \comma 5;
+    pos \Acircumflex \Y -99;
+    pos \Acircumflex \W -51;
+    pos \Acircumflex \V -75;
+    pos \Acircumflex \U -37;
+    pos \Acircumflex \T -93;
+    pos \Acircumflex \Q -32;
+    pos \Acircumflex \O -33;
+    pos \Acircumflex \G -35;
+    pos \Acircumflex \C -36;
+    pos \Acircumflex \period 5;
+    pos \Acircumflex \comma 5;
+    pos \Atilde \Y -99;
+    pos \Atilde \W -51;
+    pos \Atilde \V -75;
+    pos \Atilde \U -37;
+    pos \Atilde \T -93;
+    pos \Atilde \Q -32;
+    pos \Atilde \O -33;
+    pos \Atilde \G -35;
+    pos \Atilde \C -36;
+    pos \Atilde \period 5;
+    pos \Atilde \comma 5;
+    pos \Adieresis \guilsinglleft -40;
+    pos \Adieresis \quotedblright -56;
+    pos \Adieresis \quoteright -65;
+    pos \Adieresis \guillemotleft -44;
+    pos \Adieresis \y -34;
+    pos \Adieresis \w -21;
+    pos \Adieresis \v -31;
+    pos \Adieresis \u -12;
+    pos \Adieresis \t -16;
+    pos \Adieresis \q -8;
+    pos \Adieresis \o -13;
+    pos \Adieresis \g -10;
+    pos \Adieresis \d -8;
+    pos \Adieresis \c -11;
+    pos \Adieresis \b 4;
+    pos \Adieresis \a -4;
+    pos \Adieresis \Y -99;
+    pos \Adieresis \W -51;
+    pos \Adieresis \V -75;
+    pos \Adieresis \U -37;
+    pos \Adieresis \T -93;
+    pos \Adieresis \Q -32;
+    pos \Adieresis \O -33;
+    pos \Adieresis \G -35;
+    pos \Adieresis \C -36;
+    pos \Adieresis \period 5;
+    pos \Adieresis \hyphen -3;
+    pos \Adieresis \comma 5;
+    pos \Aring \guilsinglleft -40;
+    pos \Aring \quotedblright -56;
+    pos \Aring \quoteright -65;
+    pos \Aring \guillemotleft -44;
+    pos \Aring \y -34;
+    pos \Aring \w -21;
+    pos \Aring \v -31;
+    pos \Aring \u -12;
+    pos \Aring \t -16;
+    pos \Aring \q -8;
+    pos \Aring \o -13;
+    pos \Aring \g -10;
+    pos \Aring \e -16;
+    pos \Aring \d -8;
+    pos \Aring \c -11;
+    pos \Aring \b 4;
+    pos \Aring \a -4;
+    pos \Aring \Y -99;
+    pos \Aring \W -51;
+    pos \Aring \V -75;
+    pos \Aring \U -37;
+    pos \Aring \T -93;
+    pos \Aring \Q -32;
+    pos \Aring \O -33;
+    pos \Aring \G -35;
+    pos \Aring \C -36;
+    pos \Aring \period 5;
+    pos \Aring \hyphen -3;
+    pos \Aring \comma 5;
+    pos \Ccedilla \A -31;
+    pos \Ograve \Y -59;
+    pos \Ograve \V -45;
+    pos \Ograve \T -42;
+    pos \Oacute \Y -59;
+    pos \Oacute \W -23;
+    pos \Oacute \V -45;
+    pos \Oacute \T -42;
+    pos \Oacute \A -35;
+    pos \Ocircumflex \Y -59;
+    pos \Ocircumflex \V -45;
+    pos \Ocircumflex \T -42;
+    pos \Otilde \Y -59;
+    pos \Otilde \V -45;
+    pos \Otilde \T -42;
+    pos \Odieresis \Y -59;
+    pos \Odieresis \X -46;
+    pos \Odieresis \W -23;
+    pos \Odieresis \V -45;
+    pos \Odieresis \T -42;
+    pos \Odieresis \A -35;
+    pos \Oslash \A -33;
+    pos \Ugrave \A -36;
+    pos \Uacute \r -4;
+    pos \Uacute \p 3;
+    pos \Uacute \n -4;
+    pos \Uacute \m -4;
+    pos \Uacute \A -36;
+    pos \Uacute \period -25;
+    pos \Uacute \comma -27;
+    pos \Ucircumflex \A -36;
+    pos \Udieresis \r -4;
+    pos \Udieresis \p 3;
+    pos \Udieresis \n -4;
+    pos \Udieresis \m -4;
+    pos \Udieresis \b 3;
+    pos \Udieresis \A -36;
+    pos \Udieresis \period -25;
+    pos \Udieresis \comma -27;
+    pos \agrave \y -26;
+    pos \agrave \w -13;
+    pos \agrave \v -21;
+    pos \aacute \y -26;
+    pos \aacute \w -13;
+    pos \aacute \v -21;
+    pos \adieresis \y -26;
+    pos \adieresis \w -13;
+    pos \adieresis \v -21;
+    pos \aring \y -26;
+    pos \aring \w -13;
+    pos \aring \v -21;
+    pos \ae \y -20;
+    pos \ae \w -10;
+    pos \ae \v -16;
+    pos \eacute \y -19;
+    pos \eacute \w -9;
+    pos \eacute \v -15;
+    pos \ecircumflex \y -19;
+    pos \ecircumflex \w -9;
+    pos \ecircumflex \v -15;
+    pos \ograve \y -22;
+    pos \ograve \w -10;
+    pos \ograve \v -18;
+    pos \oacute \y -22;
+    pos \oacute \w -10;
+    pos \oacute \v -18;
+    pos \ocircumflex \t -10;
+    pos \odieresis \y -22;
+    pos \odieresis \x -27;
+    pos \odieresis \w -10;
+    pos \odieresis \v -18;
+    pos \odieresis \t -10;
+    pos \Ccaron \O -8;
+    pos \Ccaron \K -10;
+    pos \Ccaron \H -12;
+    pos \Ccaron \A -32;
+    pos \ccaron \k 7;
+    pos \ccaron \h 1;
+    pos \Scaron \t -3;
+    pos \Scaron \V -42;
+    pos \Scaron \T -28;
+    pos \Scaron \A -22;
+    pos \Zcaron \y -38;
+    pos \Zcaron \v -33;
+    pos \quoteleft \AE -79;
+    pos \quoteleft \Aring -67;
+    pos \quoteleft \Adieresis -67;
+    pos \quoteleft \Aacute -67;
+    pos \quoteleft \Y -9;
+    pos \quoteleft \W 12;
+    pos \quoteleft \T -5;
+    pos \quoteleft \A -67;
+    pos \quoteright \AE -85;
+    pos \quoteright \Aring -72;
+    pos \quoteright \Adieresis -72;
+    pos \quoteright \Aacute -72;
+    pos \quoteright \y -6;
+    pos \quoteright \w 2;
+    pos \quoteright \v -2;
+    pos \quoteright \t -7;
+    pos \quoteright \s -18;
+    pos \quoteright \r -18;
+    pos \quoteright \o -26;
+    pos \quoteright \d -20;
+    pos \quoteright \A -72;
+    pos \quoteright \period -60;
+    pos \quoteright \comma -60;
+    pos \quotedblleft \AE -64;
+    pos \quotedblleft \Aring -52;
+    pos \quotedblleft \Adieresis -52;
+    pos \quotedblleft \Aacute -52;
+    pos \quotedblleft \Y 5;
+    pos \quotedblleft \W 27;
+    pos \quotedblleft \V 15;
+    pos \quotedblleft \T 9;
+    pos \quotedblleft \A -52;
+    pos \quotedblright \AE -66;
+    pos \quotedblright \Aring -53;
+    pos \quotedblright \Adieresis -53;
+    pos \quotedblright \Aacute -53;
+    pos \quotedblright \Y 7;
+    pos \quotedblright \W 26;
+    pos \quotedblright \V 15;
+    pos \quotedblright \T 11;
+    pos \quotedblright \A -53;
+    pos \quotedblbase \AE 30;
+    pos \quotedblbase \Y -91;
+    pos \quotedblbase \W -34;
+    pos \quotedblbase \V -69;
+    pos \quotedblbase \T -75;
+    pos \quotedblbase \A 30;
+    pos \guilsinglright \AE -48;
+    pos \guilsinglright \Aring -44;
+    pos \guilsinglright \Adieresis -44;
+    pos \guilsinglright \Aacute -44;
+    pos \guilsinglright \Y -128;
+    pos \guilsinglright \W -60;
+    pos \guilsinglright \V -88;
+    pos \guilsinglright \T -121;
+    pos \guilsinglright \A -44;
+    pos \onefitted \period -74;
+    pos \onefitted \comma -74;
+} kernHorizontalKerninginLatinloo;
+
+feature kern {
+
+  script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.notdef \.null \nonmarkingreturn \space \exclam \quotedbl 
+	\numbersign \dollar \percent \ampersand \quotesingle \parenleft \parenright 
+	\asterisk \plus \comma \hyphen \period \slash \zero \one \two \three \four \five 
+	\six \seven \eight \nine \colon \semicolon \less \equal \greater \question \at \A \B 
+	\C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \bracketleft \backslash 
+	\bracketright \asciicircum \underscore \grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o 
+	\p \q \r \s \t \u \v \w \x \y \z \braceleft \bar \braceright \asciitilde \uni0080 
+	\nonbreakingspace \exclamdown \cent \sterling \currency \yen \brokenbar 
+	\section \copyright \ordfeminine \guillemotleft \logicalnot \softhyphen 
+	\registered \macron \degree \plusminus \twosuperior \threesuperior \acute 
+	\micro \paragraph \periodcentered \cedilla \onesuperior \ordmasculine 
+	\guillemotright \onequarter \onehalf \threequarters \questiondown \Agrave 
+	\Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Ccedilla \Egrave \Eacute 
+	\Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex \Idieresis \Eth \Ntilde 
+	\Ograve \Oacute \Ocircumflex \Otilde \Odieresis \multiply \Oslash \Ugrave 
+	\Uacute \Ucircumflex \Udieresis \Yacute \Thorn \germandbls \agrave \aacute 
+	\acircumflex \atilde \adieresis \aring \ae \ccedilla \egrave \eacute 
+	\ecircumflex \edieresis \igrave \iacute \icircumflex \idieresis \eth \ntilde 
+	\ograve \oacute \ocircumflex \otilde \odieresis \divide \oslash \ugrave \uacute 
+	\ucircumflex \udieresis \yacute \thorn \ydieresis \Amacron \amacron \Abreve 
+	\abreve \Aogonek \aogonek \Cacute \cacute \Ccircumflex \ccircumflex \Cdotaccent 
+	\cdotaccent \Ccaron \ccaron \Dcaron \dcaron \Dcroat \dcroat \Emacron \emacron 
+	\Ebreve \ebreve \Edotaccent \edotaccent \Eogonek \eogonek \Ecaron \ecaron 
+	\Gcircumflex \gcircumflex \Gbreve \gbreve \Gdotaccent \gdotaccent 
+	\Gcommaaccent \gcommaaccent \Hcircumflex \hcircumflex \Hbar \hbar \Itilde 
+	\itilde \Imacron \imacron \Ibreve \ibreve \Iogonek \iogonek \Idotaccent 
+	\dotlessi \Jcircumflex \jcircumflex \Kcommaaccent \kcommaaccent \kgreenlandic 
+	\Lacute \lacute \Lcommaaccent \lcommaaccent \Lcaron \lcaron \Ldot \ldot \Lslash 
+	\lslash \Nacute \nacute \Ncommaaccent \ncommaaccent \Ncaron \ncaron 
+	\napostrophe \Eng \eng \Omacron \omacron \Obreve \obreve \Ohungarumlaut 
+	\ohungarumlaut \OE \oe \Racute \racute \Rcommaaccent \rcommaaccent \Rcaron 
+	\rcaron \Sacute \sacute \Scircumflex \scircumflex \Scedilla \scedilla \Scaron 
+	\scaron \uni0162 \uni0163 \Tcaron \tcaron \Tbar \tbar \Utilde \utilde \Umacron 
+	\umacron \Ubreve \ubreve \Uring \uring \Uhungarumlaut \uhungarumlaut \Uogonek 
+	\uogonek \Wcircumflex \wcircumflex \Ycircumflex \ycircumflex \Ydieresis 
+	\Zacute \zacute \Zdotaccent \zdotaccent \Zcaron \zcaron \longs \uni0180 \uni0181 
+	\uni0182 \uni0183 \uni0184 \uni0185 \uni0186 \uni0187 \uni0188 \uni0189 \uni018A 
+	\uni018B \uni018C \uni018D \uni018E \uni018F \uni0190 \uni0191 \florin \uni0193 
+	\uni0194 \uni0195 \uni0196 \uni0197 \uni0198 \uni0199 \uni019A \uni019B \uni019C 
+	\uni019D \uni019E \uni019F \Ohorn \ohorn \uni01A2 \uni01A3 \uni01A4 \uni01A5 
+	\uni01A6 \uni01A7 \uni01A8 \uni01A9 \uni01AA \uni01AB \uni01AC \uni01AD \uni01AE 
+	\Uhorn \uhorn \uni01B1 \uni01B2 \uni01B3 \uni01B4 \uni01B5 \uni01B6 \uni01B7 
+	\uni01B8 \uni01B9 \uni01BA \uni01BB \uni01BE \uni01BF \uni01C0 \uni01C1 \uni01C2 
+	\uni01C3 \uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 \uni01CA \uni01CB 
+	\uni01CC \uni01CD \uni01CE \uni01CF \uni01D0 \uni01D1 \uni01D2 \uni01D3 \uni01D4 
+	\uni01D5 \uni01D6 \uni01D7 \uni01D8 \uni01D9 \uni01DA \uni01DB \uni01DC \uni01DD 
+	\uni01DE \uni01DF \uni01E0 \uni01E1 \uni01E2 \uni01E3 \uni01E4 \uni01E5 \Gcaron 
+	\gcaron \uni01E8 \uni01E9 \uni01EA \uni01EB \uni01EC \uni01ED \uni01EE \uni01EF 
+	\uni01F0 \uni01F1 \uni01F2 \uni01F3 \uni01F4 \uni01F5 \uni01F8 \uni01F9 
+	\Aringacute \aringacute \AEacute \aeacute \Oslashacute \oslashacute \uni0200 
+	\uni0201 \uni0202 \uni0203 \uni0204 \uni0205 \uni0206 \uni0207 \uni0208 \uni0209 
+	\uni020A \uni020B \uni020C \uni020D \uni020E \uni020F \uni0210 \uni0211 \uni0212 
+	\uni0213 \uni0214 \uni0215 \uni0216 \uni0217 \Scommaaccent \scommaaccent 
+	\Tcommaaccent \tcommaaccent \uni021E \uni021F \uni0224 \uni0225 \uni0226 
+	\uni0227 \uni0228 \uni0229 \uni022A \uni022B \uni022C \uni022D \uni022E \uni022F 
+	\uni0230 \uni0231 \uni0232 \uni0233 \dotlessj \uni0250 \uni0251 \uni0252 
+	\uni0253 \uni0254 \uni0255 \uni0256 \uni0257 \uni0258 \uni0259 \uni025B \uni025C 
+	\uni025E \uni025F \uni0260 \uni0261 \uni0262 \uni0263 \uni0264 \uni0265 \uni0266 
+	\uni0267 \uni0268 \uni0269 \uni026A \uni026D \uni026E \uni026F \uni0270 \uni0271 
+	\uni0272 \uni0273 \uni0274 \uni0275 \uni0276 \uni0277 \uni0278 \uni0279 \uni027A 
+	\uni027B \uni027C \uni027D \uni027E \uni027F \uni0280 \uni0281 \uni0282 \uni0283 
+	\uni0284 \uni0285 \uni0286 \uni0287 \uni0288 \uni0289 \uni028A \uni028B \uni028C 
+	\uni028D \uni028E \uni028F \uni0290 \uni0291 \uni0292 \uni0294 \uni0295 \uni0296 
+	\uni0297 \uni0298 \uni0299 \uni029A \uni029B \uni029C \uni029D \uni029E \uni029F 
+	\uni02A0 \uni02A1 \uni02A2 \uni02A3 \uni02A4 \uni02A5 \uni02BE \circumflex 
+	\caron \uni02C9 \uni02CA \uni02CB \uni02D2 \uni02D3 \breve \dotaccent \ring 
+	\ogonek \tilde \hungarumlaut \uni031A \uni031B \uni0321 \uni0322 \uni035C 
+	\uni035D \uni035E \uni035F \uni0360 \uni0361 \uni0362 \uni0374 \uni0375 \uni037A 
+	\uni037E \tonos \dieresistonos \Alphatonos \anoteleia \Epsilontonos \Etatonos 
+	\Iotatonos \Omicrontonos \Upsilontonos \Omegatonos \iotadieresistonos \Alpha 
+	\Beta \Gamma \uni0394 \Epsilon \Zeta \Eta \Theta \Iota \Kappa \Lambda \Mu \Nu \Xi 
+	\Omicron \Pi \Rho \Sigma \Tau \Upsilon \Phi \Chi \Psi \uni03A9 \Iotadieresis 
+	\Upsilondieresis \alphatonos \epsilontonos \etatonos \iotatonos 
+	\upsilondieresistonos \alpha \beta \gamma \delta \epsilon \zeta \eta \theta \iota 
+	\kappa \lambda \uni03BC \nu \xi \omicron \pi \rho \sigma1 \sigma \tau \upsilon \phi 
+	\chi \psi \omega \iotadieresis \upsilondieresis \omicrontonos \upsilontonos 
+	\omegatonos \theta1 \Upsilon1 \phi1 \pisymbolgreek \uni03D7 \uni03F0 
+	\rhosymbolgreek \uni03F5 \uni0400 \afii10023 \afii10051 \afii10052 \afii10053 
+	\afii10054 \afii10055 \afii10056 \afii10057 \afii10058 \afii10059 \afii10060 
+	\afii10061 \uni040D \afii10062 \afii10145 \afii10017 \afii10018 \afii10019 
+	\afii10020 \afii10021 \afii10022 \afii10024 \afii10025 \afii10026 \afii10027 
+	\afii10028 \afii10029 \afii10030 \afii10031 \afii10032 \afii10033 \afii10034 
+	\afii10035 \afii10036 \afii10037 \afii10038 \afii10039 \afii10040 \afii10041 
+	\afii10042 \afii10043 \afii10044 \afii10045 \afii10046 \afii10047 \afii10048 
+	\afii10049 \afii10065 \afii10066 \afii10067 \afii10068 \afii10069 \afii10070 
+	\afii10072 \afii10073 \afii10074 \afii10075 \afii10076 \afii10077 \afii10078 
+	\afii10079 \afii10080 \afii10081 \afii10082 \afii10083 \afii10084 \afii10085 
+	\afii10086 \afii10087 \afii10088 \afii10089 \afii10090 \afii10091 \afii10092 
+	\afii10093 \afii10094 \afii10095 \afii10096 \afii10097 \uni0450 \afii10071 
+	\afii10099 \afii10100 \afii10101 \afii10102 \afii10103 \afii10104 \afii10105 
+	\afii10106 \afii10107 \afii10108 \afii10109 \uni045D \afii10110 \afii10193 
+	\afii10147 \afii10195 \uni048C \uni048D \uni048E \uni048F \afii10050 \afii10098 
+	\uni0492 \uni0493 \uni0494 \uni0495 \uni0496 \uni0497 \uni0498 \uni0499 \uni049A 
+	\uni049B \uni049C \uni049D \uni049E \uni049F \uni04A0 \uni04A1 \uni04A2 \uni04A3 
+	\uni04A4 \uni04A5 \uni04A6 \uni04A7 \uni04AA \uni04AB \uni04AC \uni04AD \uni04AE 
+	\uni04AF \uni04B0 \uni04B1 \uni04B2 \uni04B3 \uni04B4 \uni04B5 \uni04B6 \uni04B7 
+	\uni04B8 \uni04B9 \uni04BA \uni04BB \uni04BC \uni04BD \uni04BE \uni04BF \uni04C0 
+	\uni04C1 \uni04C2 \uni04C3 \uni04C4 \uni04C5 \uni04C6 \uni04C7 \uni04C8 \uni04C9 
+	\uni04CA \uni04CB \uni04CC \uni04CD \uni04CE \uni04D0 \uni04D1 \uni04D2 \uni04D3 
+	\uni04D4 \uni04D5 \uni04D6 \uni04D7 \uni04D8 \afii10846 \uni04DA \uni04DB 
+	\uni04DC \uni04DD \uni04DE \uni04DF \uni04E0 \uni04E1 \uni04E2 \uni04E3 \uni04E4 
+	\uni04E5 \uni04E6 \uni04E7 \uni04E8 \uni04E9 \uni04EA \uni04EB \uni04EC \uni04ED 
+	\uni04EE \uni04EF \uni04F0 \uni04F1 \uni04F2 \uni04F3 \uni04F4 \uni04F5 \uni04F8 
+	\uni04F9 \uni0531 \uni0532 \uni0533 \uni0534 \uni0535 \uni0536 \uni0537 \uni0538 
+	\uni0539 \uni053A \uni053B \uni053C \uni053D \uni053E \uni053F \uni0540 \uni0541 
+	\uni0542 \uni0543 \uni0544 \uni0545 \uni0546 \uni0547 \uni0548 \uni0549 \uni054A 
+	\uni054B \uni054C \uni054D \uni054E \uni054F \uni0550 \uni0551 \uni0552 \uni0553 
+	\uni0554 \uni0555 \uni0556 \uni0559 \uni055A \uni055B \uni055C \uni055D \uni055E 
+	\uni055F \uni0561 \uni0562 \uni0563 \uni0564 \uni0565 \uni0566 \uni0567 \uni0568 
+	\uni0569 \uni056A \uni056B \uni056C \uni056D \uni056E \uni056F \uni0570 \uni0571 
+	\uni0572 \uni0573 \uni0574 \uni0575 \uni0576 \uni0577 \uni0578 \uni0579 \uni057A 
+	\uni057B \uni057C \uni057D \uni057E \uni057F \uni0580 \uni0581 \uni0582 \uni0583 
+	\uni0584 \uni0585 \uni0586 \uni0589 \uni058A \afii57799 \afii57801 \afii57800 
+	\afii57802 \afii57793 \afii57794 \afii57795 \afii57798 \afii57797 \afii57806 
+	\afii57796 \afii57807 \afii57839 \afii57645 \afii57841 \afii57842 \afii57804 
+	\afii57803 \afii57658 \uni05C4 \afii57664 \afii57665 \afii57666 \afii57667 
+	\afii57668 \afii57669 \afii57670 \afii57671 \afii57672 \afii57673 \afii57674 
+	\afii57675 \afii57676 \afii57677 \afii57678 \afii57679 \afii57680 \afii57681 
+	\afii57682 \afii57683 \afii57684 \afii57685 \afii57686 \afii57687 \afii57688 
+	\afii57689 \afii57690 \uni0700 \uni0701 \uni0702 \uni0703 \uni0704 \uni0705 
+	\uni0706 \uni0707 \uni0708 \uni0709 \uni070A \uni070B \uni070C \uni070D \uni0710 
+	\uni0711 \uni0712 \uni0713 \uni0714 \uni0715 \uni0716 \uni0717 \uni0718 \uni0719 
+	\uni071A \uni071B \uni071C \uni071D \uni071E \uni071F \uni0720 \uni0721 \uni0722 
+	\uni0723 \uni0724 \uni0725 \uni0726 \uni0727 \uni0728 \uni0729 \uni072A \uni072B 
+	\uni072C \uni0730 \uni0731 \uni0732 \uni0733 \uni0734 \uni0735 \uni0736 \uni0737 
+	\uni0738 \uni0739 \uni073A \uni073B \uni073C \uni073D \uni073E \uni073F \uni0740 
+	\uni0741 \uni0742 \uni0743 \uni0744 \uni0745 \uni0746 \uni0747 \uni0748 \uni0749 
+	\uni074A \uni0901 \uni0903 \uni0905 \uni0906 \uni0907 \uni0908 \uni0909 \uni090A 
+	\uni090B \uni090C \uni090D \uni090E \uni090F \uni0910 \uni0911 \uni0912 \uni0913 
+	\uni0914 \uni0915 \uni0916 \uni0917 \uni0918 \uni0919 \uni091A \uni091B \uni091C 
+	\uni091D \uni091E \uni091F \uni0920 \uni0921 \uni0922 \uni0923 \uni0924 \uni0925 
+	\uni0926 \uni0927 \uni0928 \uni0929 \uni092A \uni092B \uni092C \uni092D \uni092E 
+	\uni092F \uni0930 \uni0931 \uni0932 \uni0933 \uni0934 \uni0935 \uni0936 \uni0937 
+	\uni0938 \uni0939 \uni093B \uni093C \uni093D \uni093E \uni093F \uni0940 \uni0941 
+	\uni0942 \uni0943 \uni0944 \uni0947 \uni0949 \uni094A \uni094B \uni094C \uni094F 
+	\uni0950 \uni0964 \uni0965 \uni0966 \uni0967 \uni0968 \uni0969 \uni096A \uni096B 
+	\uni096C \uni096D \uni096E \uni096F \uni0970 \bn_candrabindu \bn_anusvara 
+	\bn_visarga \bn_a \bn_aa \bn_i \bn_ii \bn_u \bn_uu \bn_ri \bn_li \bn_e \bn_ai \bn_o 
+	\bn_au \bn_ka \bn_kha \bn_ga \bn_gha \bn_nga \bn_ca \bn_cha \bn_ja \bn_jha \bn_nya 
+	\bn_tta \bn_ttha \bn_dda \bn_ddha \bn_nna \bn_ta \bn_tha \bn_da \bn_dha \bn_na 
+	\bn_pa \bn_pha \bn_ba \bn_bha \bn_ma \bn_ya \bn_ra \bn_la \bn_sha \bn_ssa \bn_sa 
+	\bn_ha \bn_nukta \bn_avagraha \bn_aakaar \bn_ikaar \bn_iikaar \bn_ukaar 
+	\bn_uukaar \bn_rikaar \bn_rrikaar \bn_ekaar \bn_aikaar \bn_okaar \bn_aukaar 
+	\bn_hasanta \bn_aumark \bn_rra \bn_rha \bn_yya \bn_rri \bn_lli \bn_likaar 
+	\bn_llikaar \bn_zero \bn_one \bn_two \bn_three \bn_four \bn_five \bn_six 
+	\bn_seven \bn_eight \bn_nine \bn_asamira \bn_asamiba \bn_rupeemark 
+	\bn_rupeesign \bn_currency1 \bn_currency2 \bn_currency3 \bn_currency4 
+	\bn_currencyless \bn_currency16 \bn_isshar \uni0A03 \uni0A05 \uni0A06 \uni0A07 
+	\uni0A08 \uni0A09 \uni0A0A \uni0A0F \uni0A10 \uni0A13 \uni0A14 \uni0A15 \uni0A16 
+	\uni0A17 \uni0A18 \uni0A19 \uni0A1A \uni0A1B \uni0A1C \uni0A1D \uni0A1E \uni0A1F 
+	\uni0A20 \uni0A21 \uni0A22 \uni0A23 \uni0A24 \uni0A25 \uni0A26 \uni0A27 \uni0A28 
+	\uni0A2A \uni0A2B \uni0A2C \uni0A2D \uni0A2E \uni0A2F \uni0A30 \uni0A32 \uni0A35 
+	\uni0A38 \uni0A39 \uni0A3C \uni0A3E \uni0A3F \uni0A40 \uni0A5C \uni0A66 \uni0A67 
+	\uni0A68 \uni0A69 \uni0A6A \uni0A6B \uni0A6C \uni0A6D \uni0A6E \uni0A6F \uni0A72 
+	\uni0A73 \uni0A74 \uni0A83 \uni0A85 \uni0A86 \uni0A87 \uni0A88 \uni0A89 \uni0A8A 
+	\uni0A8B \uni0A8D \uni0A8F \uni0A90 \uni0A91 \uni0A93 \uni0A94 \uni0A95 \uni0A96 
+	\uni0A97 \uni0A98 \uni0A99 \uni0A9A \uni0A9B \uni0A9C \uni0A9D \uni0A9E \uni0A9F 
+	\uni0AA0 \uni0AA1 \uni0AA2 \uni0AA3 \uni0AA4 \uni0AA5 \uni0AA6 \uni0AA7 \uni0AA8 
+	\uni0AAA \uni0AAB \uni0AAC \uni0AAD \uni0AAE \uni0AAF \uni0AB0 \uni0AB2 \uni0AB3 
+	\uni0AB5 \uni0AB6 \uni0AB7 \uni0AB8 \uni0AB9 \uni0ABA \uni0ABC \uni0ABD \uni0ABE 
+	\uni0ABF \uni0AC0 \uni0AC9 \uni0ACB \uni0ACC \uni0AD0 \uni0AE0 \uni0AE4 \uni0AE5 
+	\uni0AE6 \uni0AE7 \uni0AE8 \uni0AE9 \uni0AEA \uni0AEB \uni0AEC \uni0AED \uni0AEE 
+	\uni0AEF \uni0AF0 \uni0AF1 \uni0B02 \uni0B03 \uni0B05 \uni0B06 \uni0B07 \uni0B09 
+	\uni0B0B \uni0B0F \uni0B13 \uni0B15 \uni0B16 \uni0B17 \uni0B18 \uni0B1A \uni0B1C 
+	\uni0B1D \uni0B1F \uni0B20 \uni0B21 \uni0B2A \uni0B2B \uni0B2F \uni0B30 \uni0B32 
+	\uni0B33 \uni0B36 \uni0B37 \uni0B38 \uni0B39 \uni0B3E \uni0B3F \uni0B40 \uni0B41 
+	\uni0B42 \uni0B43 \uni0B47 \uni0B60 \uni0B66 \uni0B67 \uni0B68 \uni0B69 \uni0B6A 
+	\uni0B6B \uni0B6C \uni0B6D \uni0B6E \uni0B6F \uni0B82 \uni0B83 \uni0B85 \uni0B86 
+	\uni0B87 \uni0B88 \uni0B89 \uni0B8A \uni0B8E \uni0B8F \uni0B90 \uni0B92 \uni0B93 
+	\uni0B94 \uni0B95 \uni0B99 \uni0B9A \uni0B9C \uni0B9E \uni0B9F \uni0BA3 \uni0BA4 
+	\uni0BA8 \uni0BA9 \uni0BAA \uni0BAE \uni0BAF \uni0BB0 \uni0BB1 \uni0BB2 \uni0BB3 
+	\uni0BB4 \uni0BB5 \uni0BB7 \uni0BB8 \uni0BB9 \uni0BBE \uni0BBF \uni0BC0 \uni0BC1 
+	\uni0BC6 \uni0BC7 \uni0BC8 \uni0BCA \uni0BCB \uni0BCC \uni0BCD \uni0BD7 \uni0BDA 
+	\uni0BDB \uni0BDC \uni0BDD \uni0BE1 \uni0C83 \uni0C85 \uni0C86 \uni0C87 \uni0C88 
+	\uni0C89 \uni0C8A \uni0C8E \uni0C8F \uni0C90 \uni0C92 \uni0C93 \uni0C94 \uni0C95 
+	\uni0C96 \uni0C97 \uni0C98 \uni0C99 \uni0C9A \uni0C9C \uni0C9E \uni0C9F \uni0CA0 
+	\uni0CA1 \uni0CA2 \uni0CA3 \uni0CA4 \uni0CA5 \uni0CA6 \uni0CA7 \uni0CA8 \uni0CB0 
+	\uni0CB1 \uni0CB2 \uni0CB3 \uni0CE6 \uni0CE7 \uni0CE8 \uni0CE9 \uni0CEA \uni0CEB 
+	\uni0CEC \uni0CED \uni0CEE \uni0CEF \uni10A0 \uni10A1 \uni10A2 \uni10A3 \uni10A4 
+	\uni10A5 \uni10A6 \uni10A7 \uni10A8 \uni10A9 \uni10AA \uni10AB \uni10AC \uni10AD 
+	\uni10AE \uni10AF \uni10B0 \uni10B1 \uni10B2 \uni10B3 \uni10B4 \uni10B5 \uni10B6 
+	\uni10B7 \uni10B8 \uni10B9 \uni10BA \uni10BB \uni10BC \uni10BD \uni10BE \uni10BF 
+	\uni10C0 \uni10D0 \uni10D1 \uni10D2 \uni10D3 \uni10D4 \uni10D5 \uni10D6 \uni10D7 
+	\uni10D8 \uni10D9 \uni10DA \uni10DB \uni10DC \uni10DD \uni10DE \uni10DF \uni10E0 
+	\uni10E1 \uni10E2 \uni10E3 \uni10E4 \uni10E5 \uni10E6 \uni10E7 \uni10E8 \uni10E9 
+	\uni10EA \uni10EB \uni10EC \uni10ED \uni10EE \uni10EF \uni10F0 \uni10F1 \uni10F2 
+	\uni10F3 \uni10F4 \uni10F5 \uni1E00 \uni1E01 \uni1E02 \uni1E03 \uni1E04 \uni1E05 
+	\uni1E06 \uni1E07 \uni1E08 \uni1E09 \uni1E0A \uni1E0B \uni1E0C \uni1E0D \uni1E0E 
+	\uni1E0F \uni1E10 \uni1E11 \uni1E12 \uni1E13 \uni1E14 \uni1E15 \uni1E16 \uni1E17 
+	\uni1E18 \uni1E19 \uni1E1A \uni1E1B \uni1E1C \uni1E1D \uni1E1E \uni1E1F \uni1E20 
+	\uni1E21 \uni1E22 \uni1E23 \uni1E24 \uni1E25 \uni1E26 \uni1E27 \uni1E28 \uni1E29 
+	\uni1E2A \uni1E2B \uni1E2C \uni1E2D \uni1E2E \uni1E2F \uni1E30 \uni1E31 \uni1E32 
+	\uni1E33 \uni1E34 \uni1E35 \uni1E36 \uni1E37 \uni1E38 \uni1E39 \uni1E3A \uni1E3B 
+	\uni1E3C \uni1E3D \uni1E3E \uni1E3F \uni1E40 \uni1E41 \uni1E42 \uni1E43 \uni1E44 
+	\uni1E45 \uni1E46 \uni1E47 \uni1E48 \uni1E49 \uni1E4A \uni1E4B \uni1E4C \uni1E4D 
+	\uni1E4E \uni1E4F \uni1E50 \uni1E51 \uni1E52 \uni1E53 \uni1E54 \uni1E55 \uni1E56 
+	\uni1E57 \uni1E58 \uni1E59 \uni1E5A \uni1E5B \uni1E5C \uni1E5D \uni1E5E \uni1E5F 
+	\uni1E60 \uni1E61 \uni1E62 \uni1E63 \uni1E64 \uni1E65 \uni1E66 \uni1E67 \uni1E68 
+	\uni1E69 \uni1E6A \uni1E6B \uni1E6C \uni1E6D \uni1E6E \uni1E6F \uni1E70 \uni1E71 
+	\uni1E72 \uni1E73 \uni1E74 \uni1E75 \uni1E76 \uni1E77 \uni1E78 \uni1E79 \uni1E7A 
+	\uni1E7B \uni1E7C \uni1E7D \uni1E7E \uni1E7F \Wgrave \wgrave \Wacute \wacute 
+	\Wdieresis \wdieresis \uni1E86 \uni1E87 \uni1E88 \uni1E89 \uni1E8A \uni1E8B 
+	\uni1E8C \uni1E8D \uni1E8E \uni1E8F \uni1E90 \uni1E91 \uni1E92 \uni1E93 \uni1E94 
+	\uni1E95 \uni1E96 \uni1E97 \uni1E98 \uni1E99 \uni1E9B \uni1EA0 \uni1EA1 \uni1EA2 
+	\uni1EA3 \uni1EA4 \uni1EA5 \uni1EA6 \uni1EA7 \uni1EA8 \uni1EA9 \uni1EAA \uni1EAB 
+	\uni1EAC \uni1EAD \uni1EAE \uni1EAF \uni1EB0 \uni1EB1 \uni1EB2 \uni1EB3 \uni1EB4 
+	\uni1EB5 \uni1EB6 \uni1EB7 \uni1EB8 \uni1EB9 \uni1EBA \uni1EBB \uni1EBC \uni1EBD 
+	\uni1EBE \uni1EBF \uni1EC0 \uni1EC1 \uni1EC2 \uni1EC3 \uni1EC4 \uni1EC5 \uni1EC6 
+	\uni1EC7 \uni1EC8 \uni1EC9 \uni1ECA \uni1ECB \uni1ECC \uni1ECD \uni1ECE \uni1ECF 
+	\uni1ED0 \uni1ED1 \uni1ED2 \uni1ED3 \uni1ED4 \uni1ED5 \uni1ED6 \uni1ED7 \uni1ED8 
+	\uni1ED9 \uni1EDA \uni1EDB \uni1EDC \uni1EDD \uni1EDE \uni1EDF \uni1EE0 \uni1EE1 
+	\uni1EE2 \uni1EE3 \uni1EE4 \uni1EE5 \uni1EE6 \uni1EE7 \uni1EE8 \uni1EE9 \uni1EEA 
+	\uni1EEB \uni1EEC \uni1EED \uni1EEE \uni1EEF \uni1EF0 \uni1EF1 \Ygrave \ygrave 
+	\uni1EF4 \uni1EF5 \uni1EF6 \uni1EF7 \uni1EF8 \uni1EF9 \uni1F00 \uni1F01 \uni1F02 
+	\uni1F03 \uni1F04 \uni1F05 \uni1F06 \uni1F07 \uni1F08 \uni1F09 \uni1F0A \uni1F0B 
+	\uni1F0C \uni1F0D \uni1F0E \uni1F0F \uni1F10 \uni1F11 \uni1F12 \uni1F13 \uni1F14 
+	\uni1F15 \uni1F18 \uni1F19 \uni1F1A \uni1F1B \uni1F1C \uni1F1D \uni1F20 \uni1F21 
+	\uni1F22 \uni1F23 \uni1F24 \uni1F25 \uni1F26 \uni1F27 \uni1F28 \uni1F29 \uni1F2A 
+	\uni1F2B \uni1F2C \uni1F2D \uni1F2E \uni1F2F \uni1F30 \uni1F31 \uni1F32 \uni1F33 
+	\uni1F34 \uni1F35 \uni1F36 \uni1F37 \uni1F38 \uni1F39 \uni1F3A \uni1F3B \uni1F3C 
+	\uni1F3D \uni1F3E \uni1F3F \uni1F40 \uni1F41 \uni1F42 \uni1F43 \uni1F44 \uni1F45 
+	\uni1F48 \uni1F49 \uni1F4A \uni1F4B \uni1F4C \uni1F4D \uni1F50 \uni1F51 \uni1F52 
+	\uni1F53 \uni1F54 \uni1F55 \uni1F56 \uni1F57 \uni1F59 \uni1F5B \uni1F5D \uni1F5F 
+	\uni1F60 \uni1F61 \uni1F62 \uni1F63 \uni1F64 \uni1F65 \uni1F66 \uni1F67 \uni1F68 
+	\uni1F69 \uni1F6A \uni1F6B \uni1F6C \uni1F6D \uni1F6E \uni1F6F \uni1F70 \uni1F71 
+	\uni1F72 \uni1F73 \uni1F74 \uni1F75 \uni1F76 \uni1F77 \uni1F78 \uni1F79 \uni1F7A 
+	\uni1F7B \uni1F7C \uni1F7D \uni1F80 \uni1F81 \uni1F82 \uni1F83 \uni1F84 \uni1F85 
+	\uni1F86 \uni1F87 \uni1F88 \uni1F89 \uni1F8A \uni1F8B \uni1F8C \uni1F8D \uni1F8E 
+	\uni1F8F \uni1F90 \uni1F91 \uni1F92 \uni1F93 \uni1F94 \uni1F95 \uni1F96 \uni1F97 
+	\uni1F98 \uni1F99 \uni1F9A \uni1F9B \uni1F9C \uni1F9D \uni1F9E \uni1F9F \uni1FA0 
+	\uni1FA1 \uni1FA2 \uni1FA3 \uni1FA4 \uni1FA5 \uni1FA6 \uni1FA7 \uni1FA8 \uni1FA9 
+	\uni1FAA \uni1FAB \uni1FAC \uni1FAD \uni1FAE \uni1FAF \uni1FB0 \uni1FB1 \uni1FB2 
+	\uni1FB3 \uni1FB4 \uni1FB6 \uni1FB7 \uni1FB8 \uni1FB9 \uni1FBA \uni1FBB \uni1FBC 
+	\uni1FBD \uni1FBE \uni1FBF \uni1FC0 \uni1FC1 \uni1FC2 \uni1FC3 \uni1FC4 \uni1FC6 
+	\uni1FC7 \uni1FC8 \uni1FC9 \uni1FCA \uni1FCB \uni1FCC \uni1FCD \uni1FCE \uni1FCF 
+	\uni1FD0 \uni1FD1 \uni1FD2 \uni1FD3 \uni1FD6 \uni1FD7 \uni1FD8 \uni1FD9 \uni1FDA 
+	\uni1FDB \uni1FDD \uni1FDE \uni1FDF \uni1FE0 \uni1FE1 \uni1FE2 \uni1FE3 \uni1FE4 
+	\uni1FE5 \uni1FE6 \uni1FE7 \uni1FE8 \uni1FE9 \uni1FEA \uni1FEB \uni1FEC \uni1FED 
+	\uni1FEE \uni1FEF \uni1FF2 \uni1FF3 \uni1FF4 \uni1FF6 \uni1FF7 \uni1FF8 \uni1FF9 
+	\uni1FFA \uni1FFB \uni1FFC \uni1FFD \uni1FFE \enquad \emquad \enspace \emspace 
+	\threeperemspace \fourperemspace \sixperemspace \thinspace \zerowidthspace 
+	\zerowidthnonjoiner \zerojoin \uni2010 \uni2011 \figuredash \endash \emdash 
+	\afii00208 \quoteleft \quoteright \quotesinglbase \quotereversed 
+	\quotedblleft \quotedblright \quotedblbase \uni201F \dagger \daggerdbl \bullet 
+	\uni2023 \onedotenleader \ellipsis \perthousand \uni2031 \minute \second 
+	\uni2034 \uni2035 \uni2036 \uni2037 \guilsinglleft \guilsinglright \uni203B 
+	\exclamdbl \uni203D \overline \fraction \uni2045 \uni2046 \uni2047 \uni2048 
+	\uni2049 \uni204B \zerosuperior \uni2071 \foursuperior \fivesuperior 
+	\sixsuperior \sevensuperior \eightsuperior \ninesuperior \zeroinferior 
+	\oneinferior \twoinferior \threeinferior \fourinferior \fiveinferior 
+	\sixinferior \seveninferior \eightinferior \nineinferior \peseta \uni20A8 
+	\afii57636 \Euro \uni20B5 \uni210B \uni210C \uni2110 \Ifraktur \uni2112 
+	\afii61352 \uni2117 \weierstrass \uni211B \Rfraktur \trademark \uni2126 
+	\uni2127 \uni2128 \uni212A \angstrom \uni212C \uni212D \uni2130 \uni2131 
+	\uni2132 \uni2133 \alephmath \onethird \twothirds \uni2155 \uni2159 \oneeighth 
+	\uni215F \uni2160 \uni2161 \uni2162 \uni2163 \uni2164 \uni2165 \uni2166 \uni2167 
+	\uni2168 \uni2169 \uni216A \uni216B \uni216C \uni216D \uni216E \uni216F \uni2170 
+	\uni2171 \uni2172 \uni2173 \uni2174 \uni2175 \uni2176 \uni2177 \uni2178 \uni2179 
+	\uni217A \uni217B \uni217C \uni217D \uni217E \uni217F \arrowleft \arrowup 
+	\arrowright \arrowdown \arrowboth \arrowupdn \arrowupleft \arrowupright 
+	\arrowdownright \arrowdownleft \arrowbarright \arrowhookleft \arrowhookright 
+	\carriagereturn \harpoonleftbarbup \arrowleftbothalf \harpoonupright 
+	\harpoonupleft \harpoonrightbarbup \arrowrightbothalf \harpoondownright 
+	\harpoondownleft \harpoonrightleft \arrowdblleft \arrowdblup \arrowdblright 
+	\arrowdbldown \arrowdblboth \arrowdblbothv \arrowsquiggleright \universal 
+	\partialdiff \existential \emptyset \Delta.math \gradient \element \notelement 
+	\uni220A \suchthat \notcontains \ownersmall \product \uni2210 \summation \minus 
+	\uni2213 \uni2214 \slashmath \backslashmath \asteriskmath \uni2219 \radical 
+	\proportional \infinity \angle \divides \notbar \parallel \notparallel 
+	\logicaland \logicalor \intersection \union \integral \uni222C \uni222D 
+	\uni222E \therefore \similar \reversedtilde \uni223E \wreathproduct 
+	\notsimilar \uni2242 \asymptequal \notasymptequal \congruent \approxnotequal 
+	\notapproxequal \approxequal \uni2249 \equivasymptotic \approaches \notequal 
+	\equivalence \notidentical \lessequal \greaterequal \muchless \muchgreater 
+	\notequivasymptotic \notless \notgreater \notlessequal \notgreaterequal 
+	\uni2272 \uni2273 \precedes \follows \precedesequal \followsequal \notprecedes 
+	\notsucceeds \subset \superset \notsubset \notsuperset \reflexsubset 
+	\reflexsuperset \notsubseteql \notsuperseteql \uni228C \squareimage 
+	\squareoriginal \subsetsqequal \supersetsqequal \intersectionsq \unionsq 
+	\circleplus \uni2296 \circlemultiply \circledivide \circledot \turnstileleft 
+	\tackleft \tackdown \perpendicular \assertion \truestate \triangleright 
+	\triangleleft \triangleftequal \triangrightequal \narylogicaland 
+	\narylogicalor \naryintersection \naryunion \dotmath \uni22C6 \bowtie 
+	\preceedsnotequal \followsnotequal \notsubsetsqequal \notsupersetsqequal 
+	\uni2300 \ceilingleft \ceilingright \floorleft \floorright \integraltp 
+	\integralbt \frown \slurbelow \angleleft \angleright \uni23AE \uni2422 
+	\SF100000 \uni2501 \SF110000 \uni2503 \uni2504 \uni2505 \uni2506 \uni2507 
+	\uni2508 \uni2509 \uni250A \uni250B \SF010000 \uni250D \uni250E \uni250F 
+	\SF030000 \uni2511 \uni2512 \uni2513 \SF020000 \uni2515 \uni2516 \uni2517 
+	\SF040000 \uni2519 \uni251A \uni251B \SF080000 \uni251D \uni251E \uni251F 
+	\uni2520 \uni2521 \uni2522 \uni2523 \SF090000 \uni2525 \uni2526 \uni2527 
+	\uni2528 \uni2529 \uni252A \uni252B \SF060000 \uni252D \uni252E \uni252F 
+	\uni2530 \uni2531 \uni2532 \uni2533 \SF070000 \uni2535 \uni2536 \uni2537 
+	\uni2538 \uni2539 \uni253A \uni253B \SF050000 \uni253D \uni253E \uni253F 
+	\uni2540 \uni2541 \uni2542 \uni2543 \uni2544 \uni2545 \uni2546 \uni2547 \uni2548 
+	\uni2549 \uni254A \uni254B \SF430000 \SF240000 \SF510000 \SF520000 \SF390000 
+	\SF220000 \SF210000 \SF250000 \SF500000 \SF490000 \SF380000 \SF280000 \SF270000 
+	\SF260000 \SF360000 \SF370000 \SF420000 \SF190000 \SF200000 \SF230000 \SF470000 
+	\SF480000 \SF410000 \SF450000 \SF460000 \SF400000 \SF540000 \SF530000 \SF440000 
+	\upblock \uni2581 \uni2582 \uni2583 \dnblock \uni2585 \uni2586 \uni2587 \block 
+	\uni2589 \uni258A \uni258B \lfblock \uni258D \uni258E \uni258F \rtblock \ltshade 
+	\shade \dkshade \uni2594 \uni2595 \uni2596 \uni2597 \uni2598 \uni2599 \uni259A 
+	\uni259B \uni259C \uni259D \uni259E \uni259F \filledbox \H22073 \uni25A3 
+	\uni25A4 \uni25A5 \H18543 \filledrect \triangle \triangleinv \whitediamond 
+	\lozenge \circle \largecircle \uni262C \spade \heartopen \diamondopen \club 
+	\heart \diamond \musicalnote \uni2740 \uni2741 \uni2A00 \uni2A01 \uni2A02 
+	\uni2A03 \uni2A04 \uni2A09 \uni2E17 \uni3001 \uni3002 \uni3003 \uni3005 \uni3007 
+	\uni3008 \uni3009 \uni300A \uni300B \uni300C \uni300D \uni300E \uni300F \uni3010 
+	\uni3011 \uni3014 \uni3015 \uni3041 \uni3042 \uni3043 \uni3044 \uni3045 \uni3046 
+	\uni3047 \uni3048 \uni3049 \uni304A \uni304B \uni304C \uni304D \uni304E \uni304F 
+	\uni3050 \uni3051 \uni3052 \uni3053 \uni3054 \uni3055 \uni3056 \uni3057 \uni3058 
+	\uni3059 \uni305A \uni305B \uni305C \uni305D \uni305E \uni305F \uni3060 \uni3061 
+	\uni3062 \uni3063 \uni3064 \uni3065 \uni3066 \uni3067 \uni3068 \uni3069 \uni306A 
+	\uni306B \uni306C \uni306D \uni306E \uni306F \uni3070 \uni3071 \uni3072 \uni3073 
+	\uni3074 \uni3075 \uni3076 \uni3077 \uni3078 \uni3079 \uni307A \uni307B \uni307C 
+	\uni307D \uni307E \uni307F \uni3080 \uni3081 \uni3082 \uni3083 \uni3084 \uni3085 
+	\uni3086 \uni3087 \uni3088 \uni3089 \uni308A \uni308B \uni308C \uni308D \uni308E 
+	\uni308F \uni3090 \uni3091 \uni3092 \uni3093 \uni3099 \uni309B \uni30A1 \uni30A2 
+	\uni30A3 \uni30A4 \uni30A5 \uni30A6 \uni30A7 \uni30A8 \uni30A9 \uni30AA \uni30AB 
+	\uni30AC \uni30AD \uni30AE \uni30AF \uni30B0 \uni30B1 \uni30B2 \uni30B3 \uni30B4 
+	\uni30B5 \uni30B6 \uni30B7 \uni30B8 \uni30B9 \uni30BA \uni30BB \uni30BC \uni30BD 
+	\uni30BE \uni30BF \uni30C0 \uni30C1 \uni30C2 \uni30C3 \uni30C4 \uni30C5 \uni30C6 
+	\uni30C7 \uni30C8 \uni30C9 \uni30CA \uni30CB \uni30CC \uni30CD \uni30CE \uni30CF 
+	\uni30D0 \uni30D1 \uni30D2 \uni30D3 \uni30D4 \uni30D5 \uni30D6 \uni30D7 \uni30D8 
+	\uni30D9 \uni30DA \uni30DB \uni30DC \uni30DD \uni30DE \uni30DF \uni30E0 \uni30E1 
+	\uni30E2 \uni30E3 \uni30E4 \uni30E5 \uni30E6 \uni30E7 \uni30E8 \uni30E9 \uni30EA 
+	\uni30EB \uni30EC \uni30ED \uni30EE \uni30EF \uni30F0 \uni30F1 \uni30F2 \uni30F3 
+	\uni30F4 \uni30F5 \uni30F6 \uni30F7 \uni30F8 \uni30F9 \uni30FA \uni30FB \uni30FC 
+	\uni30FD \uni30FE \uniE968 \uniF639 \uniF63A \uniF63B \uniF63C \uniF63D \uniF63E 
+	\uniF63F \uniF640 \uniF641 \onefitted \uniFB06 \uniFB1D \uniFB1E \afii57705 
+	\uniFB20 \uniFB21 \uniFB22 \uniFB23 \uniFB24 \uniFB25 \uniFB26 \uniFB27 \uniFB28 
+	\uniFB29 \afii57694 \afii57695 \uniFB2C \uniFB2D \uniFB2E \uniFB2F \uniFB30 
+	\uniFB31 \uniFB32 \uniFB33 \uniFB34 \afii57723 \uniFB36 \uniFB38 \uniFB39 
+	\uniFB3A \uniFB3B \uniFB3C \uniFB3E \uniFB40 \uniFB41 \uniFB43 \uniFB44 \uniFB46 
+	\uniFB47 \uniFB48 \uniFB49 \uniFB4A \afii57700 \uniFB4C \uniFB4D \uniFB4E 
+	\uniFFFD \NULL \bn_initekaar \bn_initaikaar \bn_thaphala1 \bn_below_ba 
+	\bn_half_ca1 \bn_baphala1 \bn_maphala \bn_maphala1 \bn_k_ra1 \bn_t_ra1 
+	\bn_n_ra1 \bn_bh_ra1 \bn_s_ra1 \bn_asamir_ra \bn_k_ta1 \bn_k_t_ba1 \bn_k_t_ra1 
+	\bn_k_t_ra2 \bn_g_dh_ba \bn_ng_gh_ra \bn_ng_ma1 \bn_c_nya \bn_nn_dda1 
+	\bn_nn_dd_ra1 \bn_t_ma1 \bn_d_na \bn_d_bh_ra1 \bn_n_t_ra1 \bn_n_dh_ba 
+	\bn_n_ma1 \bn_b_na \bn_m_na1 \bn_m_bh_ra1 \bn_m_ma1 \bn_m_la1 \bn_ss_k_ra1 
+	\bn_ss_tta1 \bn_ss_tt_ra1 \bn_ss_ma1 \bn_s_k_ra1 \bn_s_tta1 \bn_s_tt_ra1 
+	\bn_s_t_ra1 \bn_s_na1 \bn_s_ma1 \bn_s_la1 \bn_h_la1 \bn_th_ba \bn_dh_ba1 
+	\bn_n_ba1 \bn_m_b_ra \bn_m_ba1 \bn_m_b_ra1 \bn_s_ba1 \bn_h_ba1 \bn_n_ukaar 
+	\bn_n_uukaar \bn_n_rikaar \bn_s_ukaar \bn_s_uukaar \bn_s_rikaar \bn_post_k_ra 
+	\glyph569 \emdash.1 \glyph571 \glyph572 \glyph574 \glyph3420 \bn_below_ba2 
+	\glyph578 \glyph579 \glyph580 \glyph581 \glyph582 \A.001 \bn_sh_ra.001 
+	\bn_yaphala.002 \bn_la.001 \glyph593 \glyph595 \bn_ss_tta.002 \glyph597 
+	\glyph598 \bn_uukaar.1 \glyph600 \A.002 \A.003 \glyph240 \glyph241 
+	\uni0916_094D.half_0928.pres \uni0918_094D.half_0928.pres \glyph269 
+	\glyph275 \uni0924_094D.half_0928.pres \uni0925_094D.half_0928.pres 
+	\glyph289 \uni092A_094D.half_0928.pres \glyph297 
+	\uni092C_094D.half_0928.pres \glyph308 \uni092E_094D.half_0928.pres 
+	\uni0935_094D.half_0928.pres \uni0915_094D.half_0915.pres 
+	\uni0926_094D.half_0918.pres \glyph330 \uni0932_094D.half_0939.pres 
+	\glyph335 \glyph337 \u91A_94D.hlf2_91A_94D.half 
+	\uni0938_0928_094D.half.pres \glyph341 \glyph342 \glyph343 \glyph344 
+	\glyph345 \glyph346 \glyph347 \glyph348 \glyph349 \glyph355 \glyph358 
+	\uni0930_uni094D.blwf \glyph367 \glyph368 \glyph369 \glyph378 \glyph381 
+	\uni915_930_94D.blwf.vatu \uni936_94D.hlf2_932_94D.pres 
+	\uni937_94D.half_91F.pres \uni937_94D.half_920.pres \glyph420 
+	\uni936_94D.hlf2_928_94D.pres \u938_4D.hlff24_4D.30_4Dbfvtuprs 
+	\uni924_94D.hlf2_928_94D.pres \u92A_94D.half_924_94D.half.pres 
+	\u939_94D.half_92E_94D.half.pres \uni0919_uni093C.nukt 
+	\uni0939_uni093C.nukt \glyph434 \glyph3726 
+	\uni0AB9_uni0AB0_uni0ACD.blwf.vatu \glyph3756 \glyph3758 \glyph3760 
+	\glyph3766 \glyph3767 \glyph3770 \glyph3774 \glyph3775 \glyph3776 \glyph3777 
+	\glyph3778 \glyph3779 \glyph3780 \glyph3781 \glyph3782 \glyph3783 \glyph3784 
+	\glyph3785 \glyph3789 \glyph3790 \glyph3791 \glyph3792 \glyph3793 \glyph3794 
+	\glyph3795 \glyph3796 \glyph3797 \glyph3838 \glyph3839 \glyph3840 \glyph3841 
+	\glyph3842 \glyph3843 \glyph3846 \glyph3847 \glyph3850 \glyph3851 \glyph3880 
+	\glyph3893 ];
+@GDEF_Ligature = [\IJ \ij \uni0587 \uni0958 \uni0959 \uni095A \uni095B \uni095C 
+	\uni095D \uni095E \uni095F \uni0960 \uni0961 \uni0971 \uni0972 \uni0973 \uni0974 
+	\uni0975 \uni0976 \bn_half_ta \uni0A33 \uni0A36 \uni0A59 \uni0A5A \uni0A5B 
+	\uni0A5E \uni2156 \uni2157 \uni2158 \uni215A \threeeighths \fiveeighths 
+	\seveneighths \uniE969 \uniE96A \ff \fi \fl \ffi \ffl \uniFB05 \uniFB4F \bn_reph 
+	\bn_kaphala \bn_nnaphala \bn_taphala \bn_thaphala \bn_dhaphala \bn_naphala 
+	\bn_bhaphala \bn_raphala \bn_laphala \bn_half_ka \bn_half_kha \bn_half_ga 
+	\bn_half_gha \bn_half_nga \bn_half_ca \bn_half_cha \bn_half_ja \bn_half_jha 
+	\bn_half_nya \bn_half_tta \bn_half_ttha \bn_half_dda \bn_half_ddha 
+	\bn_half_nna \bn_half_tha \bn_half_dha \bn_half_da \bn_half_na \bn_half_pa 
+	\bn_half_pha \bn_half_ba \bn_half_bha \bn_half_ma \bn_half_ya \bn_half_ra 
+	\bn_half_la \bn_half_sha \bn_half_ssa \bn_half_sa \bn_half_ha \bn_half_rra 
+	\bn_half_rha \bn_half_yya \bn_half_asamira \bn_half_asamiba \bn_khaphala 
+	\bn_phaphala \bn_yaphala \bn_k_ra \bn_kh_ra \bn_g_ra \bn_gh_ra \bn_c_ra 
+	\bn_ch_ra \bn_j_ra \bn_tt_ra \bn_tth_ra \bn_dd_ra \bn_ddh_ra \bn_t_ra \bn_th_ra 
+	\bn_d_ra \bn_dh_ra \bn_n_ra \bn_p_ra \bn_ph_ra \bn_b_ra \bn_bh_ra \bn_m_ra 
+	\bn_y_ra \bn_sh_ra \bn_ss_ra \bn_s_ra \bn_h_ra \bn_asamib_ra \bn_k_ss_ra 
+	\bn_k_ka \bn_k_tta \bn_k_tt_ra \bn_k_ta \bn_k_t_ba \bn_k_t_ra \bn_k_na \bn_k_ma 
+	\bn_k_la \bn_k_ssa \bn_k_ss_nna \bn_k_ss_ma \bn_k_sa \bn_g_ga \bn_g_da 
+	\bn_g_dha \bn_g_la \bn_g_na \bn_g_ma \bn_gh_na \bn_ng_ka \bn_ng_k_ra 
+	\bn_ng_k_ssa \bn_ng_k_ss_ra \bn_ng_kha \bn_ng_ga \bn_ng_gha \bn_ng_ma \bn_c_ca 
+	\bn_c_cha \bn_c_ch_ba \bn_c_ch_ra \bn_c_na \bn_j_ja \bn_j_j_ba \bn_j_jha 
+	\bn_j_nya \bn_ny_ca \bn_ny_cha \bn_ny_ja \bn_ny_jha \bn_tt_tta \bn_tt_tt_ra 
+	\bn_tt_ma \bn_dd_ga \bn_dd_dda \bn_dd_ma \bn_nn_tta \bn_nn_tt_ra \bn_nn_ttha 
+	\bn_nn_dda \bn_nn_dd_ra \bn_nn_ddha \bn_nn_nna \bn_nn_ma \bn_t_ta \bn_t_t_ba 
+	\bn_t_tha \bn_t_na \bn_t_ma \bn_t_la \bn_d_ga \bn_d_gha \bn_d_da \bn_d_d_ba 
+	\bn_d_d_ra \bn_d_dha \bn_d_dh_ba \bn_d_bha \bn_d_bh_ra \bn_d_ma \bn_dh_na 
+	\bn_dh_ma \bn_n_tta \bn_n_tt_ra \bn_n_ttha \bn_n_dda \bn_n_dd_ra \bn_n_ddha 
+	\bn_n_ta \bn_n_t_ba \bn_n_t_ra \bn_n_tha \bn_n_da \bn_n_d_ba \bn_n_d_ra 
+	\bn_n_dha \bn_n_dh_ra \bn_n_na \bn_n_ma \bn_n_sa \bn_p_tta \bn_p_ta \bn_p_pa 
+	\bn_p_ma \bn_p_na \bn_p_la \bn_p_sa \bn_ph_tta \bn_ph_la \bn_b_ja \bn_b_da 
+	\bn_b_d_ra \bn_b_dha \bn_b_bha \bn_b_la \bn_bh_la \bn_m_ta \bn_m_tha \bn_m_da 
+	\bn_m_na \bn_m_pa \bn_m_p_ra \bn_m_p_la \bn_m_pha \bn_m_ph_ra \bn_m_bha 
+	\bn_m_bh_ra \bn_m_ma \bn_m_la \bn_m_sa \bn_m_s_ra \bn_l_ka \bn_l_ga \bn_l_tta 
+	\bn_l_tt_ra \bn_l_dda \bn_l_dd_ra \bn_l_ta \bn_l_da \bn_l_dha \bn_l_pa 
+	\bn_l_pha \bn_l_ph_ra \bn_l_ma \bn_l_la \bn_sh_ca \bn_sh_cha \bn_sh_ta 
+	\bn_sh_na \bn_sh_ma \bn_sh_la \bn_ss_ka \bn_ss_k_ra \bn_ss_tta \bn_ss_tt_ra 
+	\bn_ss_ttha \bn_ss_nna \bn_ss_pa \bn_ss_p_ra \bn_ss_pha \bn_ss_ph_ra \bn_ss_ma 
+	\bn_s_ka \bn_s_k_ra \bn_s_kha \bn_s_tta \bn_s_tt_ra \bn_s_ta \bn_s_t_ba 
+	\bn_s_t_ra \bn_s_tha \bn_s_na \bn_s_pa \bn_s_p_ra \bn_s_p_la \bn_s_pha 
+	\bn_s_ph_ra \bn_s_ma \bn_s_la \bn_h_nna \bn_h_na \bn_h_ma \bn_h_la \bn_rr_ga 
+	\bn_k_ba \bn_g_ba \bn_gh_ba \bn_c_ba \bn_ch_ba \bn_j_ba \bn_tt_ba \bn_dd_ba 
+	\bn_nn_ba \bn_t_ba \bn_d_ba \bn_dh_ba \bn_n_ba \bn_p_ba \bn_b_ba \bn_bh_ba 
+	\bn_m_ba \bn_l_ba \bn_sh_ba \bn_s_ba \bn_h_ba \bn_kh_r_ukaar \bn_kh_r_uukaar 
+	\bn_g_ukaar \bn_g_r_ukaar \bn_g_r_uukaar \bn_g_l_ukaar \bn_g_l_uukaar 
+	\bn_j_r_ukaar \bn_j_r_uukaar \bn_t_r_ukaar \bn_t_r_uukaar \bn_th_r_ukaar 
+	\bn_th_r_uukaar \bn_d_ukaar \bn_d_r_ukaar \bn_d_r_uukaar \bn_dh_r_ukaar 
+	\bn_dh_r_uukaar \bn_n_t_ukaar \bn_n_d_r_ukaar \bn_n_d_r_uukaar \bn_p_r_ukaar 
+	\bn_p_r_uukaar \bn_p_l_ukaar \bn_p_l_uukaar \bn_b_r_ukaar \bn_b_r_uukaar 
+	\bn_b_l_ukaar \bn_b_l_uukaar \bn_bh_r_ukaar \bn_bh_r_uukaar \bn_m_r_ukaar 
+	\bn_m_r_uukaar \bn_m_p_r_ukaar \bn_m_p_r_uukaar \bn_r_ukaar \bn_r_uukaar 
+	\bn_l_g_ukaar \bn_sh_ukaar \bn_sh_r_ukaar \bn_sh_r_uukaar \bn_sh_l_ukaar 
+	\bn_sh_l_uukaar \bn_ss_p_r_ukaar \bn_ss_p_r_uukaar \bn_s_t_ukaar 
+	\bn_s_r_ukaar \bn_s_r_uukaar \bn_s_p_r_ukaar \bn_s_p_r_uukaar 
+	\bn_s_p_l_ukaar \bn_s_p_l_uukaar \bn_s_l_ukaar \bn_s_l_uukaar \bn_h_ukaar 
+	\bn_h_rikaar \bn_asamir_ukaar \bn_asamir_uukaar \bn_asamib_ukaar 
+	\bn_asamib_uukaar \bn_asamib_r_ukaar \bn_asamib_r_uukaar \bn_k_hasanta 
+	\bn_kh_hasanta \bn_g_hasanta \bn_gh_hasanta \bn_ng_hasanta \bn_c_hasanta 
+	\bn_ch_hasanta \bn_j_hasanta \bn_jh_hasanta \bn_ny_hasanta \bn_tt_hasanta 
+	\bn_tth_hasanta \bn_dd_hasanta \bn_ddh_hasanta \bn_nn_hasanta \bn_t_hasanta 
+	\bn_th_hasanta \bn_d_hasanta \bn_dh_hasanta \bn_n_hasanta \bn_p_hasanta 
+	\bn_ph_hasanta \bn_b_hasanta \bn_bh_hasanta \bn_m_hasanta \bn_y_hasanta 
+	\bn_r_hasanta \bn_l_hasanta \bn_sh_hasanta \bn_ss_hasanta \bn_s_hasanta 
+	\bn_h_hasanta \bn_rr_hasanta \bn_rh_hasanta \bn_yy_hasanta 
+	\bn_asamir_hasanta \bn_asamib_hasanta \bn_baphala \bn_d_ya \bn_n_ya \bn_sh_ya 
+	\bn_ss_ya \bn_s_ya \bn_h_ya \uni091F_uni093C.nukt \uni0920_uni093C.nukt 
+	\uni0908_uni0902.abvs \uni0947_uni0901.abvs \uni094B_uni0901.abvs \glyph245 
+	\glyph246 \glyph247 \uni0939_uni094D.haln \glyph249 \uni091B_uni094D.haln 
+	\uni0915_uni094D_uni0937.akhn \uni091C_uni094D_uni091E.akhn 
+	\uni924_94D.half_924.pres \uni924_930_94D.blwf.vatu 
+	\uni936_94D.half_91A.pres \uni936_930_94D.blwf.vatu 
+	\uni936_94D.half_935.pres \uni95B_930_94D.blwf.vatu 
+	\uni92B_930_94D.blwf.vatu \uni95E_930_94D.blwf.vatu 
+	\uni92A_930_94D.blwf.vatu \uni938_930_94D.blwf.vatu \uni0930_uni0941.blws 
+	\uni0930_uni0942.blws \uni915_94D.half_928.pres \uni0915_uni094D.half 
+	\uni0916_uni094D.half \uni0917_uni094D.half \uni0918_uni094D.half 
+	\uni091A_uni094D.half \uni091C_uni094D.half \uni091D_uni094D.half 
+	\uni091E_uni094D.half \uni0926_094D.half_0928.pres 
+	\uni0927_094D.half_0928.pres \uni0923_uni094D.half \uni0924_uni094D.half 
+	\uni0925_uni094D.half \uni926_94D.hlf2_926_94D.pres \uni0927_uni094D.half 
+	\uni0928_uni094D.half \uni092A_uni094D.half \uni092B_uni094D.half 
+	\uni092C_uni094D.half \uni092D_uni094D.half \uni092E_uni094D.half 
+	\uni092F_uni094D.half \uni0932_uni094D.half \uni0933_uni094D.half 
+	\uni0934_uni094D.half \uni0935_uni094D.half \uni0936_uni094D.half 
+	\uni0937_uni094D.half \uni0938_uni094D.half \uni0939_uni094D.half \glyph306 
+	\uni0936_094D.half_0928.pres \uni0919_094D.half_0915.pres 
+	\uni0919_094D.half_0916.pres \uni0919_094D.half_0917.pres 
+	\uni0919_094D.half_0918.pres \uni091E_094D.half_091C.pres 
+	\uni0926_094D.half_0926.pres \uni0926_094D.half_0927.pres 
+	\uni0926_094D.half_092C.pres \uni0926_094D.half_092D.pres 
+	\uni0926_094D.half_092E.pres \uni0926_094D.half_092F.pres 
+	\uni0926_094D.half_0935.pres \uni091F_094D.half_091F.pres 
+	\uni091F_094D.half_0920.pres \uni0920_094D.half_0920.pres \glyph329 
+	\glyph331 \uni0939_094D.half_092E.pres \uni0939_094D.half_092F.pres 
+	\u9_38_4D.hlf_24_4D_30prespres \uni0930_uni094D_afii301.half 
+	\uni915_94D_937.akhn_94D.half \u91C_94D_91E.akhn_94D.half \glyph352 
+	\u924_94D.half_930_94D.blwf.vatu \glyph354 \glyph356 \glyph357 
+	\uni939_930_94D.blwf.blws \uni0930_uni094D.rphf \uni093E_uni0901.abvs 
+	\uni093E_uni0902.abvs \glyph365 \glyph366 \uni0947_uni0902.abvs \glyph371 
+	\glyph372 \uni0948_uni0902.abvs \glyph374 \glyph375 \glyph376 \glyph377 
+	\u9_38_4Dhalf1F_30_4Dblwfvtu2 \glyph380 \uni0928_094D.half_0928.pres 
+	\uni0919_uni094D.half \uni091F_uni094D.half \uni0920_uni094D.half 
+	\uni0921_uni094D.half \uni0922_uni094D.half \uni0926_uni094D.half 
+	\uni916_930_94D.blwf.pres \uni917_930_94D.blwf.pres 
+	\uni918_930_94D.blwf.vatu \uni919_930_94D.blwf.vatu 
+	\uni91A_930_94D.blwf.vatu \uni91B_930_94D.blwf.vatu 
+	\uni91C_930_94D.blwf.vatu \uni91D_930_94D.blwf.vatu 
+	\uni91E_930_94D.blwf.vatu \uni91F_930_94D.blwf.vatu 
+	\uni920_930_94D.blwf.vatu \uni921_930_94D.blwf.vatu \glyph402 
+	\uni923_930_94D.blwf.vatu \uni0924_uni094D_uni0930.pres 
+	\uni925_930_94D.blwf.vatu \uni926_930_94D.blwf.vatu 
+	\uni927_930_94D.blwf.vatu \uni928_930_94D.blwf.vatu 
+	\uni92C_930_94D.blwf.vatu \uni92D_930_94D.blwf.vatu 
+	\uni92E_930_94D.blwf.vatu \uni92F_930_94D.blwf.vatu 
+	\uni930_930_94D.blwf.vatu \uni932_930_94D.blwf.vatu \glyph418 \glyph419 
+	\u926_94D.half_92E_94D.half.pres \uni939_94D.half_923.pres 
+	\uni939_94D.half_932.pres \uni939_94D.half_935.pres 
+	\uni939_94D.half_928.pres \u92A_94D.half_930_94D.blwf.vatu 
+	\uni91F_93C.nukt_94D.haln \uni920_93C.nukt_94D.haln \uni095C_uni094D.haln 
+	\uni095D_uni094D.haln \glyph439 \uni939_93C.nukt_94D.haln 
+	\uni919_93C.nukt_94D.haln \u937_94D.half_91F.pres_94D.haln 
+	\u937_94D.half_920.pres_94D.haln \u939_94D.half_923.pres_94D.haln 
+	\u939_94D.half_928.pres_94D.haln \u939_94D.half_932.pres_94D.haln 
+	\u939_94D.half_935.pres_94D.haln \uni092B_uni093C_uni094D.nukt 
+	\uni091C_uni093C_uni094D.nukt \uni0A95_uni0ACD.half \uni0A96_uni0ACD.half 
+	\uni0A97_uni0ACD.half \uni0A98_uni0ACD.half \uni0A9A_uni0ACD.half 
+	\uni0A9C_uni0ACD.half \uni0A9D_uni0ACD.half \uni0A9E_uni0ACD.half 
+	\uni0AA3_uni0ACD.half \uni0AA4_uni0ACD.half \uni0AA5_uni0ACD.half 
+	\uni0AA7_uni0ACD.half \uni0AA8_uni0ACD.half \uni0AAA_uni0ACD.half 
+	\uni0AAB_uni0ACD.half \uni0AAC_uni0ACD.half \uni0AAD_uni0ACD.half 
+	\uni0AAE_uni0ACD.half \uni0AAF_uni0ACD.half \uni0AB2_uni0ACD.half 
+	\uni0AB3_uni0ACD.half \uni0AB5_uni0ACD.half \uni0AB6_uni0ACD.half 
+	\uni0AB7_uni0ACD.half \uni0AB8_uni0ACD.half \uni0AB9_uni0ACD.half 
+	\uni0A95_uni0ACD_uni0AB7.akhn_uni0ACD.half 
+	\uni0AA4_uni0ACD.half_uni0AA4_uni0ACD.half.pres 
+	\uni0AA4_uni0ACD.half_uni0AB0_uni0ACD.vatu 
+	\uni0AA8_uni0ACD.half_uni0AA8.pres_uni0ACD.pres 
+	\uni0AB6_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A96_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A97_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A98_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A9A_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A9C_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AA5_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AA7_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AA8_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AAA_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AAC_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AAD_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AAE_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AB8_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu \uni0A87_uni0A82.abvs 
+	\uni0A88_uni0A82.abvs \uni0A89_uni0A82.abvs \uni0A8A_uni0A82.abvs 
+	\uni0A95_uni0ACD.half_uni0A95.pres \uni0A95_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A9C_uni0ABE.psts \uni0A9C_uni0AC0.psts 
+	\uni0A9C_uni0AB0_uni0ACD.blwf.vatu \uni0A9D_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A9F_uni0ACD_uni0A9F.pres \uni0A9F_uni0ACD_uni0AA0.pres 
+	\uni0AA0_uni0ACD_uni0AA0.pres \uni0AA1_uni0ACD_uni0AA1.pres 
+	\uni0AA1_uni0ACD_uni0AA2.pres \uni0AA6_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AA6_uni0ACD_uni0AAE.pres \uni0AA6_uni0ACD_uni0AA6.pres 
+	\uni0AA6_uni0ACD_uni0AA7.pres \uni0AA6_uni0ACD_uni0AB5.pres 
+	\uni0AAB_uni0AB0_uni0ACD.blwf.vatu \uni0AB0_uni0AC1.blws 
+	\uni0AB0_uni0AC2.blws \uni0AB5_uni0ACD.half_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AB6_uni0ACD.half_uni0AB5_uni0ACD.pres 
+	\uni0AB9_uni0ACD.half_uni0AAE.pres \uni0AB9_uni0ACD.half_uni0AAF.pres 
+	\uni0AB6_uni0ACD.half_uni0AA8.pres_uni0ACD.pres 
+	\uni0AB6_uni0ACD.half_uni0A9A_uni0ACD.pres \uni0AA2_uni0ACD_uni0AA2.pres 
+	\uni0A95_uni0ACD_uni0AB7.akhn \uni0AA4_uni0ACD.half_uni0AA4.pres 
+	\uni0AA4_uni0AB0_uni0ACD.blwf.vatu \uni0AA8_uni0ACD.half_uni0AA8.pres 
+	\uni0AB6_uni0AB0_uni0ACD.blwf.vatu \uni0A96_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A97_uni0AB0_uni0ACD.blwf.vatu \uni0A98_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A9A_uni0AB0_uni0ACD.blwf.vatu \uni0AA5_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AA7_uni0AB0_uni0ACD.blwf.vatu \uni0AA8_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AAA_uni0AB0_uni0ACD.blwf.vatu \uni0AAC_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AAD_uni0AB0_uni0ACD.blwf.vatu \uni0AAE_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AB8_uni0AB0_uni0ACD.blwf.vatu \uni0AB5_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AB6_uni0ACD.half_uni0AB5.pres \uni0AB6_uni0ACD.half_uni0AA8.pres 
+	\uni0AB6_uni0ACD.half_uni0A9A.pres 
+	\uni0AA6_uni0AB0_uni0ACD.blwf.vatu_uni0AC1.blws \uni0AB0_uni0ACD.rphf 
+	\uni0AB0_uni0ACD.blwf \uni0AB7_uni0ACD.half_uni0AA0.pres 
+	\uni0AB7_uni0ACD.half_uni0A9F.pres 
+	\uni0AB7_uni0ACD.half_uni0A9F_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AB7_uni0ACD.half_uni0AA0_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0A9F_uni0AB0_uni0ACD.blwf.vatu \uni0A9C_uni0ACD_uni0A9E.akhn 
+	\uni0AA1_uni0AB0_uni0ACD.blwf.vatu \uni0AA0_uni0AB0_uni0ACD.blwf.vatu 
+	\uni0AA2_uni0AB0_uni0ACD.blwf.vatu \uni0AC7_uni0A82.abvs 
+	\uni0AC7_uni0AB0_uni0ACD.rphf.abvs 
+	\uni0AC7_uni0AB0_uni0ACD.rphf_uni0A82.abvs \uni0A95_uni0ABC.nukt 
+	\uni0A96_uni0ABC.nukt \uni0A97_uni0ABC.nukt \uni0A98_uni0ABC.nukt 
+	\uni0A99_uni0ABC.nukt \uni0A9A_uni0ABC.nukt \uni0A9B_uni0ABC.nukt 
+	\uni0A9C_uni0ABC.nukt \uni0A9D_uni0ABC.nukt \uni0A9E_uni0ABC.nukt 
+	\uni0A9F_uni0ABC.nukt \uni0AA0_uni0ABC.nukt \uni0AA1_uni0ABC.nukt 
+	\uni0AA2_uni0ABC.nukt \uni0AA3_uni0ABC.nukt \uni0AA4_uni0ABC.nukt 
+	\uni0AA5_uni0ABC.nukt \uni0AA6_uni0ABC.nukt \uni0AA7_uni0ABC.nukt 
+	\uni0AA8_uni0ABC.nukt \uni0AAA_uni0ABC.nukt \uni0AAB_uni0ABC.nukt 
+	\uni0AAC_uni0ABC.nukt \uni0AAD_uni0ABC.nukt \uni0AAE_uni0ABC.nukt 
+	\uni0AAF_uni0ABC.nukt \uni0AB0_uni0ABC.nukt \uni0AB2_uni0ABC.nukt 
+	\uni0AB3_uni0ABC.nukt \uni0AB5_uni0ABC.nukt \uni0AB6_uni0ABC.nukt 
+	\uni0AB7_uni0ABC.nukt \uni0AB8_uni0ABC.nukt \uni0AB9_uni0ABC.nukt 
+	\uni0AA3_uni0ACD.half_uni0AB0_uni0ACD.vatu \uni0AA3_uni0AB0_uni0ACD.vatu 
+	\uni0A30_uni0A4D.blwf \uni0A35_uni0A4D.blwf \uni0A39_uni0A4D.blwf 
+	\uni0A2F_uni0A4D.pstf \uni0A30_uni0A4D.blwf_uni0A41.blws 
+	\uni0A39_uni0A4D.blwf_uni0A41.blws \uni0A30_uni0A4D.blwf_uni0A42.blws 
+	\uni0A39_uni0A4D.blwf_uni0A42.blws \uni0A28_uni0A42_uni0A70.abvs 
+	\uni0A3E_uni0A02.abvs \uni0A09_uni0A71.psts \uni0A0A_uni0A71.psts 
+	\uni0A13_uni0A71.psts \uni0A15_uni0A3C.nukt \uni0A18_uni0A3C.nukt 
+	\uni0A19_uni0A3C.nukt \uni0A1A_uni0A3C.nukt \uni0A1B_uni0A3C.nukt 
+	\uni0A1D_uni0A3C.nukt \uni0A1E_uni0A3C.nukt \uni0A1F_uni0A3C.nukt 
+	\uni0A20_uni0A3C.nukt \uni0A22_uni0A3C.nukt \uni0A23_uni0A3C.nukt 
+	\uni0A24_uni0A3C.nukt \uni0A25_uni0A3C.nukt \uni0A26_uni0A3C.nukt 
+	\uni0A27_uni0A3C.nukt \uni0A28_uni0A3C.nukt \uni0A2A_uni0A3C.nukt 
+	\uni0A2C_uni0A3C.nukt \uni0A2D_uni0A3C.nukt \uni0A2E_uni0A3C.nukt 
+	\uni0A2F_uni0A3C.nukt \uni0A30_uni0A3C.nukt \uni0A35_uni0A3C.nukt 
+	\uni0A39_uni0A3C.nukt \uni0A05_uni0A3C.nukt \uni0A06_uni0A3C.nukt 
+	\uni0A07_uni0A3C.nukt \uni0A08_uni0A3C.nukt \uni0A09_uni0A3C.nukt 
+	\uni0A0A_uni0A3C.nukt \uni0A0F_uni0A3C.nukt \uni0A10_uni0A3C.nukt 
+	\uni0A13_uni0A3C.nukt \uni0A14_uni0A3C.nukt \uni0A06_uni0A02.abvs 
+	\uni0A35_uni0A4D.blwf_uni0A41.blws \uni0A35_uni0A4D.blwf_uni0A42.blws 
+	\uni0A30_uni0A4D.blwf_uni0A4D.blws \uni0A39_uni0A4D.blwf_uni0A4D.blws 
+	\uni0A35_uni0A4D.blwf_uni0A4D.blws ];
+@GDEF_Mark = [\dieresis \uni02BF \gravecomb \acutecomb \uni0302 \tildecomb 
+	\uni0304 \uni0305 \uni0306 \uni0307 \diaeresiscomb \hookabovecomb \uni030A 
+	\uni030B \uni030C \uni030D \uni030E \uni030F \uni0310 \uni0311 \uni0312 \uni0313 
+	\uni0314 \uni0315 \uni0316 \uni0317 \uni0318 \uni0319 \uni031C \uni031D \uni031E 
+	\uni031F \uni0320 \dotbelowcomb \uni0324 \uni0325 \uni0326 \uni0327 \ogonekcmb 
+	\uni0329 \uni032A \uni032B \uni032C \uni032D \uni032E \uni032F \uni0330 \uni0331 
+	\uni0332 \uni0333 \uni0334 \uni0335 \uni0336 \uni0337 \uni0338 \uni0339 \uni033A 
+	\uni033B \uni033C \uni033D \uni033E \uni033F \uni0340 \uni0341 \uni0342 \uni0343 
+	\diaeresistonosnosp \uni0345 \uni0346 \uni0347 \uni0348 \uni0349 \uni034A 
+	\uni034B \uni034C \uni034D \uni034E \uni0350 \uni0351 \uni0352 \uni0353 \uni0354 
+	\uni0355 \uni0356 \uni0357 \uni0358 \uni0359 \uni035A \uni035B \uni0363 \uni0364 
+	\uni0365 \uni0366 \uni0367 \uni0368 \uni0369 \uni036A \uni036B \uni036C \uni036D 
+	\uni036E \uni036F \uni0902 \uni0904 \uni0945 \uni0946 \uni0948 \uni094D \uni0951 
+	\uni0952 \uni0953 \uni0954 \uni0955 \uni0962 \uni0963 \uni0A01 \uni0A02 \uni0A41 
+	\uni0A42 \uni0A47 \uni0A48 \uni0A4B \uni0A4C \uni0A4D \uni0A70 \uni0A71 \uni0A81 
+	\uni0A82 \uni0AC1 \uni0AC2 \uni0AC3 \uni0AC4 \uni0AC5 \uni0AC7 \uni0AC8 \uni0ACD 
+	\uni0939_uni0944.blws \glyph359 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+  LigatureCaret \uni091F_uni093C.nukt <caret -2>;
+  LigatureCaret \uni0917_uni094D.half <caret 4>;
+  LigatureCaret \glyph375 <caret 9>;
+  LigatureCaret \uni939_94D.half_932.pres <caret -2>;
+} GDEF;
+

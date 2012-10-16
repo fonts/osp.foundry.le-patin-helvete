@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_rupeesign" format="1">
+  <advance width="383"/>
+  <unicode hex="09F3"/>
+  <outline>
+    <contour>
+      <point x="56" y="548" type="line"/>
+      <point x="104" y="528"/>
+      <point x="132" y="479"/>
+      <point x="132" y="422" type="qcurve" smooth="yes"/>
+      <point x="132" y="352" type="line"/>
+      <point x="197" y="352" type="line"/>
+      <point x="197" y="301" type="line"/>
+      <point x="132" y="301" type="line"/>
+      <point x="132" y="211" type="line" smooth="yes"/>
+      <point x="132" y="164"/>
+      <point x="160" y="126"/>
+      <point x="190" y="124" type="qcurve"/>
+      <point x="237" y="124"/>
+      <point x="307" y="206"/>
+      <point x="307" y="248" type="qcurve" smooth="yes"/>
+      <point x="307" y="294"/>
+      <point x="262" y="314" type="qcurve"/>
+      <point x="306" y="348" type="line"/>
+      <point x="358" y="309"/>
+      <point x="358" y="249" type="qcurve" smooth="yes"/>
+      <point x="358" y="188"/>
+      <point x="263" y="73"/>
+      <point x="195" y="73" type="qcurve" smooth="yes"/>
+      <point x="138" y="73"/>
+      <point x="81" y="147"/>
+      <point x="81" y="235" type="qcurve" smooth="yes"/>
+      <point x="81" y="301" type="line"/>
+      <point x="-5" y="301" type="line"/>
+      <point x="-5" y="352" type="line"/>
+      <point x="81" y="352" type="line"/>
+      <point x="81" y="427" type="line" smooth="yes"/>
+      <point x="81" y="505"/>
+      <point x="32" y="510" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bn_half_jha" format="1">
+  <advance width="419"/>
+  <outline>
+    <contour>
+      <point x="20" y="391" type="line"/>
+      <point x="100" y="459"/>
+      <point x="215" y="491" type="qcurve"/>
+      <point x="215" y="507" type="line"/>
+      <point x="-18" y="507" type="line"/>
+      <point x="-18" y="558" type="line"/>
+      <point x="266" y="558" type="line"/>
+      <point x="266" y="340" type="line"/>
+      <point x="287" y="328"/>
+      <point x="327" y="281" type="qcurve"/>
+      <point x="327" y="621" type="line"/>
+      <point x="378" y="621" type="line"/>
+      <point x="378" y="558" type="line"/>
+      <point x="440" y="558" type="line"/>
+      <point x="440" y="507" type="line"/>
+      <point x="378" y="507" type="line"/>
+      <point x="378" y="200" type="line"/>
+      <point x="327" y="200" type="line"/>
+      <point x="327" y="218" type="line"/>
+      <point x="315" y="239"/>
+      <point x="292" y="261"/>
+      <point x="266" y="277" type="qcurve"/>
+      <point x="266" y="160" type="line"/>
+      <point x="215" y="160" type="line"/>
+      <point x="215" y="223" type="line"/>
+      <point x="199" y="257"/>
+      <point x="91" y="340"/>
+      <point x="39" y="340" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="215" y="439" type="line"/>
+      <point x="196" y="437"/>
+      <point x="103" y="393"/>
+      <point x="90" y="380" type="qcurve"/>
+      <point x="183" y="360"/>
+      <point x="215" y="298" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

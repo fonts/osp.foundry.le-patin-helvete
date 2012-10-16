@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="follows" format="1">
+  <advance width="584"/>
+  <unicode hex="227B"/>
+  <outline>
+    <component base="precedes" xScale="-0,999939" yScale="-0,999939" xOffset="579" yOffset="465"/>
+  </outline>
+</glyph>

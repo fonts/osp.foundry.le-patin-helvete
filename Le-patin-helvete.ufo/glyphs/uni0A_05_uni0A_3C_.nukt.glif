@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0A05_uni0A3C.nukt" format="1">
+  <advance width="858"/>
+  <outline>
+    <component base="uni0A05"/>
+    <component base="uni0A3C" xOffset="303" yOffset="160"/>
+  </outline>
+</glyph>

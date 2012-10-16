@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDA" format="1">
+  <advance width="500"/>
+  <unicode hex="1FDA"/>
+  <outline>
+    <contour>
+      <point x="143" y="741" type="line"/>
+      <point x="239" y="593" type="line"/>
+      <point x="179" y="593" type="line"/>
+      <point x="30" y="741" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="81" type="line"/>
+      <point x="596" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="502" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="729" type="line"/>
+      <point x="596" y="648" type="line"/>
+      <point x="502" y="648" type="line"/>
+      <point x="502" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="81" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="314" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="729" type="line"/>
+      <point x="408" y="648" type="line"/>
+      <point x="314" y="648" type="line"/>
+      <point x="314" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="502" y="729" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="729" type="line"/>
+    </contour>
+  </outline>
+</glyph>

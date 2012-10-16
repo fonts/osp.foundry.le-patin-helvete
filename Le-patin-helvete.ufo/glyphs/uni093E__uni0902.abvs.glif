@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093E_uni0902.abvs" format="1">
+  <advance width="211"/>
+  <outline>
+    <contour>
+      <point x="192" y="761" type="line"/>
+      <point x="101" y="669" type="line"/>
+      <point x="17" y="753" type="line"/>
+      <point x="107" y="845" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="541" type="line"/>
+      <point x="142" y="541" type="line"/>
+      <point x="142" y="1" type="line"/>
+      <point x="70" y="1" type="line"/>
+      <point x="70" y="541" type="line"/>
+      <point x="-7" y="541" type="line"/>
+      <point x="-7" y="613" type="line"/>
+      <point x="219" y="613" type="line"/>
+    </contour>
+  </outline>
+</glyph>

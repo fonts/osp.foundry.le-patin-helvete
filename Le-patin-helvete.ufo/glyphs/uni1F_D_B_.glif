@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDB" format="1">
+  <advance width="500"/>
+  <unicode hex="1FDB"/>
+  <outline>
+    <contour>
+      <point x="122" y="741" type="line"/>
+      <point x="235" y="741" type="line"/>
+      <point x="86" y="593" type="line"/>
+      <point x="26" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="81" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="606" y="729" type="line"/>
+      <point x="606" y="648" type="line"/>
+      <point x="512" y="648" type="line"/>
+      <point x="512" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="81" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="81" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="729" type="line"/>
+      <point x="418" y="648" type="line"/>
+      <point x="324" y="648" type="line"/>
+      <point x="324" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="729" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="418" y="729" type="line"/>
+    </contour>
+  </outline>
+</glyph>
